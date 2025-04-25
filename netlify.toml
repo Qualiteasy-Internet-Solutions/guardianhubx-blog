@@ -3,4 +3,4 @@
   command = "git submodule update --init --recursive && hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.121.0"
+  HUGO_VERSION = "0.146.0"
