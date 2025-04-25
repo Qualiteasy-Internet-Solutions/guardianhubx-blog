@@ -6,14 +6,14 @@
     <description>Recent content in Blogs on GuardianHubX Blog</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bienvenida al nuevo blog de GuardianHubX</title>
-      <link>http://localhost:1313/blog/bienvenida/</link>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/bienvenida/</guid>
-      <description>&lt;p&gt;Aquí compartiremos noticias sobre ciberseguridad, novedades de GuardianHubX y mucho más.&lt;/p&gt;</description>
+      <title>La creciente amenaza de los ciberataques en España: claves para una ciberresiliencia efectiva</title>
+      <link>http://localhost:1313/blog/ciberataques-espana-ciberresiliencia/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/ciberataques-espana-ciberresiliencia/</guid>
+      <description>Análisis de los principales vectores de ataque que afectan a las empresas españolas y estrategias para fortalecer su ciberresiliencia.</description>
     </item>
   </channel>
 </rss>
