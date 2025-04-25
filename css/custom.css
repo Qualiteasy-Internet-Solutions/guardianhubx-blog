@@ -1,0 +1,41 @@
+/* --- GuardianHubX Custom Styles --- */
+
+/* Cambiar fuente a Poppins */
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #3C4B57;
+}
+
+/* Colores de enlaces */
+a, a:visited {
+  color: #00ADEF;
+}
+
+a:hover {
+  color: #008ecf;
+  text-decoration: underline;
+}
+
+/* Estilo de cabecera */
+header#site-header {
+  background-color: #ffffff;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Botones */
+button, .button, .btn {
+  background-color: #00ADEF;
+  color: #ffffff;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+}
+
+button:hover, .button:hover, .btn:hover {
+  background-color: #008ecf;
+}
+
+/* Pequeñas mejoras */
+blockquote {
+  border-left: 4px solid #00ADEF;
+  padding-left: 1rem;
+}
