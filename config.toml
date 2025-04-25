@@ -3,3 +3,6 @@ languageCode = "es-es"
 title = "GuardianHubX Blog"
 theme = "PaperMod"
 publishDir = "public"
+canonifyURLs = true
+relativeURLs = false
+uglyURLs = false
