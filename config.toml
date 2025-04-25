@@ -1,1 +1,5 @@
+baseURL = "https://guardianhubx.netlify.app/"
+languageCode = "es-es"
+title = "GuardianHubX Blog"
 theme = "PaperMod"
+
