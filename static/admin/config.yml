@@ -3,6 +3,7 @@ backend:
   repo: Qualiteasy-Internet-Solutions/guardianhubx-blog
   branch: main
   auth_scope: repo
+  base_url: https://decap-oauth.netlify.app
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
