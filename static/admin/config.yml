@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: Qualiteasy-Internet-Solutions/guardianhubx-blog
+  name: git-gateway
   branch: main
-  auth_scope: repo
-  base_url: https://decap-oauth.netlify.app
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
