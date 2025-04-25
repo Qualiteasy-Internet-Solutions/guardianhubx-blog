@@ -1,8 +1,0 @@
-{
-  "backend": {
-    "name": "github",
-    "repo": "Qualiteasy-Internet-Solutions/guardianhubx-blog",
-    "branch": "main",
-    "auth_scope": "repo"
-  }
-}
