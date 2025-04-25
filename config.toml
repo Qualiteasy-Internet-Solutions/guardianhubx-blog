@@ -1,5 +1,5 @@
-baseURL = "https://guardianhubx.netlify.app/"
+baseURL = "https://blog.guardianhubx.com/"
 languageCode = "es-es"
 title = "GuardianHubX Blog"
 theme = "PaperMod"
-
+publishDir = "public"
