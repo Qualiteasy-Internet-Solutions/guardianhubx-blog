@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Qualiteasy-Internet-Solutions/guardianhubx-blog
   branch: main
 
 media_folder: "static/uploads"
