@@ -6,15 +6,17 @@ on:
       - main
 
 permissions:
-  contents: write  # 👈 Necesario para hacer push a gh-pages
+  contents: write  # Necesario para hacer push a gh-pages
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main branch
+      - name: Checkout main branch (con submódulos)
         uses: actions/checkout@v3
+        with:
+          submodules: true  # 👈 AQUÍ debe ir
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -28,7 +30,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          submodules: true 
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
