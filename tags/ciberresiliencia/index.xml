@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ciberresiliencia on GuardianHubX Blog</title>
+    <title>Ciberresiliencia on GuardianHubX Blog</title>
     <link>https://blog.guardianhubx.com/tags/ciberresiliencia/</link>
-    <description>Recent content in ciberresiliencia on GuardianHubX Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ciberresiliencia on GuardianHubX Blog</description>
+    <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.guardianhubx.com/tags/ciberresiliencia/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://blog.guardianhubx.com/blog/ciberataques-espana-ciberresiliencia/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.guardianhubx.com/blog/ciberataques-espana-ciberresiliencia/</guid>
-      <description>En los últimos meses, las empresas españolas han sido blanco de ciberataques cada vez más sofisticados, evidenciando la vulnerabilidad de múltiples sectores ante las amenazas digitales. Estos incidentes han comprometido datos sensibles, interrumpido operaciones críticas y generado un impacto económico significativo. A pesar de los esfuerzos por reforzar la seguridad, los ciberdelincuentes continúan explotando vulnerabilidades en infraestructuras tecnológicas y cadenas de suministro, utilizando tácticas como el ransomware, el phishing y la explotación de proveedores externos.</description>
+      <description>Análisis de los principales vectores de ataque que afectan a las empresas españolas y estrategias para fortalecer su ciberresiliencia.</description>
     </item>
   </channel>
 </rss>

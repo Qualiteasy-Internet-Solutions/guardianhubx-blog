@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on GuardianHubX Blog</title>
     <link>https://blog.guardianhubx.com/tags/</link>
     <description>Recent content in Tags on GuardianHubX Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.guardianhubx.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ciberataques</title>
+      <title>Ciberataques</title>
       <link>https://blog.guardianhubx.com/tags/ciberataques/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.guardianhubx.com/tags/ciberataques/</guid>
       <description></description>
     </item>
     <item>
-      <title>ciberresiliencia</title>
+      <title>Ciberresiliencia</title>
       <link>https://blog.guardianhubx.com/tags/ciberresiliencia/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.guardianhubx.com/tags/ciberresiliencia/</guid>
       <description></description>
     </item>
     <item>
-      <title>phishing</title>
+      <title>Phishing</title>
       <link>https://blog.guardianhubx.com/tags/phishing/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.guardianhubx.com/tags/phishing/</guid>
       <description></description>
     </item>
     <item>
-      <title>ransomware</title>
+      <title>Ransomware</title>
       <link>https://blog.guardianhubx.com/tags/ransomware/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.guardianhubx.com/tags/ransomware/</guid>
       <description></description>
     </item>
     <item>
-      <title>zero trust</title>
+      <title>Zero Trust</title>
       <link>https://blog.guardianhubx.com/tags/zero-trust/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.guardianhubx.com/tags/zero-trust/</guid>
