@@ -7,7 +7,7 @@ categories: ["Ciberseguridad"]
 tags: ["ciberataques", "ciberresiliencia", "ransomware", "phishing", "zero trust"]
 description: "Análisis de los principales vectores de ataque que afectan a las empresas españolas y estrategias para fortalecer su ciberresiliencia."
 cover:
-  image: "/uploads/ciberataques-espana.jpg"
+  image: "/uploads/ataque-empresas.webp"
   alt: "Imagen ilustrativa sobre ciberataques en España"
   caption: "Fuente: esdeploy.com"
 ---
