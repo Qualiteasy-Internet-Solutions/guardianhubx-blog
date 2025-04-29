@@ -1,17 +1,18 @@
 baseURL = "https://guardianhubx.com/blog/"
-relativeURLs = false
-canonifyURLs = true
+#relativeURLs = false
+#canonifyURLs = true
 languageCode = "es-es"
 title = "GuardianHubX Blog"
 theme = "PaperMod"
 publishDir = "public"
 uglyURLs = false
+paginate   = 10
 
 [params]
   env = "production"
-  defaultTheme = "light" # Fondo blanco
+  defaultTheme = "light"
   showReadingTime = true
-  disableThemeToggle = true # No permitir cambiar a modo oscuro
+  disableThemeToggle = true
   mainSections = ["blog"]
 
 [params.assets]
