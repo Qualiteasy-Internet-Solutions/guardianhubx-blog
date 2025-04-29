@@ -1,7 +1,9 @@
 baseURL       = "https://guardianhubx.com/blog/"
 relativeURLs  = true
 canonifyURLs  = false
-paginatePath  = "page"
+
+[pagination]
+  path = "page"
 
 languageCode  = "es-es"
 title         = "GuardianHubX Blog"
@@ -11,9 +13,9 @@ uglyURLs      = false
 
 [params]
   env                 = "production"
-  defaultTheme        = "light"    # Fondo blanco
+  defaultTheme        = "light"
   showReadingTime     = true
-  disableThemeToggle  = true       # No permitir cambiar a modo oscuro
+  disableThemeToggle  = true
   mainSections        = ["blog"]
 
 [params.assets]
