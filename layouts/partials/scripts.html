@@ -1,0 +1,11 @@
+{{- /* === inicio del contenido original de PaperMod/scripts.html === */ -}}
+{{ with .Site.Params.assets.customJS }}
+  {{ range . }}
+    <script src="{{ . }}"></script>
+  {{ end }}
+{{ end }}
+{{- /* === fin del contenido original de PaperMod/scripts.html === */ -}}
+
+<!--  Aquí inyectamos jQuery + loader  -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="{{ "js/load-common.js" | absURL }}"></script>
