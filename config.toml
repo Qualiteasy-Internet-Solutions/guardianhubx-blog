@@ -1,6 +1,8 @@
 baseURL = "https://guardianhubx.com/blog/"
 relativeURLs = false
 canonifyURLs = true
+defaultContentLanguage    = "es"
+defaultContentLanguageInSubdir = false
 languageCode = "es-es"
 title = "GuardianHubX Blog"
 theme = "PaperMod"
