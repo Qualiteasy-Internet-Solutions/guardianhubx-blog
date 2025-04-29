@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Formación on GuardianHubX Blog</title>
+    <title>Formación on </title>
     <link>https://guardianhubx.com/blog/tags/formaci%C3%B3n/</link>
-    <description>Recent content in Formación on GuardianHubX Blog</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>es-es</language>
+    <description>Recent content in Formación on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guardianhubx.com/blog/tags/formaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,8 +13,7 @@
       <link>https://guardianhubx.com/blog/blog/2024-11-13-se-el-mejor-profesor-posible/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://guardianhubx.com/blog/blog/2024-11-13-se-el-mejor-profesor-posible/</guid>
-      <description>&lt;p&gt;¿Recuerdas a tu mejor profesor de la escuela? ¿Y al peor? Quizás tu favorito tenía una habilidad especial para gestionar el aula y captar tu atención, mientras que el otro simplemente… no. Ahora, como docente, seguro que buscas ser esa figura que inspira a sus estudiantes, y con un poco de ayuda de la tecnología, ¡es más fácil que nunca!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Faronics Insight&lt;/strong&gt; está diseñado para ayudarte a ser el mejor profesor posible. Con herramientas que te ofrecen un control total y una visibilidad completa del aula, podrás captar y mantener la atención de los estudiantes, darles feedback al instante, promover la colaboración y realizar evaluaciones precisas. Con Insight, enseñar y conectar con los estudiantes se vuelve más eficiente y dinámico.&lt;/p&gt;</description>
+      <description>&lt;p&gt;¿Recuerdas a tu mejor profesor de la escuela? ¿Y al peor? Quizás tu favorito tenía una habilidad especial para gestionar el aula y captar tu atención, mientras que el otro simplemente… no. Ahora, como docente, seguro que buscas ser esa figura que inspira a sus estudiantes, y con un poco de ayuda de la tecnología, ¡es más fácil que nunca!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Faronics Insight&lt;/strong&gt; está diseñado para ayudarte a ser el mejor profesor posible. Con herramientas que te ofrecen un control total y una visibilidad completa del aula, podrás captar y mantener la atención de los estudiantes, darles feedback al instante, promover la colaboración y realizar evaluaciones precisas. Con Insight, enseñar y conectar con los estudiantes se vuelve más eficiente y dinámico.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
