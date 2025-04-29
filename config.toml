@@ -2,6 +2,9 @@ baseURL = "https://guardianhubx.com/blog/"
 relativeURLs = false
 canonifyURLs = true
 
+[pagination]
+  path = "page"
+
 languageCode = "es-es"
 title = "GuardianHubX Blog"
 theme = "PaperMod"
