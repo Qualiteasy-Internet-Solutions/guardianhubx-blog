@@ -1,16 +1,26 @@
 ---
-title: "La creciente amenaza de los ciberataques en España: claves para una ciberresiliencia efectiva"
-date: 2025-03-24
-slug: "ciberataques-espana-ciberresiliencia"
-author: "Qualiteasy"
-categories: ["Ciberseguridad"]
-tags: ["ciberataques", "ciberresiliencia", "ransomware", "phishing", "zero trust"]
-description: "Análisis de los principales vectores de ataque que afectan a las empresas españolas y estrategias para fortalecer su ciberresiliencia."
+author: Qualiteasy
+categories:
+- Cybersecurity
 cover:
-  image: "/uploads/ataque-empresas.webp"
-  alt: "Imagen ilustrativa sobre ciberataques en España"
-  caption: "Fuente: esdeploy.com"
+  alt: Imagen ilustrativa sobre ciberataques en España
+  caption: 'Fuente: esdeploy.com'
+  image: /uploads/ataque-empresas.webp
+date: '2025-03-24T00:00:00+00:00'
+description: Análisis de los principales vectores de ataque que afectan a las empresas
+  españolas y estrategias para fortalecer su ciberresiliencia.
+slug: ciberataques-espana-ciberresiliencia
+tags:
+- ciberataques
+- ciberresiliencia
+- ransomware
+- phishing
+- IT
+- Cybersecurity
+title: 'La creciente amenaza de los ciberataques en España: claves para una ciberresiliencia
+  efectiva'
 ---
+
 
 En los últimos meses, las empresas españolas han sido blanco de ciberataques cada vez más sofisticados, evidenciando la vulnerabilidad de múltiples sectores ante las amenazas digitales. Estos incidentes han comprometido datos sensibles, interrumpido operaciones críticas y generado un impacto económico significativo. A pesar de los esfuerzos por reforzar la seguridad, los ciberdelincuentes continúan explotando vulnerabilidades en infraestructuras tecnológicas y cadenas de suministro, utilizando tácticas como el ransomware, el phishing y la explotación de proveedores externos.
 

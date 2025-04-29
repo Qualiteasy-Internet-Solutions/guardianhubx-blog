@@ -12,6 +12,7 @@ uglyURLs = false
   defaultTheme = "light" # Fondo blanco
   showReadingTime = true
   disableThemeToggle = true # No permitir cambiar a modo oscuro
+  mainSections = ["blog"]
 
 [params.assets]
   disableFingerprinting = true
