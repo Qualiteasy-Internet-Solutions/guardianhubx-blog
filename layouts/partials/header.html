@@ -26,15 +26,33 @@ crossorigin="anonymous"
 
 <link href="https://guardianhubx.com/style.css" rel="stylesheet">
 
-<!-- 2. El CSS de PaperMod -->
 <link crossorigin="anonymous" href="{{ "assets/css/stylesheet.css" | relURL }}" rel="preload stylesheet" as="style">
 
-<!-- 3. Tu CSS personalizado -->
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+<div class="clearfix bg-primary px-3 pt-2 pb-2">
+  <div class="d-flex flex-column flex-sm-row text-white">
+    <div class="me-sm-3 mb-2 mb-sm-0">
+      <i class="fa fa-phone me-2"></i> 
+      <a href="tel:+34934153115" class="text-white text-decoration-none">+34 93 415 31 15</a>
+    </div>
+    <div class="me-sm-3 mb-2 mb-sm-0">
+      <i class="fa fa-envelope me-2"></i> 
+      <a href="mailto:info@guardianhubx.com" class="text-white text-decoration-none">info@guardianhubx.com</a>
+    </div>    
+    <div>
+      <i class="fa-brands fa-tiktok"></i>
+      <a href="https://www.tiktok.com/@guardianhubx"  class="text-white text-decoration-none" target="_blank">GuardianHubX</a>
+    </div>
+    <div>
+      <i class="fa fa-blog me-2"></i>
+      <a href="blog/"  class="text-white text-decoration-none">News / Blog</a>
+    </div>
+</div>
+
+
 <header class="container-fluid bg-light py-3 px-5">
     <div class="d-flex flex-column flex-md-row align-items-center justify-content-between w-100">
-  
-      <!-- Logo enlazando al home principal -->
+        
       <div class="text-center text-md-start mb-3 mb-md-0">
         <a href="https://guardianhubx.com/">
           <img src="{{ "https://guardianhubx.com/img/logo_GHX_01-01.png" | relURL }}"
@@ -42,8 +60,7 @@ crossorigin="anonymous"
                class="logo">
         </a>
       </div>
-  
-      <!-- Banner con enlace a test.guardianhubx.com -->
+        
       <div class="text-center">
         <a href="https://test.guardianhubx.com" target="_blank">
           <img src="{{ "https://guardianhubx.com/img/cuestionario.gif" | relURL }}"
@@ -58,15 +75,12 @@ crossorigin="anonymous"
   {{/* layouts/partials/breadcrumbs.html */}}
   <nav aria-label="breadcrumb" class="my-3">
     <ol class="breadcrumb mb-0">
-      <!-- 1. Enlace al home principal -->
       <li class="breadcrumb-item">
         GuardianHubX
-      </li>
-      <!-- 2. Enlace siempre al listado del blog -->
+      </li>      
       <li class="breadcrumb-item">
         <a href="{{ "/blog/" | relLangURL }}">Blog</a>
-      </li>
-      <!-- 3. Si no estamos en la portada del blog, mostramos el título de la entrada -->
+      </li>      
       {{ if not .IsHome }}
       <li class="breadcrumb-item active" aria-current="page">
         {{ .Title }}
