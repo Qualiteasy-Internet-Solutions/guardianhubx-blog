@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cumplimiento on GuardianHubX Blog</title>
+    <title>Cumplimiento on </title>
     <link>https://guardianhubx.com/blog/tags/cumplimiento/</link>
-    <description>Recent content in Cumplimiento on GuardianHubX Blog</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>es-es</language>
+    <description>Recent content in Cumplimiento on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guardianhubx.com/blog/tags/cumplimiento/index.xml" rel="self" type="application/rss+xml" />
     <item>

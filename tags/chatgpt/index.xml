@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ChatGPT on GuardianHubX Blog</title>
+    <title>ChatGPT on </title>
     <link>https://guardianhubx.com/blog/tags/chatgpt/</link>
-    <description>Recent content in ChatGPT on GuardianHubX Blog</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>es-es</language>
+    <description>Recent content in ChatGPT on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guardianhubx.com/blog/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,11 +13,7 @@
       <link>https://guardianhubx.com/blog/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://guardianhubx.com/blog/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</guid>
-      <description>&lt;p&gt;Cómo ChatGPT puede asistir a un administrador de sistemas en relación con el uso de «Faronics Deploy», un producto de gestión de TI. Faronics Deploy se utiliza para automatizar la implementación de software, actualizaciones y tareas de mantenimiento en redes de computadoras.&lt;/p&gt;
-&lt;p&gt;Aquí te explico cómo ChatGPT puede ayudar en cada uno de los aspectos mencionados, enlazándolo con Faronics Deploy:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Solución de Problemas&lt;/strong&gt;: Si encuentras problemas con Faronics Deploy, como errores en la implementación o problemas de configuración, ChatGPT puede ofrecer consejos generales basados en síntomas comunes o errores reportados.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cómo ChatGPT puede asistir a un administrador de sistemas en relación con el uso de «Faronics Deploy», un producto de gestión de TI. Faronics Deploy se utiliza para automatizar la implementación de software, actualizaciones y tareas de mantenimiento en redes de computadoras.&lt;/p&gt;&#xA;&lt;p&gt;Aquí te explico cómo ChatGPT puede ayudar en cada uno de los aspectos mencionados, enlazándolo con Faronics Deploy:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Solución de Problemas&lt;/strong&gt;: Si encuentras problemas con Faronics Deploy, como errores en la implementación o problemas de configuración, ChatGPT puede ofrecer consejos generales basados en síntomas comunes o errores reportados.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

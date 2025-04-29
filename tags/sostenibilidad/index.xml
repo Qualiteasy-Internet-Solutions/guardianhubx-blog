@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sostenibilidad on GuardianHubX Blog</title>
+    <title>Sostenibilidad on </title>
     <link>https://guardianhubx.com/blog/tags/sostenibilidad/</link>
-    <description>Recent content in Sostenibilidad on GuardianHubX Blog</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>es-es</language>
+    <description>Recent content in Sostenibilidad on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guardianhubx.com/blog/tags/sostenibilidad/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>https://guardianhubx.com/blog/blog/20231202-sostenibilidad-tecnolog%C3%ADa-powersave/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://guardianhubx.com/blog/blog/20231202-sostenibilidad-tecnolog%C3%ADa-powersave/</guid>
-      <description>Sostenibilidad y Tecnología con Power Save: El Compromiso Verde de las soluciones de Faronics.</description>
+      <description>&lt;h4 id=&#34;introducción&#34;&gt;&lt;strong&gt;Introducción&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;En un mundo donde la sostenibilidad es clave, Faronics lidera con el ejemplo a través de su solución integrada Power Save, una característica central en nuestros productos Deploy y soluciones de Ciberseguridad. Esta innovación refleja nuestro compromiso con prácticas tecnológicas sostenibles y eficientes.&lt;/p&gt;&#xA;&lt;h4 id=&#34;tecnología-al-servicio-del-medio-ambiente&#34;&gt;&lt;strong&gt;Tecnología al Servicio del Medio Ambiente&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;La integración de Power Save en nuestras soluciones representa nuestra visión de una tecnología que beneficia tanto a los negocios como al planeta. En Faronics, creemos que la sostenibilidad comienza con decisiones inteligentes en la gestión de IT.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

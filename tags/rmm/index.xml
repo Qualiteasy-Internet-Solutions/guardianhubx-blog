@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RMM on GuardianHubX Blog</title>
+    <title>RMM on </title>
     <link>https://guardianhubx.com/blog/tags/rmm/</link>
-    <description>Recent content in RMM on GuardianHubX Blog</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>es-es</language>
+    <description>Recent content in RMM on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guardianhubx.com/blog/tags/rmm/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,14 +13,7 @@
       <link>https://guardianhubx.com/blog/blog/2023-09-09/</link>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://guardianhubx.com/blog/blog/2023-09-09/</guid>
-      <description>&lt;p&gt;Las diferencias principales entre un Remote Desktop Management (RDM) y un Remote Monitoring and Management (RMM) se centran en sus funciones y objetivos:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Remote Desktop Management (RDM):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Acceso Remoto&lt;/strong&gt;: El RDM se centra en proporcionar acceso remoto a computadoras o sistemas específicos. Su objetivo principal es permitir a los administradores o usuarios acceder y controlar una computadora de forma remota, generalmente para fines de soporte técnico o administración.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Control de Computadora Específica&lt;/strong&gt;: El RDM se utiliza para tomar el control de una computadora o dispositivo específico, lo que permite realizar tareas como solucionar problemas, realizar mantenimiento, configurar software o acceder a archivos en esa computadora en particular.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Las diferencias principales entre un Remote Desktop Management (RDM) y un Remote Monitoring and Management (RMM) se centran en sus funciones y objetivos:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Remote Desktop Management (RDM):&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Acceso Remoto&lt;/strong&gt;: El RDM se centra en proporcionar acceso remoto a computadoras o sistemas específicos. Su objetivo principal es permitir a los administradores o usuarios acceder y controlar una computadora de forma remota, generalmente para fines de soporte técnico o administración.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Control de Computadora Específica&lt;/strong&gt;: El RDM se utiliza para tomar el control de una computadora o dispositivo específico, lo que permite realizar tareas como solucionar problemas, realizar mantenimiento, configurar software o acceder a archivos en esa computadora en particular.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
