@@ -6,7 +6,8 @@ title = "GuardianHubX Blog"
 theme = "PaperMod"
 publishDir = "public"
 uglyURLs = false
-paginate   = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   env = "production"
