@@ -9,7 +9,8 @@ publishDir    = "public"
 uglyURLs      = false
 
 [pagination]
-  path        = "blog/page/"
+  pagerSize = 10
+  path      = "blog/page"
 
 # Genera URL /blog/:slug/ para todos los contenidos en content/blog
 [permalinks]
