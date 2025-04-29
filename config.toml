@@ -1,22 +1,11 @@
 baseURL = "https://guardianhubx.com/blog/"
 relativeURLs = false
 canonifyURLs = true
-defaultContentLanguage    = "es"
-defaultContentLanguageInSubdir = false
 languageCode = "es-es"
 title = "GuardianHubX Blog"
 theme = "PaperMod"
 publishDir = "public"
 uglyURLs = false
-
-[languages]
-  [languages.es]
-    languageName = "Español"
-    weight       = 1
-
-    [languages.es.pagination]
-      pagerSize = 10
-      path      = "blog/page"
 
 [params]
   env = "production"
