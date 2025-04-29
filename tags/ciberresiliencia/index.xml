@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ciberresiliencia on </title>
+    <title>Ciberresiliencia on GuardianHubX Blog</title>
     <link>https://guardianhubx.com/blog/tags/ciberresiliencia/</link>
-    <description>Recent content in Ciberresiliencia on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
+    <description>Recent content in Ciberresiliencia on GuardianHubX Blog</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es</language>
     <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guardianhubx.com/blog/tags/ciberresiliencia/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,14 +13,16 @@
       <link>https://guardianhubx.com/blog/blog/ciberataques-espana-ciberresiliencia/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://guardianhubx.com/blog/blog/ciberataques-espana-ciberresiliencia/</guid>
-      <description>&lt;p&gt;En los últimos meses, las empresas españolas han sido blanco de ciberataques cada vez más sofisticados, evidenciando la vulnerabilidad de múltiples sectores ante las amenazas digitales. Estos incidentes han comprometido datos sensibles, interrumpido operaciones críticas y generado un impacto económico significativo. A pesar de los esfuerzos por reforzar la seguridad, los ciberdelincuentes continúan explotando vulnerabilidades en infraestructuras tecnológicas y cadenas de suministro, utilizando tácticas como el ransomware, el phishing y la explotación de proveedores externos.&lt;/p&gt;</description>
+      <description>Análisis de los principales vectores de ataque que afectan a las empresas españolas y estrategias para fortalecer su ciberresiliencia.</description>
     </item>
     <item>
       <title>Guía rápida para entender los términos clave en ataques de ciberseguridad</title>
       <link>https://guardianhubx.com/blog/blog/guia-rapida-terminos-ciberseguridad/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://guardianhubx.com/blog/blog/guia-rapida-terminos-ciberseguridad/</guid>
-      <description>&lt;p&gt;En el mundo digital, cada día escuchamos más sobre ciberataques y ciberseguridad. Con la creciente cantidad de información, es importante estar familiarizado con los términos y conceptos clave. En esta guía, exploraremos algunos de los términos más importantes para entender los ataques de ciberseguridad y cómo protegernos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-ciberataque&#34;&gt;&lt;strong&gt;1. Ciberataque&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Un ciberataque es cualquier intento malicioso de acceder, dañar o interrumpir sistemas de información, redes o dispositivos. Estos ataques pueden tener como objetivo la obtención de datos confidenciales, la interrupción de operaciones o la extorsión.&lt;/p&gt;</description>
+      <description>&lt;p&gt;En el mundo digital, cada día escuchamos más sobre ciberataques y ciberseguridad. Con la creciente cantidad de información, es importante estar familiarizado con los términos y conceptos clave. En esta guía, exploraremos algunos de los términos más importantes para entender los ataques de ciberseguridad y cómo protegernos.&lt;/p&gt;
+&lt;h2 id=&#34;1-ciberataque&#34;&gt;&lt;strong&gt;1. Ciberataque&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Un ciberataque es cualquier intento malicioso de acceder, dañar o interrumpir sistemas de información, redes o dispositivos. Estos ataques pueden tener como objetivo la obtención de datos confidenciales, la interrupción de operaciones o la extorsión.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Endpoint on </title>
+    <title>Endpoint on GuardianHubX Blog</title>
     <link>https://guardianhubx.com/blog/tags/endpoint/</link>
-    <description>Recent content in Endpoint on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
+    <description>Recent content in Endpoint on GuardianHubX Blog</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es</language>
     <lastBuildDate>Wed, 01 Nov 2023 11:12:15 +0000</lastBuildDate>
     <atom:link href="https://guardianhubx.com/blog/tags/endpoint/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>https://guardianhubx.com/blog/blog/como-mejorar-la-seguridad-de-ti/</link>
       <pubDate>Wed, 01 Nov 2023 11:12:15 +0000</pubDate>
       <guid>https://guardianhubx.com/blog/blog/como-mejorar-la-seguridad-de-ti/</guid>
-      <description>&lt;p&gt;La ciberseguridad ha dejado de ser una palabra de moda y se ha convertido en una necesidad para empresas de todos los tamaños. Tanto si se trata de una pequeña startup como de una mediana empresa, proteger los preciados datos de las ciberamenazas debería ser una prioridad absoluta. Pero ¿por dónde empezar? ¿Cómo se puede mejorar la seguridad de TI y garantizar que una empresa permanezca a salvo de los ciberataques? Adentrémonos en el mundo de la ciberseguridad y exploremos algunas soluciones prácticas.&lt;/p&gt;</description>
+      <description>Guía práctica para pequeñas y medianas empresas para reforzar su seguridad informática frente a ciberamenazas actuales.</description>
     </item>
   </channel>
 </rss>
