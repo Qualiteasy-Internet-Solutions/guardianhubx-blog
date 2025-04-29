@@ -1,6 +1,6 @@
-baseURL = "https://guardianhubx.com/blog/"
-#relativeURLs = false
-#canonifyURLs = true
+baseURL = "https://guardianhubx.com/"
+relativeURLs = false
+canonifyURLs = true
 languageCode = "es-es"
 title = "GuardianHubX Blog"
 theme = "PaperMod"
