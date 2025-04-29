@@ -9,10 +9,31 @@
     <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.guardianhubx.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ciberseguridad</title>
-      <link>https://blog.guardianhubx.com/categories/ciberseguridad/</link>
+      <title>Cybersecurity</title>
+      <link>https://blog.guardianhubx.com/categories/cybersecurity/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.guardianhubx.com/categories/ciberseguridad/</guid>
+      <guid>https://blog.guardianhubx.com/categories/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>https://blog.guardianhubx.com/categories/education/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.guardianhubx.com/categories/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy</title>
+      <link>https://blog.guardianhubx.com/categories/energy/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.guardianhubx.com/categories/energy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IT</title>
+      <link>https://blog.guardianhubx.com/categories/it/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.guardianhubx.com/categories/it/</guid>
       <description></description>
     </item>
   </channel>
