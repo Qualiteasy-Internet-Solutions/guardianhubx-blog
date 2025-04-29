@@ -16,7 +16,7 @@ uglyURLs = false
 
     [languages.es.pagination]
       pagerSize = 10
-      path      = "page"
+      path      = "blog/page"
 
 [params]
   env = "production"
