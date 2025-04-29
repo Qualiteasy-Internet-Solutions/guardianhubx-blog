@@ -1,0 +1,76 @@
+<!-- Google Tag Manager -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5645NETV0G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5645NETV0G');
+</script>
+
+<!-- RSS -->
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title="GuardianHubX Blog RSS"
+  href="/blog/index.xml" />
+
+<!-- Cookiebot -->
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="bf39c032-5ccc-4753-b2b0-e9fb087679ae" type="text/javascript" async></script>
+
+<link
+href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+rel="stylesheet"
+integrity="sha384-…tu-integrity…"
+crossorigin="anonymous"
+>
+
+<link href="https://guardianhubx.com/style.css" rel="stylesheet">
+
+<!-- 2. El CSS de PaperMod -->
+<link crossorigin="anonymous" href="{{ "assets/css/stylesheet.css" | relURL }}" rel="preload stylesheet" as="style">
+
+<!-- 3. Tu CSS personalizado -->
+<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+<header class="container-fluid bg-light py-3 px-5">
+    <div class="d-flex flex-column flex-md-row align-items-center justify-content-between w-100">
+  
+      <!-- Logo enlazando al home principal -->
+      <div class="text-center text-md-start mb-3 mb-md-0">
+        <a href="https://guardianhubx.com/">
+          <img src="{{ "https://guardianhubx.com/img/logo_GHX_01-01.png" | relURL }}"
+               alt="{{ .Site.Title }} – Advanced Cybersecurity Solutions"
+               class="logo">
+        </a>
+      </div>
+  
+      <!-- Banner con enlace a test.guardianhubx.com -->
+      <div class="text-center">
+        <a href="https://test.guardianhubx.com" target="_blank">
+          <img src="{{ "https://guardianhubx.com/img/cuestionario.gif" | relURL }}"
+               alt="Evalúa tu nivel de ciberseguridad"
+               class="img-fluid"
+               style="max-height: 250px;">
+        </a>
+      </div>
+    </div>
+    
+  </header>
+  {{/* layouts/partials/breadcrumbs.html */}}
+  <nav aria-label="breadcrumb" class="my-3">
+    <ol class="breadcrumb mb-0">
+      <!-- 1. Enlace al home principal -->
+      <li class="breadcrumb-item">
+        GuardianHubX
+      </li>
+      <!-- 2. Enlace siempre al listado del blog -->
+      <li class="breadcrumb-item">
+        <a href="{{ "/blog/" | relLangURL }}">Blog</a>
+      </li>
+      <!-- 3. Si no estamos en la portada del blog, mostramos el título de la entrada -->
+      {{ if not .IsHome }}
+      <li class="breadcrumb-item active" aria-current="page">
+        {{ .Title }}
+      </li>
+      {{ end }}
+    </ol>
+  </nav>
