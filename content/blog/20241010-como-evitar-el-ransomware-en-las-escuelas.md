@@ -46,7 +46,7 @@ Las escuelas también deberían disponer de un sistema de notificación sencillo
 
 Las copias de seguridad son un salvavidas. Si el ransomware consigue infiltrarse y cuenta con un sistema de copias de seguridad sólido, no estará a merced de los piratas informáticos. Realice copias de seguridad periódicas de todos los datos importantes (expedientes de los estudiantes, notas, planes de estudio, etc.) y asegúrese de que esas copias se almacenen de forma segura y sin conexión. De este modo, si se produce un ataque, puede borrar los sistemas infectados y restaurarlo todo desde la copia de seguridad sin pagar un rescate.
 
-![](uploads/Education-Ransomware.jpg)  
+![](/blog/uploads/Education-Ransomware.jpg)  
 
 ## 4. **Limitar el acceso**
 
