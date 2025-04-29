@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>IA on </title>
+    <title>IA on GuardianHubX Blog</title>
     <link>https://guardianhubx.com/blog/tags/ia/</link>
-    <description>Recent content in IA on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
+    <description>Recent content in IA on GuardianHubX Blog</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
     <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guardianhubx.com/blog/tags/ia/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,8 @@
       <link>https://guardianhubx.com/blog/blog/2025-01-27-como-la-ia-esta-revolucionando-las-tecnicas-de-evasion-en-ciberseguridad/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://guardianhubx.com/blog/blog/2025-01-27-como-la-ia-esta-revolucionando-las-tecnicas-de-evasion-en-ciberseguridad/</guid>
-      <description>&lt;p&gt;En la guerra sin fin entre atacantes y defensores en el ámbito de la ciberseguridad, la inteligencia artificial (IA) se ha convertido en un arma de doble filo. Mientras las organizaciones la utilizan para reforzar sus defensas, los ciberatacantes han comenzado a emplearla para crear técnicas de evasión más sofisticadas que burlan incluso las medidas de seguridad más avanzadas.&lt;/p&gt;&#xA;&lt;p&gt;A continuación, exploraremos cómo la IA está redefiniendo el panorama de las amenazas cibernéticas y qué desafíos plantea para las tecnologías de detección actuales.&lt;/p&gt;</description>
+      <description>&lt;p&gt;En la guerra sin fin entre atacantes y defensores en el ámbito de la ciberseguridad, la inteligencia artificial (IA) se ha convertido en un arma de doble filo. Mientras las organizaciones la utilizan para reforzar sus defensas, los ciberatacantes han comenzado a emplearla para crear técnicas de evasión más sofisticadas que burlan incluso las medidas de seguridad más avanzadas.&lt;/p&gt;
+&lt;p&gt;A continuación, exploraremos cómo la IA está redefiniendo el panorama de las amenazas cibernéticas y qué desafíos plantea para las tecnologías de detección actuales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimizando la Gestión de Dispositivos con Software UEM</title>
