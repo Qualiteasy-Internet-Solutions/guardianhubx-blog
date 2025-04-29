@@ -20,5 +20,8 @@ uglyURLs = false
   disableFingerprinting = true
   favicon = "/favicon.ico"
   customCSS = ["css/custom.css"]
-  customJS = []
+  customJS = [
+    "https://code.jquery.com/jquery-3.6.0.min.js",
+    "js/load-common.js"
+  ]
   googleFonts = ["Poppins"]
