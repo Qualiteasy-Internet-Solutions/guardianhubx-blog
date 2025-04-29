@@ -37,7 +37,7 @@ Los ciberataques adoptan diversas formas y pueden causar estragos en los sistema
 
 Los ataques de phishing consisten en engañar a las personas para que revelen información confidencial, como contraseñas o datos de tarjetas de crédito, haciéndose pasar por una entidad de confianza. Estos ataques suelen presentarse en forma de correos electrónicos engañosos o sitios web fraudulentos.
 
-![Ataques de phishing](uploads/como-mejorar-la-seguridad-ti-2.jpg)
+![Ataques de phishing](/blog/uploads/como-mejorar-la-seguridad-ti-2.jpg)
 
 ### Infecciones por malware
 
@@ -47,7 +47,7 @@ Malware —la abreviatura de software malicioso— hace referencia a cualquier s
 
 Los ataques de denegación de servicio distribuido (DDoS) tienen como objetivo saturar un sitio web o una red con una avalancha de tráfico para imposibilitar el acceso de usuarios legítimos.
 
-![Ataques DDoS](uploads/como-mejorar-la-seguridad-ti-3.jpg)
+![Ataques DDoS](/blog/uploads/como-mejorar-la-seguridad-ti-3.jpg)
 
 ### Amenazas internas
 
@@ -75,7 +75,7 @@ El software antivirus es un componente fundamental de cualquier estrategia de ci
 
 [Reiniciar para restaurar](https://www.faronics.com/es/deep-freeze-on-cloud?CC=BLOG) permite revertir los sistemas a un estado seguro eliminando infecciones.
 
-![Recuperación fácil](uploads/como-mejorar-la-seguridad-ti-4.jpg)
+![Recuperación fácil](/blog/uploads/como-mejorar-la-seguridad-ti-4.jpg)
 
 ---
 
