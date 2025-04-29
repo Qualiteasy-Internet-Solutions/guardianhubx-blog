@@ -1,10 +1,11 @@
-baseURL = "https://blog.guardianhubx.com/"
+baseURL = "https://guardianhubx.com/blog/"
+relativeURLs = false
+canonifyURLs = true
+
 languageCode = "es-es"
 title = "GuardianHubX Blog"
 theme = "PaperMod"
 publishDir = "public"
-canonifyURLs = true
-relativeURLs = false
 uglyURLs = false
 
 [params]
