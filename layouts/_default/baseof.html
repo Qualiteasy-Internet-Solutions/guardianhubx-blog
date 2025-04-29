@@ -1,0 +1,30 @@
+{{/* layouts/_default/baseof.html */}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{/* Pull in the entire <head> from your main site */}}
+    {{ partial "remote_head.html" . }}
+
+    {{/* Now any per-page <head> extras (title, meta tags, Hugo's built-ins) */}}
+    {{ block "head" . }}
+      <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+      {{ partial "meta.html" . }}
+      {{ partial "css.html" . }}
+      {{ partial "js.html" . }}
+    {{ end }}
+  </head>
+
+  <body class="{{ .Type }}" id="top">
+    {{/* Pull in the header/nav from your main site */}}
+    {{ partial "remote_header.html" . }}
+
+    <main class="main">
+      {{ block "main" . }}
+        {{ .Content }}
+      {{ end }}
+    </main>
+
+    {{/* Pull in the footer from your main site */}}
+    {{ partial "remote_footer.html" . }}
+  </body>
+</html>

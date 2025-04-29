@@ -1,0 +1,4 @@
+{{/* descarga el pie */}}
+{{ with getRemote "https://guardianhubx.com/footer.html" }}
+  {{ .Content | safeHTML }}
+{{ end }}
