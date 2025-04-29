@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IT on GuardianHubX Blog</title>
-    <link>https://guardianhubx.com/blog/tags/it/</link>
+    <link>https://guardianhubx.com/tags/it/</link>
     <description>Recent content in IT on GuardianHubX Blog</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://guardianhubx.com/blog/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guardianhubx.com/tags/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La creciente amenaza de los ciberataques en España: claves para una ciberresiliencia efectiva</title>
-      <link>https://guardianhubx.com/blog/blog/ciberataques-espana-ciberresiliencia/</link>
+      <link>https://guardianhubx.com/blog/ciberataques-espana-ciberresiliencia/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/ciberataques-espana-ciberresiliencia/</guid>
+      <guid>https://guardianhubx.com/blog/ciberataques-espana-ciberresiliencia/</guid>
       <description>Análisis de los principales vectores de ataque que afectan a las empresas españolas y estrategias para fortalecer su ciberresiliencia.</description>
     </item>
     <item>
       <title>Nueva Ley de Ciberseguridad: Lo que las Empresas Deben Saber en 2025</title>
-      <link>https://guardianhubx.com/blog/blog/2025-02-11-nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/</link>
+      <link>https://guardianhubx.com/blog/2025-02-11-nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2025-02-11-nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/</guid>
+      <guid>https://guardianhubx.com/blog/2025-02-11-nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/</guid>
       <description>&lt;p&gt;En la Unión Europea ha reforzado su marco normativo en ciberseguridad con la introducción de la Directiva NIS2, que amplía y actualiza las medidas de seguridad para las redes y sistemas de información. Esta directiva, que entró en vigor en enero de 2023, debía ser transpuesta por los Estados miembros a sus legislaciones nacionales antes del 17 de octubre de 2024. En España, aunque el plazo de transposición se ha superado, el Gobierno aprobó el 14 de enero de 2025 el anteproyecto de Ley de Coordinación y Gobernanza de la Ciberseguridad, que busca incorporar las disposiciones de NIS2 al marco legal español.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cómo la IA Está Revolucionando las Técnicas de Evasión en Ciberseguridad</title>
-      <link>https://guardianhubx.com/blog/blog/2025-01-27-como-la-ia-esta-revolucionando-las-tecnicas-de-evasion-en-ciberseguridad/</link>
+      <link>https://guardianhubx.com/blog/2025-01-27-como-la-ia-esta-revolucionando-las-tecnicas-de-evasion-en-ciberseguridad/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2025-01-27-como-la-ia-esta-revolucionando-las-tecnicas-de-evasion-en-ciberseguridad/</guid>
+      <guid>https://guardianhubx.com/blog/2025-01-27-como-la-ia-esta-revolucionando-las-tecnicas-de-evasion-en-ciberseguridad/</guid>
       <description>&lt;p&gt;En la guerra sin fin entre atacantes y defensores en el ámbito de la ciberseguridad, la inteligencia artificial (IA) se ha convertido en un arma de doble filo. Mientras las organizaciones la utilizan para reforzar sus defensas, los ciberatacantes han comenzado a emplearla para crear técnicas de evasión más sofisticadas que burlan incluso las medidas de seguridad más avanzadas.&lt;/p&gt;
 &lt;p&gt;A continuación, exploraremos cómo la IA está redefiniendo el panorama de las amenazas cibernéticas y qué desafíos plantea para las tecnologías de detección actuales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>¿Qué hacer si la información de tu empresa ha sido comprometida?</title>
-      <link>https://guardianhubx.com/blog/blog/2024-12-02-6-monitorea-y-evalua/</link>
+      <link>https://guardianhubx.com/blog/2024-12-02-6-monitorea-y-evalua/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2024-12-02-6-monitorea-y-evalua/</guid>
+      <guid>https://guardianhubx.com/blog/2024-12-02-6-monitorea-y-evalua/</guid>
       <description>&lt;p&gt;Una violación de datos no solo pone en riesgo tu negocio, sino también la confianza de tus clientes y empleados. Pero tranquilo/a, actuar con rapidez y de forma organizada puede marcar la diferencia. Aquí te dejo una guía paso a paso para afrontar este tipo de incidentes:&lt;/p&gt;
 &lt;h2 id=&#34;1-confirma-la-violación&#34;&gt;1. &lt;strong&gt;Confirma la violación&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Primero, asegúrate de que la alerta es real y no un falso positivo.&lt;/p&gt;
@@ -44,79 +44,79 @@
     </item>
     <item>
       <title>Sé el mejor profesor posible</title>
-      <link>https://guardianhubx.com/blog/blog/2024-11-13-se-el-mejor-profesor-posible/</link>
+      <link>https://guardianhubx.com/blog/2024-11-13-se-el-mejor-profesor-posible/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2024-11-13-se-el-mejor-profesor-posible/</guid>
+      <guid>https://guardianhubx.com/blog/2024-11-13-se-el-mejor-profesor-posible/</guid>
       <description>&lt;p&gt;¿Recuerdas a tu mejor profesor de la escuela? ¿Y al peor? Quizás tu favorito tenía una habilidad especial para gestionar el aula y captar tu atención, mientras que el otro simplemente… no. Ahora, como docente, seguro que buscas ser esa figura que inspira a sus estudiantes, y con un poco de ayuda de la tecnología, ¡es más fácil que nunca!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Faronics Insight&lt;/strong&gt; está diseñado para ayudarte a ser el mejor profesor posible. Con herramientas que te ofrecen un control total y una visibilidad completa del aula, podrás captar y mantener la atención de los estudiantes, darles feedback al instante, promover la colaboración y realizar evaluaciones precisas. Con Insight, enseñar y conectar con los estudiantes se vuelve más eficiente y dinámico.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cómo evitar el ransomware en las escuelas</title>
-      <link>https://guardianhubx.com/blog/blog/2024-10-10-como-evitar-el-ransomware-en-las-escuelas/</link>
+      <link>https://guardianhubx.com/blog/2024-10-10-como-evitar-el-ransomware-en-las-escuelas/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2024-10-10-como-evitar-el-ransomware-en-las-escuelas/</guid>
+      <guid>https://guardianhubx.com/blog/2024-10-10-como-evitar-el-ransomware-en-las-escuelas/</guid>
       <description>&lt;p&gt;El ransomware es una pesadilla que azota a las escuelas con más frecuencia de lo que se cree. Las escuelas son objetivos muy atractivos porque sus datos son sumamente sensibles y, a veces, las defensas son más débiles de lo que deberían. Por eso, los piratas informáticos se infiltran regularmente en sus redes, bloquean los archivos importantes y luego piden un rescate para recuperarlos. Los ataques de ransomware pueden poner en grave peligro a los estudiantes y provocar un desastre financiero y de reputación para los profesores, alumnos y administradores.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guía rápida para entender los términos clave en ataques de ciberseguridad</title>
-      <link>https://guardianhubx.com/blog/blog/guia-rapida-terminos-ciberseguridad/</link>
+      <link>https://guardianhubx.com/blog/guia-rapida-terminos-ciberseguridad/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/guia-rapida-terminos-ciberseguridad/</guid>
+      <guid>https://guardianhubx.com/blog/guia-rapida-terminos-ciberseguridad/</guid>
       <description>&lt;p&gt;En el mundo digital, cada día escuchamos más sobre ciberataques y ciberseguridad. Con la creciente cantidad de información, es importante estar familiarizado con los términos y conceptos clave. En esta guía, exploraremos algunos de los términos más importantes para entender los ataques de ciberseguridad y cómo protegernos.&lt;/p&gt;
 &lt;h2 id=&#34;1-ciberataque&#34;&gt;&lt;strong&gt;1. Ciberataque&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Un ciberataque es cualquier intento malicioso de acceder, dañar o interrumpir sistemas de información, redes o dispositivos. Estos ataques pueden tener como objetivo la obtención de datos confidenciales, la interrupción de operaciones o la extorsión.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Importancia de Tener las Licencias de Software Actualizadas</title>
-      <link>https://guardianhubx.com/blog/blog/2024-08-23-la-importancia-de-tener-las-licencias-de-software-actualizadas/</link>
+      <link>https://guardianhubx.com/blog/2024-08-23-la-importancia-de-tener-las-licencias-de-software-actualizadas/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2024-08-23-la-importancia-de-tener-las-licencias-de-software-actualizadas/</guid>
+      <guid>https://guardianhubx.com/blog/2024-08-23-la-importancia-de-tener-las-licencias-de-software-actualizadas/</guid>
       <description>&lt;p&gt;En un mundo empresarial cada vez más digitalizado, el uso de software y aplicaciones se ha convertido en un componente fundamental para el funcionamiento eficiente de las empresas. Desde la gestión de proyectos hasta la comunicación interna, pasando por el almacenamiento de datos y la contabilidad, el software es el engranaje invisible que mantiene en marcha la maquinaria corporativa. Sin embargo, muchas empresas en España subestiman la importancia de mantener las licencias de sus aplicaciones actualizadas, lo que no solo puede afectar la operatividad y seguridad de la empresa, sino que también puede acarrear serias consecuencias legales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>¿Cómo puedo proteger mi red de ataques de ransomware?</title>
-      <link>https://guardianhubx.com/blog/blog/2024-08-16-como-puedo-proteger-mi-red-de-ataques-de-ransomware/</link>
+      <link>https://guardianhubx.com/blog/2024-08-16-como-puedo-proteger-mi-red-de-ataques-de-ransomware/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2024-08-16-como-puedo-proteger-mi-red-de-ataques-de-ransomware/</guid>
+      <guid>https://guardianhubx.com/blog/2024-08-16-como-puedo-proteger-mi-red-de-ataques-de-ransomware/</guid>
       <description>&lt;p&gt;El ransomware está empeorando. Para cualquier alto directivo, es uno de los mayores riesgos que existen. Este tipo de software malicioso le impide acceder a sus datos o sistemas hasta que pague un rescate. Puede paralizar empresas, escuelas y hospitales. Dado que los ciberdelincuentes se vuelven más inteligentes y los ataques son cada vez más frecuentes, es crucial implementar medidas de seguridad sólidas.&lt;/p&gt;
 &lt;p&gt;El creciente peligro del ransomware&lt;/p&gt;
 &lt;p&gt;Los ataques de ransomware están aumentando, en parte debido al auge de las criptomonedas, que permiten a los delincuentes exigir pagos anónimos. La IA ha empeorado las cosas, porque ahora es mucho más fácil atacar a escala y engañar a los empleados sin los tradicionales signos reveladores de una estafa. Los recientes ataques de alto perfil a servicios esenciales y grandes empresas muestran lo extendido y dañino que puede ser el ransomware.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proteger las redes universitarias: reducir los riesgos de ciberataque y simplificar la gestión de TI</title>
-      <link>https://guardianhubx.com/blog/blog/2024-07-24-gestion-ti-universidades/</link>
+      <link>https://guardianhubx.com/blog/2024-07-24-gestion-ti-universidades/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2024-07-24-gestion-ti-universidades/</guid>
+      <guid>https://guardianhubx.com/blog/2024-07-24-gestion-ti-universidades/</guid>
       <description>&lt;p&gt;Las universidades se enfrentan a retos informáticos complejos, desde gestionar varias salas de ordenadores y garantizar un rendimiento constante de los sistemas, hasta proteger datos confidenciales y optimizar presupuestos limitados. A menudo, los equipos de TI se ven desbordados por los frecuentes problemas de software, las amenazas de malware y los fallos de hardware. Garantizar a los estudiantes y profesores un acceso fiable y seguro a la tecnología es una tarea ingente que requiere soluciones eficientes y eficaces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ventajas de utilizar una consola en la nube para la gestión centralizada de IT</title>
-      <link>https://guardianhubx.com/blog/blog/ventajas-de-utilizar-una-consola-en-la-nube-para-la-gestion-centralizada-de-ti/</link>
+      <link>https://guardianhubx.com/blog/ventajas-de-utilizar-una-consola-en-la-nube-para-la-gestion-centralizada-de-ti/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/ventajas-de-utilizar-una-consola-en-la-nube-para-la-gestion-centralizada-de-ti/</guid>
+      <guid>https://guardianhubx.com/blog/ventajas-de-utilizar-una-consola-en-la-nube-para-la-gestion-centralizada-de-ti/</guid>
       <description>La gestión centralizada de TI a través de una consola en la nube se ha convertido en una solución eficiente y práctica para las organizaciones que buscan mejorar su infraestructura tecnológica.</description>
     </item>
     <item>
       <title>Los datos de ciberataques en empresas</title>
-      <link>https://guardianhubx.com/blog/blog/2024-07-01-los-datos-de-ciberataques-en-empresas/</link>
+      <link>https://guardianhubx.com/blog/2024-07-01-los-datos-de-ciberataques-en-empresas/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2024-07-01-los-datos-de-ciberataques-en-empresas/</guid>
+      <guid>https://guardianhubx.com/blog/2024-07-01-los-datos-de-ciberataques-en-empresas/</guid>
       <description>&lt;p&gt;Cada vez leemos más noticias sobre ciberataques en empresas y organismos públicos. Están a la orden del día. Sin embargo, gran parte de los ataques a empresas privadas no salen a la luz. Aun así, gracias a estudios e informes recientes, hay datos reales que ayudan a comprender la magnitud del problema de los ciberataques.&lt;/p&gt;
 &lt;h2 id=&#34;el-50-de-las-pymes-españolas-sufren-ataques-cada-año&#34;&gt;&lt;strong&gt;El 50% de las PYMES españolas sufren ataques cada año.&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;El 50% de las pequeñas y medianas empresas españolas sufren ataques cibernéticos cada año. Este dato es alarmante y refleja una realidad preocupante en el ámbito empresarial español. Las PYMES se enfrentan a amenazas constantes que ponen en riesgo no solo su información sensible, sino también su estabilidad financiera y operativa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>¿Está su empresa protegida de los ciberataques estas navidades?</title>
-      <link>https://guardianhubx.com/blog/blog/esta-su-empresa-protegida-de-los-ciberataques-estas-navidades/</link>
+      <link>https://guardianhubx.com/blog/esta-su-empresa-protegida-de-los-ciberataques-estas-navidades/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/esta-su-empresa-protegida-de-los-ciberataques-estas-navidades/</guid>
+      <guid>https://guardianhubx.com/blog/esta-su-empresa-protegida-de-los-ciberataques-estas-navidades/</guid>
       <description>&lt;p&gt;Con las fiestas navideñas a la vuelta de la esquina, es hora de empezar a pensar en algo más que los regalos y turrones. Es necesario asegurarse de que su empresa esté protegida de la creciente amenaza de ciberataques durante este periodo festivo. En esta entrada del blog, veremos las ciberamenazas más comunes a las que se enfrentan las empresas durante la temporada navideña y proporcionaremos consejos prácticos y estrategias para mantener su seguridad. Si sigue nuestras recomendaciones, podrá disfrutar de unas vacaciones tranquilas sabiendo que su empresa está protegida.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cómo ChatGPT te puede ayudar en el mantenimiento y actualizaciones de tus equipos</title>
-      <link>https://guardianhubx.com/blog/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</link>
+      <link>https://guardianhubx.com/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</guid>
+      <guid>https://guardianhubx.com/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</guid>
       <description>&lt;p&gt;Cómo ChatGPT puede asistir a un administrador de sistemas en relación con el uso de «Faronics Deploy», un producto de gestión de TI. Faronics Deploy se utiliza para automatizar la implementación de software, actualizaciones y tareas de mantenimiento en redes de computadoras.&lt;/p&gt;
 &lt;p&gt;Aquí te explico cómo ChatGPT puede ayudar en cada uno de los aspectos mencionados, enlazándolo con Faronics Deploy:&lt;/p&gt;
 &lt;ol&gt;
@@ -125,53 +125,53 @@
     </item>
     <item>
       <title>Sostenibilidad y Tecnología con Power Save - El Compromiso Verde de las soluciones de Faronics</title>
-      <link>https://guardianhubx.com/blog/blog/20231202-sostenibilidad-tecnolog%C3%ADa-powersave/</link>
+      <link>https://guardianhubx.com/blog/20231202-sostenibilidad-tecnolog%C3%ADa-powersave/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/20231202-sostenibilidad-tecnolog%C3%ADa-powersave/</guid>
+      <guid>https://guardianhubx.com/blog/20231202-sostenibilidad-tecnolog%C3%ADa-powersave/</guid>
       <description>Sostenibilidad y Tecnología con Power Save: El Compromiso Verde de las soluciones de Faronics.</description>
     </item>
     <item>
       <title>CÓMO MEJORAR LA SEGURIDAD DE IT</title>
-      <link>https://guardianhubx.com/blog/blog/como-mejorar-la-seguridad-de-ti/</link>
+      <link>https://guardianhubx.com/blog/como-mejorar-la-seguridad-de-ti/</link>
       <pubDate>Wed, 01 Nov 2023 11:12:15 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/como-mejorar-la-seguridad-de-ti/</guid>
+      <guid>https://guardianhubx.com/blog/como-mejorar-la-seguridad-de-ti/</guid>
       <description>Guía práctica para pequeñas y medianas empresas para reforzar su seguridad informática frente a ciberamenazas actuales.</description>
     </item>
     <item>
       <title>Manténgase a la vanguardia con el software de gestión remota de parches: Amplifique sus actualizaciones</title>
-      <link>https://guardianhubx.com/blog/blog/2023-10-04-mantengase-a-la-vanguardia-con-el-software-de-gestion-remota-de-parches-simplifique-sus-actualizaciones/</link>
+      <link>https://guardianhubx.com/blog/2023-10-04-mantengase-a-la-vanguardia-con-el-software-de-gestion-remota-de-parches-simplifique-sus-actualizaciones/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-10-04-mantengase-a-la-vanguardia-con-el-software-de-gestion-remota-de-parches-simplifique-sus-actualizaciones/</guid>
+      <guid>https://guardianhubx.com/blog/2023-10-04-mantengase-a-la-vanguardia-con-el-software-de-gestion-remota-de-parches-simplifique-sus-actualizaciones/</guid>
       <description>&lt;h2 id=&#34;la-importancia-de-las-actualizaciones-de-software-y-la-gestión-de-parches&#34;&gt;&lt;strong&gt;LA IMPORTANCIA DE LAS ACTUALIZACIONES DE SOFTWARE Y LA GESTIÓN DE PARCHES&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Las actualizaciones de software son esenciales para mantener los sistemas seguros y actualizados. Proporcionan correcciones de errores, mejoras de rendimiento y, lo que es más importante, parches de seguridad. Sin actualizaciones periódicas, el software se vuelve vulnerable a las ciberamenazas y los ataques maliciosos. La gestión de parches, por su parte, es el proceso de aplicar estas actualizaciones al software. Consiste en identificar, adquirir, probar e implementar parches en la red. Una gestión adecuada de los parches garantiza la protección de los sistemas frente a posibles vulnerabilidades.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deploy frente a Intune &amp; NinjaOne</title>
-      <link>https://guardianhubx.com/blog/blog/2023-09-27/</link>
+      <link>https://guardianhubx.com/blog/2023-09-27/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-09-27/</guid>
+      <guid>https://guardianhubx.com/blog/2023-09-27/</guid>
       <description>&lt;h1 id=&#34;comparación-de-deploy-de-faronics-intune-de-microsoft-y-ninjaone-tres-soluciones-de-gestión-tecnológica-de-vanguardia&#34;&gt;Comparación de Deploy de Faronics, Intune de Microsoft y NinjaOne: Tres Soluciones de Gestión Tecnológica de Vanguardia&lt;/h1&gt;
 &lt;p&gt;En el complejo mundo de la gestión tecnológica, las organizaciones buscan soluciones efectivas que les permitan administrar sus sistemas y dispositivos de manera eficiente y segura. Tres de las principales opciones en el mercado son «Deploy» de Faronics, «Intune» de Microsoft y «NinjaOne.» En esta comparación, exploraremos las características clave de cada una de estas soluciones para ayudarte a tomar una decisión informada sobre cuál se adapta mejor a las necesidades de tu organización.&lt;/p&gt;</description>
     </item>
     <item>
       <title>10 problemas generados por la falta de mantenimiento informático</title>
-      <link>https://guardianhubx.com/blog/blog/2023-09-21-10-problemas-generados-por-la-falta-de-mantenimiento-informatico/</link>
+      <link>https://guardianhubx.com/blog/2023-09-21-10-problemas-generados-por-la-falta-de-mantenimiento-informatico/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-09-21-10-problemas-generados-por-la-falta-de-mantenimiento-informatico/</guid>
+      <guid>https://guardianhubx.com/blog/2023-09-21-10-problemas-generados-por-la-falta-de-mantenimiento-informatico/</guid>
       <description>&lt;p&gt;En un mundo cada vez más dependiente de la tecnología, el mantenimiento informático se ha convertido en una prioridad fundamental para empresas y organizaciones de todos los tamaños. Los problemas generados por la falta de un adecuado mantenimiento informático son diversos y pueden tener un impacto devastador en la eficiencia operativa y la seguridad de una organización. Desde Qualiteasy, importadora de las soluciones de Faronics Inc. en España, se destacan cuáles son los principales problemas y consecuencias derivados de una falta de mantenimiento informático.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimizando la Gestión de Dispositivos con Software UEM</title>
-      <link>https://guardianhubx.com/blog/blog/2023-09-18-optimizando-la-gestion-de-dispositivos-con-software-uem/</link>
+      <link>https://guardianhubx.com/blog/2023-09-18-optimizando-la-gestion-de-dispositivos-con-software-uem/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-09-18-optimizando-la-gestion-de-dispositivos-con-software-uem/</guid>
+      <guid>https://guardianhubx.com/blog/2023-09-18-optimizando-la-gestion-de-dispositivos-con-software-uem/</guid>
       <description>&lt;p&gt;La rápida evolución de la tecnología y la creciente diversidad de dispositivos utilizados en el entorno empresarial han llevado a una mayor complejidad en la gestión de dispositivos. Para abordar este desafío, las organizaciones están recurriendo cada vez más al Software de Gestión de Dispositivos Unificados (UEM, por sus siglas en inglés). En este artículo, exploraremos qué es el UEM, por qué es esencial en la actualidad y cómo puede beneficiar a las empresas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>¿Cuales son las principales diferencias entre un RDM Y un RMM?</title>
-      <link>https://guardianhubx.com/blog/blog/2023-09-09/</link>
+      <link>https://guardianhubx.com/blog/2023-09-09/</link>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-09-09/</guid>
+      <guid>https://guardianhubx.com/blog/2023-09-09/</guid>
       <description>&lt;p&gt;Las diferencias principales entre un Remote Desktop Management (RDM) y un Remote Monitoring and Management (RMM) se centran en sus funciones y objetivos:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Remote Desktop Management (RDM):&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -183,17 +183,17 @@
     </item>
     <item>
       <title>Deploy: La Solución Integral que Satisface las Necesidades de CIOs y CTOs</title>
-      <link>https://guardianhubx.com/blog/blog/2023-09-08/</link>
+      <link>https://guardianhubx.com/blog/2023-09-08/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-09-08/</guid>
+      <guid>https://guardianhubx.com/blog/2023-09-08/</guid>
       <description>&lt;h1&gt;&lt;/h1&gt;
 &lt;p&gt;En el mundo empresarial actual, donde la tecnología desempeña un papel central, los CIOs (Chief Information Officers) y CTOs (Chief Technology Officers) se enfrentan a desafíos continuos para mantener la eficiencia, la seguridad y la competitividad de sus organizaciones. Para abordar estas demandas, es esencial contar con herramientas de gestión tecnológica avanzadas y efectivas. Deploy, una aplicación en la nube, ofrece una amplia gama de funcionalidades que abordan las necesidades clave de los CIOs y CTOs, brindando soluciones a sus desafíos diarios.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Escasez de Perfiles Técnicos de Soporte: Un Desafío para CIOs, CTOs y Directores de Informática</title>
-      <link>https://guardianhubx.com/blog/blog/2023-09-08-la-escasez-de-perfiles-tecnicos-de-soporte-un-desafio-para-cios-ctos-y-directores-de-informatica/</link>
+      <link>https://guardianhubx.com/blog/2023-09-08-la-escasez-de-perfiles-tecnicos-de-soporte-un-desafio-para-cios-ctos-y-directores-de-informatica/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-09-08-la-escasez-de-perfiles-tecnicos-de-soporte-un-desafio-para-cios-ctos-y-directores-de-informatica/</guid>
+      <guid>https://guardianhubx.com/blog/2023-09-08-la-escasez-de-perfiles-tecnicos-de-soporte-un-desafio-para-cios-ctos-y-directores-de-informatica/</guid>
       <description>&lt;h1&gt;&lt;/h1&gt;
 &lt;p&gt;La tecnología se ha convertido en la columna vertebral de las empresas y organismos gubernamentales en la era digital. La creciente dependencia de sistemas informáticos y redes empresariales hace que la necesidad de perfiles técnicos de soporte sea más crítica que nunca. Sin embargo, existe un desafío constante que los CIOs, CTOs y Directores de Informática enfrentan en su búsqueda de estos profesionales: la escasez de talento técnico y el costo asociado.&lt;/p&gt;</description>
     </item>

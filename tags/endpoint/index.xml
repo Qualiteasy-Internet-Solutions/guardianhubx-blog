@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Endpoint on GuardianHubX Blog</title>
-    <link>https://guardianhubx.com/blog/tags/endpoint/</link>
+    <link>https://guardianhubx.com/tags/endpoint/</link>
     <description>Recent content in Endpoint on GuardianHubX Blog</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 01 Nov 2023 11:12:15 +0000</lastBuildDate>
-    <atom:link href="https://guardianhubx.com/blog/tags/endpoint/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guardianhubx.com/tags/endpoint/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CÓMO MEJORAR LA SEGURIDAD DE IT</title>
-      <link>https://guardianhubx.com/blog/blog/como-mejorar-la-seguridad-de-ti/</link>
+      <link>https://guardianhubx.com/blog/como-mejorar-la-seguridad-de-ti/</link>
       <pubDate>Wed, 01 Nov 2023 11:12:15 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/como-mejorar-la-seguridad-de-ti/</guid>
+      <guid>https://guardianhubx.com/blog/como-mejorar-la-seguridad-de-ti/</guid>
       <description>Guía práctica para pequeñas y medianas empresas para reforzar su seguridad informática frente a ciberamenazas actuales.</description>
     </item>
   </channel>

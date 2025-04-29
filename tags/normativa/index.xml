@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Normativa on GuardianHubX Blog</title>
-    <link>https://guardianhubx.com/blog/tags/normativa/</link>
+    <link>https://guardianhubx.com/tags/normativa/</link>
     <description>Recent content in Normativa on GuardianHubX Blog</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://guardianhubx.com/blog/tags/normativa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guardianhubx.com/tags/normativa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nueva Ley de Ciberseguridad: Lo que las Empresas Deben Saber en 2025</title>
-      <link>https://guardianhubx.com/blog/blog/2025-02-11-nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/</link>
+      <link>https://guardianhubx.com/blog/2025-02-11-nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2025-02-11-nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/</guid>
+      <guid>https://guardianhubx.com/blog/2025-02-11-nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/</guid>
       <description>&lt;p&gt;En la Unión Europea ha reforzado su marco normativo en ciberseguridad con la introducción de la Directiva NIS2, que amplía y actualiza las medidas de seguridad para las redes y sistemas de información. Esta directiva, que entró en vigor en enero de 2023, debía ser transpuesta por los Estados miembros a sus legislaciones nacionales antes del 17 de octubre de 2024. En España, aunque el plazo de transposición se ha superado, el Gobierno aprobó el 14 de enero de 2025 el anteproyecto de Ley de Coordinación y Gobernanza de la Ciberseguridad, que busca incorporar las disposiciones de NIS2 al marco legal español.&lt;/p&gt;</description>
     </item>
   </channel>

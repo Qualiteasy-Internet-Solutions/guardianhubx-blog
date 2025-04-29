@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>RMM on GuardianHubX Blog</title>
-    <link>https://guardianhubx.com/blog/tags/rmm/</link>
+    <link>https://guardianhubx.com/tags/rmm/</link>
     <description>Recent content in RMM on GuardianHubX Blog</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://guardianhubx.com/blog/tags/rmm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guardianhubx.com/tags/rmm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Cuales son las principales diferencias entre un RDM Y un RMM?</title>
-      <link>https://guardianhubx.com/blog/blog/2023-09-09/</link>
+      <link>https://guardianhubx.com/blog/2023-09-09/</link>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://guardianhubx.com/blog/blog/2023-09-09/</guid>
+      <guid>https://guardianhubx.com/blog/2023-09-09/</guid>
       <description>&lt;p&gt;Las diferencias principales entre un Remote Desktop Management (RDM) y un Remote Monitoring and Management (RMM) se centran en sus funciones y objetivos:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Remote Desktop Management (RDM):&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
