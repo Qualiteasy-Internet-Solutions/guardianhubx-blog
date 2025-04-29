@@ -5,7 +5,7 @@ categories:
 cover:
   alt: Sé el mejor profesor posible
   caption: 'Fuente: GuardianHubX'
-  image: /uploads/Faronics-Insight-classroom-monitoring.jpeg
+  image: uploads/Faronics-Insight-classroom-monitoring.jpeg
 date: '2024-11-13T00:00:00+00:00'
 draft: false
 slug: 2024-11-13-se-el-mejor-profesor-posible

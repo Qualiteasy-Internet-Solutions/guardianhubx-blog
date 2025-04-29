@@ -5,7 +5,7 @@ categories:
 cover:
   alt: La Importancia de Tener las Licencias de Software Actualizadas
   caption: 'Fuente: GuardianHubX'
-  image: /uploads/Captura-de-pantalla-2024-08-23-a-las-13.02.52.png
+  image: uploads/Captura-de-pantalla-2024-08-23-a-las-13.02.52.png
 date: '2024-08-23T00:00:00+00:00'
 draft: false
 slug: 2024-08-23-la-importancia-de-tener-las-licencias-de-software-actualizadas

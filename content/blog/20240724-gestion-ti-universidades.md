@@ -6,7 +6,7 @@ cover:
   alt: 'Proteger las redes universitarias: reducir los riesgos de ciberataque y simplificar
     la gestión de TI'
   caption: 'Fuente: GuardianHubX'
-  image: /uploads/universidad_gestion_ti.jpg
+  image: uploads/universidad_gestion_ti.jpg
 date: '2024-07-24T00:00:00+00:00'
 draft: false
 slug: 2024-07-24-gestion-ti-universidades
@@ -36,7 +36,7 @@ Gestionar decenas de salas informáticas y miles de dispositivos repartidos en d
 
 La seguridad es primordial en los entornos educativos, donde proteger los datos confidenciales es fundamental, especialmente en una era en la que los ciberataques son cada vez más frecuentes y aterradores. La función «reiniciar para restaurar» de Deep Freeze garantiza que todos los cambios realizados en un sistema sean temporales y que los equipos vuelvan a su estado original al reiniciarse. Esta herramienta única protege los sistemas del malware, las instalaciones de software no autorizadas y los cambios accidentales. En universidades de todo el mundo, esta capacidad ha salvaguardado tanto los datos universitarios como la información personal, proporcionando un entorno seguro y estable para cada usuario.
 
-![](/uploads/malware_universidad.jpg)  
+![](uploads/malware_universidad.jpg)  
 
 #### **Soluciones rentables**
 

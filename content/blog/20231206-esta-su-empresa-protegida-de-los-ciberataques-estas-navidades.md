@@ -12,7 +12,7 @@ tags:
 - IT
 - Cybersecurity
 cover:
-  image: /uploads/img_0222-1.jpg
+  image: uploads/img_0222-1.jpg
   alt: ¿Está su empresa protegida de los ciberataques estas navidades?
   caption: 'Fuente: GuardianHubX'
 draft: false

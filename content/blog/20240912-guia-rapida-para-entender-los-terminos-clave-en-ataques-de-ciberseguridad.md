@@ -5,7 +5,7 @@ categories:
 cover:
   alt: Guía rápida para entender los términos clave en ataques de ciberseguridad
   caption: 'Fuente: GuardianHubX'
-  image: /uploads/DALL-C2-B7E-2024-09-12-20.26.54-A-digital-collage-representing-cybersecurity-threats-and-protection-concepts.-The-image-should-include-visual-elements-such-as-a-padlock-symbolizing-e-1.webp
+  image: uploads/DALL-C2-B7E-2024-09-12-20.26.54-A-digital-collage-representing-cybersecurity-threats-and-protection-concepts.-The-image-should-include-visual-elements-such-as-a-padlock-symbolizing-e-1.webp
 date: '2024-09-12T00:00:00+00:00'
 draft: false
 slug: guia-rapida-terminos-ciberseguridad

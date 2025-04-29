@@ -5,7 +5,7 @@ categories:
 cover:
   alt: Los datos de ciberataques en empresas
   caption: 'Fuente: GuardianHubX'
-  image: /uploads/empresa_ciberataque.webp
+  image: uploads/empresa_ciberataque.webp
 date: '2024-07-01T00:00:00+00:00'
 draft: false
 excerpt: Cada vez leemos más noticias sobre ciberataques en empresas y organismos

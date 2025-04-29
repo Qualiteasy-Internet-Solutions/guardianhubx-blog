@@ -6,7 +6,7 @@ cover:
   alt: Ventajas de utilizar una consola en la nube para la gestión centralizada de
     IT
   caption: 'Fuente: GuardianHubX'
-  image: /uploads/consola-it-edited.webp
+  image: uploads/consola-it-edited.webp
 date: '2024-07-10T00:00:00+00:00'
 description: La gestión centralizada de TI a través de una consola en la nube se ha
   convertido en una solución eficiente y práctica para las organizaciones que buscan

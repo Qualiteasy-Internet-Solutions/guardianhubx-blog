@@ -5,7 +5,7 @@ categories:
 cover:
   alt: ¿Qué hacer si la información de tu empresa ha sido comprometida?
   caption: 'Fuente: GuardianHubX'
-  image: /uploads/Captura-de-Pantalla-2024-12-02-a-las-21.36.01.png
+  image: uploads/Captura-de-Pantalla-2024-12-02-a-las-21.36.01.png
 date: '2024-12-02T00:00:00+00:00'
 draft: false
 slug: 2024-12-02-6-monitorea-y-evalua

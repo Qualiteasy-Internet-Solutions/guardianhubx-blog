@@ -13,7 +13,7 @@ tags:
   - "Cybersecurity"
 description: "Sostenibilidad y Tecnología con Power Save: El Compromiso Verde de las soluciones de Faronics."
 cover:
-  image: "/uploads/img_9983.webp"
+  image: "uploads/img_9983.webp"
   alt: "Imagen de portada"
   caption: "Fuente: GuardianHubX"
 ---
