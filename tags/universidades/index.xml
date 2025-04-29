@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Universidades on GuardianHubX Blog</title>
-    <link>https://blog.guardianhubx.com/tags/universidades/</link>
+    <link>https://guardianhubx.com/blog/tags/universidades/</link>
     <description>Recent content in Universidades on GuardianHubX Blog</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.guardianhubx.com/tags/universidades/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guardianhubx.com/blog/tags/universidades/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proteger las redes universitarias: reducir los riesgos de ciberataque y simplificar la gestión de TI</title>
-      <link>https://blog.guardianhubx.com/blog/2024-07-24-gestion-ti-universidades/</link>
+      <link>https://guardianhubx.com/blog/blog/2024-07-24-gestion-ti-universidades/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.guardianhubx.com/blog/2024-07-24-gestion-ti-universidades/</guid>
+      <guid>https://guardianhubx.com/blog/blog/2024-07-24-gestion-ti-universidades/</guid>
       <description>&lt;p&gt;Las universidades se enfrentan a retos informáticos complejos, desde gestionar varias salas de ordenadores y garantizar un rendimiento constante de los sistemas, hasta proteger datos confidenciales y optimizar presupuestos limitados. A menudo, los equipos de TI se ven desbordados por los frecuentes problemas de software, las amenazas de malware y los fallos de hardware. Garantizar a los estudiantes y profesores un acceso fiable y seguro a la tecnología es una tarea ingente que requiere soluciones eficientes y eficaces.&lt;/p&gt;</description>
     </item>
   </channel>

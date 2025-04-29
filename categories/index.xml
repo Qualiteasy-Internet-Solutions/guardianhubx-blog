@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on GuardianHubX Blog</title>
-    <link>https://blog.guardianhubx.com/categories/</link>
+    <link>https://guardianhubx.com/blog/categories/</link>
     <description>Recent content in Categories on GuardianHubX Blog</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.guardianhubx.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guardianhubx.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybersecurity</title>
-      <link>https://blog.guardianhubx.com/categories/cybersecurity/</link>
+      <link>https://guardianhubx.com/blog/categories/cybersecurity/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.guardianhubx.com/categories/cybersecurity/</guid>
+      <guid>https://guardianhubx.com/blog/categories/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>https://blog.guardianhubx.com/categories/education/</link>
+      <link>https://guardianhubx.com/blog/categories/education/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.guardianhubx.com/categories/education/</guid>
+      <guid>https://guardianhubx.com/blog/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Energy</title>
-      <link>https://blog.guardianhubx.com/categories/energy/</link>
+      <link>https://guardianhubx.com/blog/categories/energy/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.guardianhubx.com/categories/energy/</guid>
+      <guid>https://guardianhubx.com/blog/categories/energy/</guid>
       <description></description>
     </item>
     <item>
       <title>IT</title>
-      <link>https://blog.guardianhubx.com/categories/it/</link>
+      <link>https://guardianhubx.com/blog/categories/it/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.guardianhubx.com/categories/it/</guid>
+      <guid>https://guardianhubx.com/blog/categories/it/</guid>
       <description></description>
     </item>
   </channel>

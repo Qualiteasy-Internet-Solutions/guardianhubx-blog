@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Actualizaciones on GuardianHubX Blog</title>
-    <link>https://blog.guardianhubx.com/tags/actualizaciones/</link>
+    <link>https://guardianhubx.com/blog/tags/actualizaciones/</link>
     <description>Recent content in Actualizaciones on GuardianHubX Blog</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.guardianhubx.com/tags/actualizaciones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guardianhubx.com/blog/tags/actualizaciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cómo ChatGPT te puede ayudar en el mantenimiento y actualizaciones de tus equipos</title>
-      <link>https://blog.guardianhubx.com/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</link>
+      <link>https://guardianhubx.com/blog/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.guardianhubx.com/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</guid>
+      <guid>https://guardianhubx.com/blog/blog/2023-12-02-como-chatgpt-te-puede-ayudar-en-el-mantenimiento-y-actualizaciones-de-tus-equipos/</guid>
       <description>&lt;p&gt;Cómo ChatGPT puede asistir a un administrador de sistemas en relación con el uso de «Faronics Deploy», un producto de gestión de TI. Faronics Deploy se utiliza para automatizar la implementación de software, actualizaciones y tareas de mantenimiento en redes de computadoras.&lt;/p&gt;
 &lt;p&gt;Aquí te explico cómo ChatGPT puede ayudar en cada uno de los aspectos mencionados, enlazándolo con Faronics Deploy:&lt;/p&gt;
 &lt;ol&gt;
