@@ -39,3 +39,10 @@ blockquote {
   border-left: 4px solid #00ADEF;
   padding-left: 1rem;
 }
+
+/* Da un margen izquierdo al breadcrumb */
+.breadcrumb {
+  margin-left: 1rem; /* ajusta el valor a tu gusto */
+}
+
+.post-header, .entry-header {background:none !important;}
