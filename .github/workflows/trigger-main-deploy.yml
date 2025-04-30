@@ -1,0 +1,19 @@
+name: Trigger Main Site Deploy
+
+on:
+  push:
+    branches:
+      - main    # o la rama de tu blog
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify main repo to deploy
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          # Usa el PAT que acabas de crear
+          token: ${{ secrets.MAIN_REPO_TOKEN }}
+          # El repo destino donde vive guardianhubx.com
+          repository: Qualiteasy-Internet-Solutions/guardianhubx.github.io
+          event-type: blog-updated
