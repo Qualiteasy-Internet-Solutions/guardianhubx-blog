@@ -28,3 +28,7 @@ uglyURLs      = false
   customCSS             = ["css/custom.css"]
   customJS              = []
   googleFonts           = ["Poppins"]
+
+[outputs]
+  home    = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS", "JSON"]
