@@ -46,3 +46,9 @@ blockquote {
 }
 
 .post-header, .entry-header {background:none !important;}
+
+.logo {
+  max-height: 150px;
+  height: auto;
+  width: auto;
+}
