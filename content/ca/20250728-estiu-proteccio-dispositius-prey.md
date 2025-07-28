@@ -58,7 +58,7 @@ Aquestes són algunes de les principals característiques que fan de Prey una so
 
 ### Integrat a les nostres solucions per a professionals i centres educatius
 
-A més de ser una solució independent, la tecnologia de Prey Project és un component essencial en els nostres paquets especialitzats. Està inclós a tots els planes i ademés a **[EduCraft](https://guardianhubx.com/ca/educraft/)**, per protegir els dispositius de centres educatius, i a **[SoloShield](https://guardianhubx.com/ca/soloshield/)**, dissenyat per a la seguretat d'autònoms i professionals independents.
+A més de ser una solució independent, la tecnologia de Prey Project és un component essencial en els nostres paquets especialitzats. Està inclòs a tots els plans i a més a **[EduCraft](https://guardianhubx.com/ca/educraft/)**, per protegir els dispositius de centres educatius, i a **[SoloShield](https://guardianhubx.com/ca/soloshield/)**, dissenyat per a la seguretat d'autònoms i professionals independents.
 
 ## Ideal per a empreses amb treball híbrid o remot
 
