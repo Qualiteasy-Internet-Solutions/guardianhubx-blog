@@ -1,0 +1,26 @@
+- id: home
+  translation: "Inici"
+
+- id: blog
+  translation: "Blog"
+
+- id: test
+  translation: "Test de ciberseguretat"
+
+- id: newsletter
+  translation: "Butlletí"
+
+- id: contact
+  translation: "Contacte"
+
+- id: phone_label
+  translation: "+34 93 415 31 15"
+
+- id: email_label
+  translation: "info@guardianhubx.com"
+
+- id: tiktok_label
+  translation: "GuardianHubX"
+
+- id: blog_label
+  translation: "Notícies / Blog"

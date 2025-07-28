@@ -52,3 +52,13 @@ blockquote {
   height: auto;
   width: auto;
 }
+
+/* Amaga la llista d’idiomes*/
+.i18n_list {
+  display: none !important;
+} 
+
+/* Amaga la paraula "Traducciones:" (és text pla abans de la llista) */
+.post-meta:has(> .i18n_list) {
+  display: none !important;
+}

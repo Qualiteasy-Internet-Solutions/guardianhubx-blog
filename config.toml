@@ -1,23 +1,46 @@
-baseURL       = "https://guardianhubx.com/blog/"
-relativeURLs  = false
-canonifyURLs  = true
-
-languageCode  = "es-es"
-title         = "GuardianHubX Blog"
-theme         = "PaperMod"
-publishDir    = "public"
-uglyURLs      = false
+baseURL                       = "https://guardianhubx.com/blog/"
+languageCode                  = "es-es"
+defaultContentLanguage        = "es"
+defaultContentLanguageInSubdir = false
+relativeURLs                  = false
+canonifyURLs                  = true
+title                         = "GuardianHubX Blog"
+theme                         = "PaperMod"
+publishDir                    = "public"
+uglyURLs                      = false
 
 [pagination]
   pagerSize = 10
 
-# Genera URL /blog/:slug/ para todos los contenidos en content/blog
-[permalinks]
-  blog = "/:slug/"
+[languages]
+
+  [languages.es]
+    languageName = "Español"
+    weight       = 1
+    contentDir   = "content/es"
+    title        = "GuardianHubX Blog"
+    
+    [languages.es.params]
+      mainSections = ["blog"]
+    
+    [languages.es.permalinks]
+      blog = "/blog/:slug/"
+
+  [languages.ca]
+    languageName = "Català"
+    weight       = 2
+    contentDir   = "content/ca"
+    title        = "GuardianHubX Blog – en català"
+    
+    [languages.ca.params]
+      mainSections = ["blog"]
+    
+    [languages.ca.permalinks]
+      blog = "/blog/ca/:slug/"
 
 [params]
   env                = "production"
-  defaultTheme       = "light"       # Fondo blanco
+  defaultTheme       = "light"
   showReadingTime    = true
   disableThemeToggle = true
   mainSections       = ["blog"]
@@ -31,3 +54,4 @@ uglyURLs      = false
 
 [outputs]
   home    = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
