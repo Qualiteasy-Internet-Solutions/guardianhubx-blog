@@ -1,0 +1,23 @@
+name: Daily Empty Deploy
+
+on:
+  schedule:
+    # 06:05 hora Madrid (estiu = UTC+2) -> 04:05 UTC
+    - cron: "5 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  empty-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create empty commit to trigger deploy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Daily empty deploy trigger ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+          git push
