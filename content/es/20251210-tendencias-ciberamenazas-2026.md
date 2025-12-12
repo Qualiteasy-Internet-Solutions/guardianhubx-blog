@@ -57,7 +57,7 @@ Los *deepfakes* se emplearán no solo para la clásica "estafa del CEO", sino ta
 
 ## 4. Ataques a la cadena de suministro digital
 
-Aumentará el ataque indirecto: comprometer a un proveedor para llegar a ti. Como explicamos en nuestro artículo sobre [vectores de ataque](/blog/vector-ataque-proteccion-empresa/),sa este método crece cada año y en 2026 será una preocupación global prioritaria.
+Aumentará el ataque indirecto: comprometer a un proveedor para llegar a ti. Como explicamos en nuestro artículo sobre [vectores de ataque](/blog/vector-ataque-como-proteger-empresa/),sa este método crece cada año y en 2026 será una preocupación global prioritaria.
 
 **Cómo prepararte:**
 * **Auditorías:** Revisa la seguridad de tus proveedores críticos.

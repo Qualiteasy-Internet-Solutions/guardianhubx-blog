@@ -70,6 +70,6 @@ La clau és integrar-los dins d'una **estratègia global de ciberseguretat**: de
 A GuardianHubX ajudem autònoms i pimes a protegir tots els seus actius digitals, inclosos els dispositius IoT, perquè puguin aprofitar la innovació amb la tranquil·litat d'estar segurs.
 
 🔗 Vols saber com blindar la seguretat de la teva empresa?
-[Posa't en contacte amb nosaltres](https://guardianhubx.com/ca/contacte/) i t'ajudem a protegir el teu negoci.
+[Posa't en contacte amb nosaltres](https://guardianhubx.com/ca/#contact) i t'ajudem a protegir el teu negoci.
 
 --------------
