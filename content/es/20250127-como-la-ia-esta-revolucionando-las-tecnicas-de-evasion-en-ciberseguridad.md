@@ -38,15 +38,15 @@ La IA permite a los atacantes:
 
 #### Malware Polimórfico Automatizado
 
-La IA puede generar código malicioso que cambia constantemente su firma para evitar ser detectado. Estas variantes, distribuidas a gran escala, requieren soluciones de endpoint que no dependan solo de firmas, como las incluidas en nuestro paquete **[LightCore](https://guardianhubx.com/es/objetivos-ciberseguridad/)**, que puede restaurar sistemas a su estado original y seguro.
+La IA puede generar código malicioso que cambia constantemente su firma para evitar ser detectado. Estas variantes, distribuidas a gran escala, requieren soluciones de endpoint que no dependan solo de firmas, como las incluidas en nuestro paquete **[LightCore](https://guardianhubx.com/es/lightcore/)**, que puede restaurar sistemas a su estado original y seguro.
 
 #### Ingeniería Social Personalizada
 
-Los algoritmos de aprendizaje automático pueden analizar perfiles en redes sociales y correos electrónicos para diseñar ataques de **phishing** altamente personalizados. La mejor defensa contra esto es un empleado bien formado, por lo que la concienciación continua es una pieza central de nuestros paquetes de seguridad como **[SmartLayer](https://guardianhubx.com/es/objetivos-ciberseguridad/)**.
+Los algoritmos de aprendizaje automático pueden analizar perfiles en redes sociales y correos electrónicos para diseñar ataques de **phishing** altamente personalizados. La mejor defensa contra esto es un empleado bien formado, por lo que la concienciación continua es una pieza central de nuestros paquetes de seguridad como **[SmartLayer](https://guardianhubx.com/es/smartlayer/)**.
 
 #### Ataques Invisibles en Red
 
-Mediante la manipulación de tráfico cifrado o el uso de comportamientos similares a los de usuarios legítimos, los atacantes pueden pasar desapercibidos. Proteger el perímetro de la red es fundamental, una tarea para la que está diseñado nuestro paquete de seguridad **[IronWall](https://guardianhubx.com/es/objetivos-ciberseguridad/)**.
+Mediante la manipulación de tráfico cifrado o el uso de comportamientos similares a los de usuarios legítimos, los atacantes pueden pasar desapercibidos. Proteger el perímetro de la red es fundamental, una tarea para la que está diseñado nuestro paquete de seguridad **[IronWall](https://guardianhubx.com/es/ironwall/)**.
 
 ### Cómo Protegerse en la Era de la IA Maliciosa
 

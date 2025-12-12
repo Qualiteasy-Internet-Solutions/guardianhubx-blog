@@ -75,4 +75,4 @@ L'smartphone és avui dia una eina crítica en el dia a dia professional. Perdre
 
 A GuardianHubX ajudem autònoms i pimes a blindar la seva seguretat digital, incloent-hi la protecció de dispositius mòbils amb solucions personalitzades i **gestió d'MDM**. Pots començar fent el nostre [test gratuït de **ciberseguretat**](https://guardianhubx.com/ca/test-ciberseguretat/) per conèixer el teu nivell de risc.
 
-👉 Vols protegir els dispositius mòbils de la teva empresa amb una estratègia sòlida? [Posa't en contacte amb nosaltres](https://guardianhubx.com/ca/contacte/) i t'ajudem a implementar les millors solucions.
+👉 Vols protegir els dispositius mòbils de la teva empresa amb una estratègia sòlida? [Posa't en contacte amb nosaltres](https://guardianhubx.com/ca/#contact) i t'ajudem a implementar les millors solucions.

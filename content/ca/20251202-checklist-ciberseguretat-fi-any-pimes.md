@@ -40,7 +40,7 @@ Al llarg de l'any entren i surten empleats, proveïdors i col·laboradors. Això
 * Habilitar **autenticació multifactor (MFA)** en tots els serveis crítics.
 
 ## 2. Revisió de contrasenyes i polítiques internes
-Les contrasenyes es filtren, es repeteixen o es reutilitzen més del que sembla. Amenaces com els [infostealers](/ca/blog/infostealers-amenaca-robatori-dades/) s'alimenten d'aquesta debilitat.
+Les contrasenyes es filtren, es repeteixen o es reutilitzen més del que sembla. Amenaces com els [infostealers](/blog/ca/infostealers-amenaca-robatori-dades/) s'alimenten d'aquesta debilitat.
 
 **Què revisar:**
 * Exigir contrasenyes úniques i robustes a tot l'equip.
@@ -112,7 +112,7 @@ La majoria de bretxes comencen per un clic o un distracció humana.
 * Protegir dispositius personals si s'utilitza teletreball.
 
 ## 10. Informe final i pla de millora per al 2026
-Després de revisar totes les àrees, documentar i planificar és crucial per a la millora contínua. Pots consultar el nostre article sobre [tendències per al 2026](/ca/blog/tendencies-ciberamenaces-2026-preparacio/) per alinear la teva estratègia.
+Després de revisar totes les àrees, documentar i planificar és crucial per a la millora contínua. Pots consultar el nostre article sobre [tendències per al 2026](/blog/ca/tendencies-ciberamenaces-2026-preparacio/) per alinear la teva estratègia.
 
 **Inclou:**
 * Troballes de l'any i incidents resolts.

@@ -90,7 +90,7 @@ Los atacantes se aprovechan del aumento de envíos y devoluciones para lanzar SM
 
 ## 7. IoT corporativo y TPV bajo ataque
 
-Cámaras, sensores, dispositivos IoT y terminales de pago conectados siguen siendo uno de los eslabones más débiles, especialmente en tiendas físicas durante campañas intensas. Como detallamos en nuestro artículo sobre [riesgos en dispositivos IoT](/es/blog/seguridad-iot-pymes/), la falta de parches es un problema crítico.
+Cámaras, sensores, dispositivos IoT y terminales de pago conectados siguen siendo uno de los eslabones más débiles, especialmente en tiendas físicas durante campañas intensas. Como detallamos en nuestro artículo sobre [riesgos en dispositivos IoT](/blog/20251020-seguridad-dispositivos-iot-pymes-riesgos-y-como-mitigarlos/), la falta de parches es un problema crítico.
 
 ### Acciones recomendadas
 * **Segmentar la red:** Separar la red IoT de la red principal de la empresa.

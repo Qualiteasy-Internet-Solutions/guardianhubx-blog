@@ -48,7 +48,7 @@ Muchos CEOs gestionan el negocio desde el móvil. Los delincuentes aprovechan es
 * Informar al equipo: “Si recibes un mensaje extraño de mi parte, no actúes; valida primero llamándome”.
 
 ## 3. Phishing dirigido (Spear Phishing)
-A diferencia del spam masivo, estos son correos muy bien elaborados con información real del negocio: nombres de proveedores, cargos, fechas… Todo para que el directivo confíe y haga clic en un enlace malicioso. Como explicamos en nuestro artículo sobre [vectores de ataque](/es/blog/vector-ataque-como-proteger-empresa/), la personalización es la clave de su éxito.
+A diferencia del spam masivo, estos son correos muy bien elaborados con información real del negocio: nombres de proveedores, cargos, fechas… Todo para que el directivo confíe y haga clic en un enlace malicioso. Como explicamos en nuestro artículo sobre [vectores de ataque](/blog/vector-ataque-como-proteger-empresa/), la personalización es la clave de su éxito.
 
 **Cómo evitarlo:**
 * Activar filtros avanzados de correo (anti-spam y anti-phishing).
@@ -72,7 +72,7 @@ El atacante investiga al directivo: dónde trabaja, con quién colabora, qué ev
 * Formarse en detección de técnicas de ingeniería social.
 
 ## 6. Malware para robo de credenciales (Infostealers)
-Correos, documentos o enlaces que instalan malware silencioso en el dispositivo del directivo. El objetivo: robar contraseñas guardadas, cookies de sesión y acceder al correo o banca online. Los [infostealers](/es/blog/infostealers-amenaza-robo-datos/) son una amenaza crítica para la alta dirección.
+Correos, documentos o enlaces que instalan malware silencioso en el dispositivo del directivo. El objetivo: robar contraseñas guardadas, cookies de sesión y acceder al correo o banca online. Los [infostealers](/blog/infostealers-amenaza-robo-datos/) son una amenaza crítica para la alta dirección.
 
 **Cómo evitarlo:**
 * Instalar soluciones EDR o antivirus avanzado en todos los dispositivos.

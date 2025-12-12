@@ -7,6 +7,7 @@ type: "blog"
 translationKey: "guia-60-minutos-ataque-ransomware"
 categories:
   - "Ciberseguretat"
+slug: "guia-60-minuts-atac-ransomware"
 tags:
   - ciberseguretat
   - ransomware

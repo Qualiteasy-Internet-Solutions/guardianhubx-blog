@@ -40,7 +40,7 @@ Tu móvil, tu portátil y tu tablet son tu oficina. Si un atacante accede a ello
 * Separa lo personal de lo profesional: intenta tener perfiles de usuario distintos si compartes ordenador con la familia.
 
 ## 2. Usa contraseñas seguras y un gestor
-Las contraseñas son la puerta de acceso a todo: correo, banca online, redes sociales y plataformas de facturación. El robo de estas claves mediante [infostealers](/es/blog/infostealers-amenaza-robo-datos/) es una de las amenazas más comunes.
+Las contraseñas son la puerta de acceso a todo: correo, banca online, redes sociales y plataformas de facturación. El robo de estas claves mediante [infostealers](/blog/infostealers-amenaza-robo-datos/) es una de las amenazas más comunes.
 
 **Buenas prácticas:**
 * Utiliza un **gestor de contraseñas** para generar y guardar claves complejas.
@@ -57,7 +57,7 @@ Es una de las medidas más importantes (y gratuitas) para cualquier autónomo. A
 * Herramientas de facturación o CRM.
 
 ## 4. Asegura tu correo: el canal principal de ataque
-El correo electrónico es por donde llegan el 90% de los intentos de fraude. Como explicamos en nuestra guía sobre [vectores de ataque](/es/blog/vector-ataque-como-proteger-empresa/), el phishing es la vía de entrada favorita de los atacantes.
+El correo electrónico es por donde llegan el 90% de los intentos de fraude. Como explicamos en nuestra guía sobre [vectores de ataque](/blog/vector-ataque-como-proteger-empresa/), el phishing es la vía de entrada favorita de los atacantes.
 
 **Qué revisar:**
 * No abras enlaces ni archivos de remitentes dudosos.

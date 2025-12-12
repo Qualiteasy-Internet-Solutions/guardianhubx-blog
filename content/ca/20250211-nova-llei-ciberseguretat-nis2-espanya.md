@@ -54,13 +54,13 @@ El règim sancionador previst és sever, amb multes que poden arribar **fins a 1
 
 Complir amb la NIS2 requereix un ecosistema de seguretat cohesionat. A GuardianHubX, hem dissenyat paquets de solucions que s'alineen directament amb els requisits de la directiva, creant múltiples capes de defensa:
 
-1.  **Seguretat del Perímetre i la Xarxa (IronWall):** El primer pas és protegir la xarxa d'accessos no autoritzats i amenaces externes. El nostre paquet [**IronWall**](https://guardianhubx.com/ca/objectius-ciberseguretat/) està dissenyat per enfortir el perímetre digital de la teva organització.
+1.  **Seguretat del Perímetre i la Xarxa (IronWall):** El primer pas és protegir la xarxa d'accessos no autoritzats i amenaces externes. El nostre paquet [**IronWall**](https://guardianhubx.com/ca/ironwall/) està dissenyat per enfortir el perímetre digital de la teva organització.
 
-2.  **Protecció Avançada de Dades i Resiliència (SmartLayer):** La NIS2 exigeix protegir la informació i garantir la continuïtat. Amb [**SmartLayer**](https://guardianhubx.com/ca/objectius-ciberseguretat/), implementes una capa de seguretat intel·ligent que inclou gestió avançada de credencials i còpies de seguretat encriptades per a una recuperació ràpida.
+2.  **Protecció Avançada de Dades i Resiliència (SmartLayer):** La NIS2 exigeix protegir la informació i garantir la continuïtat. Amb [**SmartLayer**](https://guardianhubx.com/ca/smartlayer/), implementes una capa de seguretat intel·ligent que inclou gestió avançada de credencials i còpies de seguretat encriptades per a una recuperació ràpida.
 
-3.  **Seguretat i Control d'Endpoints (LightCore):** Cada dispositiu és una porta d'entrada potencial. El paquet [**LightCore**](https://guardianhubx.com/ca/objectius-ciberseguretat/) assegura els teus ordinadors i servidors, permetent controlar les aplicacions, rastrejar dispositius i restaurar sistemes per neutralitzar qualsevol amenaça.
+3.  **Seguretat i Control d'Endpoints (LightCore):** Cada dispositiu és una porta d'entrada potencial. El paquet [**LightCore**](https://guardianhubx.com/ca/lightcore/) assegura els teus ordinadors i servidors, permetent controlar les aplicacions, rastrejar dispositius i restaurar sistemes per neutralitzar qualsevol amenaça.
 
-4.  **El Factor Humà com a Fortalesa (EduCraft):** La normativa reconeix el risc de l'error humà. Amb el nostre programa de conscienciació i formació [**EduCraft**](https://guardianhubx.com/ca/formacion-phishing-software/), convertim els teus empleats en una barrera de defensa activa contra el phishing i l'enginyeria social.
+4.  **El Factor Humà com a Fortalesa (EduCraft):** La normativa reconeix el risc de l'error humà. Amb el nostre programa de conscienciació i formació [**EduCraft**](https://guardianhubx.com/ca/educraft/), convertim els teus empleats en una barrera de defensa activa contra el phishing i l'enginyeria social.
 
 ## Conclusió
 

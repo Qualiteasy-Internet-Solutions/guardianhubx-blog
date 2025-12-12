@@ -34,29 +34,29 @@ Si te'n vas perdre algun, aquest és el moment de posar-te al dia.
 
 ## 1. L'amenaça silenciosa: Infostealers
 Al juny vam donar la veu d'alarma sobre l'auge del "Malware as a Service". Els infostealers es van convertir en l'eina preferida per robar credencials sense fer soroll.
-👉 **Lectura obligatòria:** [Infostealers: què són, com operen i com protegir les teves dades](/ca/blog/infostealers-amenaca-robatori-dades/)
+👉 **Lectura obligatòria:** [Infostealers: què són, com operen i com protegir les teves dades](/blog/ca/infostealers-amenaca-robatori-dades/)
 
 ## 2. Vectors d'Atac: Per on entren?
 A l'agost vam tornar als bàsics. Entendre que un ciberatac no és màgia, sinó un camí que l'atacant recorre, és vital per tancar portes.
-👉 **Aprèn a tancar-les:** [Què és un vector d'atac i com protegir la teva empresa](/ca/blog/vector-atac-proteccio-empresa/)
+👉 **Aprèn a tancar-les:** [Què és un vector d'atac i com protegir la teva empresa](/blog/ca/vector-atac-proteccio-empresa/)
 
 ## 3. La baula feble: IoT
 A l'octubre vam posar el focus en aquelles càmeres i impressores connectades que oblidem actualitzar. L'IoT ha estat una porta del darrere crítica.
-👉 **Assegura els teus dispositius:** [Seguretat per a dispositius IoT en pimes](/ca/blog/seguretat-dispositius-iot-pimes/)
+👉 **Assegura els teus dispositius:** [Seguretat per a dispositius IoT en pimes](/blog/ca/seguretat-dispositius-iot-pimes/)
 
 ## 4. La campanya més agressiva: Black Friday
 El novembre ens va portar un Black Friday marcat pel phishing hiperrealista i la IA. Les lliçons apreses serveixen per a tot l'any.
-👉 **Lliçons apreses:** [Ciberamenaces del Black Friday i què anticipar](/ca/blog/ciberamenaces-black-friday-2025-tendencies-2026/)
+👉 **Lliçons apreses:** [Ciberamenaces del Black Friday i què anticipar](/blog/ca/ciberamenaces-black-friday-2025-tendencies-2026/)
 
 ## 5. El cap al punt de mira
 Al desembre vam analitzar com els ciberdelinqüents ataquen directament la direcció. Si ets CEO o autònom, això t'interessa.
-👉 **Protegeix-te:** [Les ciberestafes més comunes al CEO i autònoms](/ca/blog/ciberestafes-ceo-autonoms-pimes/)
+👉 **Protegeix-te:** [Les ciberestafes més comunes al CEO i autònoms](/blog/ca/ciberestafes-ceo-autonoms-pimes/)
 
 ## 6. Auditoria i Futur
 Per tancar l'any, us vam donar les eines pràctiques i la visió de futur.
-* 📋 **Checklist pràctic:** [Com auditar la teva empresa abans de final d'any](/ca/blog/checklist-ciberseguretat-fi-any-pimes/)
-* 🔮 **Tendències:** [El que ve el 2026](/ca/blog/tendencies-ciberamenaces-2026-preparacio/)
-* ⚡ **Opinió radical:** [Per què el teu checklist ja no serveix](/ca/blog/ciberseguretat-2026-fi-checklists/)
+* 📋 **Checklist pràctic:** [Com auditar la teva empresa abans de final d'any](/blog/ca/checklist-ciberseguretat-fi-any-pimes/)
+* 🔮 **Tendències:** [El que ve el 2026](/blog/ca/tendencies-ciberamenaces-2026-preparacio/)
+* ⚡ **Opinió radical:** [Per què el teu checklist ja no serveix](/blog/ca/ciberseguretat-2026-fi-checklists/)
 
 ---
 

@@ -39,7 +39,7 @@ Un error de configuración puede dejar accesibles datos sensibles a cualquier pe
 * **Ejemplos frecuentes:** Bases de datos sin contraseña, permisos excesivos en carpetas compartidas o servicios que se dejan “abiertos al mundo” por accidente.
 
 ### 1.2. Accesos no protegidos
-Si la empresa no usa autenticación multifactor ni gestiona adecuadamente sus contraseñas, una simple filtración puede dar acceso completo a la nube. Amenazas como los [infostealers](/es/blog/infostealers-amenaza-robo-datos/) están diseñadas precisamente para robar estas credenciales.
+Si la empresa no usa autenticación multifactor ni gestiona adecuadamente sus contraseñas, una simple filtración puede dar acceso completo a la nube. Amenazas como los [infostealers](/blog/infostealers-amenaza-robo-datos/) están diseñadas precisamente para robar estas credenciales.
 
 ### 1.3. Falta de control sobre el uso interno (Shadow IT)
 Muchos empleados instalan aplicaciones en la nube sin avisar al departamento técnico, exponiendo datos corporativos sin que la empresa lo sepa.

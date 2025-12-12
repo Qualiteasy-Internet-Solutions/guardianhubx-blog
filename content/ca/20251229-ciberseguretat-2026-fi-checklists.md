@@ -27,7 +27,7 @@ El tancament d'any sempre porta la clàssica llista de tasques: pressupostos, so
 
 Però serem clars: **aquest 2025 és diferent**.
 
-Si ets dels que adoren anar marcant caselles en una llista tradicional, tenim un article perfecte per a tu sobre [com auditar la teva empresa abans de final d'any](/ca/blog/checklist-ciberseguretat-fi-any-pimes/). Pots anar allà, llegir-lo i dormir tranquila.
+Si ets dels que adoren anar marcant caselles en una llista tradicional, tenim un article perfecte per a tu sobre [com auditar la teva empresa abans de final d'any](/blog/ca/checklist-ciberseguretat-fi-any-pimes/). Pots anar allà, llegir-lo i dormir tranquila.
 
 Però si sospites que continuar aplicant les mateixes mesures de seguretat que el 2024 és deixar la porta oberta a un desastre, **queda't aquí**.
 

@@ -40,7 +40,7 @@ El teu mòbil, el teu portàtil i la teva tauleta són la teva oficina. Si un at
 * Separa el que és personal del que és professional: intenta tenir perfils d'usuari diferents si comparteixes ordinador amb la família.
 
 ## 2. Fes servir contrasenyes segures i un gestor
-Les contrasenyes són la porta d'accés a tot: correu, banca online, xarxes socials i plataformes de facturació. El robatori d'aquestes claus mitjançant [infostealers](/ca/blog/infostealers-amenaca-robatori-dades/) és una de les amenaces més comunes.
+Les contrasenyes són la porta d'accés a tot: correu, banca online, xarxes socials i plataformes de facturació. El robatori d'aquestes claus mitjançant [infostealers](/blog/ca/infostealers-amenaca-robatori-dades/) és una de les amenaces més comunes.
 
 **Bones pràctiques:**
 * Utilitza un **gestor de contrasenyes** per generar i guardar claus complexes.
@@ -57,7 +57,7 @@ Les contrasenyes són la porta d'accés a tot: correu, banca online, xarxes soci
 * Eines de facturació o CRM.
 
 ## 4. Assegura el teu correu: el canal principal d'atac
-El correu electrònic és per on arriben el 90% dels intents de frau. Com expliquem a la nostra guia sobre [vectors d'atac](/ca/blog/vector-atac-proteccio-empresa/), el phishing és la via d'entrada preferida dels atacants.
+El correu electrònic és per on arriben el 90% dels intents de frau. Com expliquem a la nostra guia sobre [vectors d'atac](/blog/ca/vector-atac-proteccio-empresa/), el phishing és la via d'entrada preferida dels atacants.
 
 **Què revisar:**
 * No obris enllaços ni fitxers de remitents dubtosos.

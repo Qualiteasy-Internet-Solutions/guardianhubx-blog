@@ -5,6 +5,7 @@ date: 2025-10-20T00:00:00+00:00
 draft: false
 type: "blog"
 translationKey: "seguridad-iot-pymes"
+slug: "seguretat-dispositius-iot-pimes"
 categories:
   - "Ciberseguretat"
 tags:

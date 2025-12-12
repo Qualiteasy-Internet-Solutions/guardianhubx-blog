@@ -75,4 +75,4 @@ El smartphone es hoy en día una herramienta crítica en el día a día profesio
 
 En GuardianHubX ayudamos a autónomos y pymes a blindar su seguridad digital, incluyendo la protección de dispositivos móviles con soluciones personalizadas y **gestión de MDM**. Puedes empezar haciendo nuestro [test gratuito de **ciberseguridad**](https://guardianhubx.com/es/test-ciberseguridad/) para conocer tu nivel de riesgo.
 
-👉 ¿Quieres proteger los dispositivos móviles de tu empresa con una estrategia sólida? [Ponte en contacto con nosotros](https://guardianhubx.com/es/contacto/) y te ayudamos a implementar las mejores soluciones.
+👉 ¿Quieres proteger los dispositivos móviles de tu empresa con una estrategia sólida? [Ponte en contacto con nosotros](https://guardianhubx.com/es/#contact) y te ayudamos a implementar las mejores soluciones.

@@ -4,9 +4,10 @@ author: "GuardianHubX"
 date: 2025-08-24T00:00:00+00:00
 draft: false
 type: "blog"
-translationKey: "vector-ataque-como-proteger-empresa"
+translationKey: "vector-ataque-proteccion-empresa"
 categories:
   - "Ciberseguridad"
+slug: "vector-ataque-como-proteger-empresa"
 tags:
   - ciberseguridad
   - amenazas-digitales

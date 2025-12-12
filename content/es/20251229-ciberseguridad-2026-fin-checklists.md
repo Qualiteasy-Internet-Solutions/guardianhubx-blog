@@ -27,7 +27,7 @@ El cierre de año siempre trae consigo la clásica lista de tareas: presupuestos
 
 Pero vamos a ser claros: **este 2025 es diferente**.
 
-Si eres de los que adoran ir marcando casillas en una lista tradicional, tenemos un artículo perfecto para ti sobre [cómo auditar tu empresa antes de fin de año](/es/blog/checklist-ciberseguridad-fin-ano-pymes/). Puedes ir allí, leerlo y dormir tranquila.
+Si eres de los que adoran ir marcando casillas en una lista tradicional, tenemos un artículo perfecto para ti sobre [cómo auditar tu empresa antes de fin de año](/blog/checklist-ciberseguridad-fin-ano-pymes/). Puedes ir allí, leerlo y dormir tranquila.
 
 Pero si sospechas que seguir aplicando las mismas medidas de seguridad que en 2024 es dejar la puerta abierta a un desastre, **quédate aquí**.
 

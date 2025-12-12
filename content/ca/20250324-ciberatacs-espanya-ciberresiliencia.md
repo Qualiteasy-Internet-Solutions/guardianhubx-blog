@@ -33,9 +33,9 @@ Els cibercriminals han perfeccionat les seves estratègies, aprofitant debilitat
 
 1.  **Explotació de vulnerabilitats en proveïdors externs** Molts atacs recents han tingut lloc a través de bretxes de seguretat en tercers amb accés a dades sensibles. Això compromet informació personal i confidencial, evidenciant la fragilitat de les cadenes de subministrament digitals. Avaluar i reforçar les mesures de seguretat amb proveïdors esdevé essencial.
 
-2.  **Atacs de ransomware** El [programari de segrest (ransomware)](https://guardianhubx.com/blog/2024-08-16-como-puedo-proteger-mi-red-de-ataques-de-ransomware/) continua en augment, amb delinqüents que xifren les dades empresarials i exigeixen un rescat per a la seva recuperació. En alguns casos, han arribat a paralitzar operacions essencials i generar grans pèrdues econòmiques. Comptar amb estratègies de suport i eines de prevenció és fonamental.
+2.  **Atacs de ransomware** El [programari de segrest (ransomware)](https://guardianhubx.com/blog/ca/com-protegir-xarxa-atacs-ransomware/) continua en augment, amb delinqüents que xifren les dades empresarials i exigeixen un rescat per a la seva recuperació. En alguns casos, han arribat a paralitzar operacions essencials i generar grans pèrdues econòmiques. Comptar amb estratègies de suport i eines de prevenció és fonamental.
 
-3.  **Phishing i enginyeria social** Les campanyes de [phishing](https://guardianhubx.com/ca/formacion-phishing-software/) han evolucionat, utilitzant intel·ligència artificial per generar missatges convincents i altament personalitzats. Aquests atacs busquen enganyar empleats i clients per obtenir credencials d'accés i realitzar fraus financers. La conscienciació i formació dels equips són clau.
+3.  **Phishing i enginyeria social** Les campanyes de [phishing](https://guardianhubx.com/ca/formacio-phishing-software/) han evolucionat, utilitzant intel·ligència artificial per generar missatges convincents i altament personalitzats. Aquests atacs busquen enganyar empleats i clients per obtenir credencials d'accés i realitzar fraus financers. La conscienciació i formació dels equips són clau.
 
 ## Estratègies per enfortir la ciberresiliència
 

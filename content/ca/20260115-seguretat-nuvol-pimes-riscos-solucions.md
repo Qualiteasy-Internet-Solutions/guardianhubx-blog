@@ -39,7 +39,7 @@ Un error de configuració pot deixar accessibles dades sensibles a qualsevol per
 * **Exemples freqüents:** Bases de dades sense contrasenya, permisos excessius en carpetes compartides o serveis que es deixen "oberts al món" per accident.
 
 ### 1.2. Accessos no protegits
-Si l'empresa no utilitza l'autenticació multifactor ni gestiona adequadament les seves contrasenyes, una simple filtració pot donar accés complet al núvol. Amenaces com els [infostealers](/ca/blog/infostealers-amenaca-robatori-dades/) estan dissenyades precisament per robar aquestes credencials.
+Si l'empresa no utilitza l'autenticació multifactor ni gestiona adequadament les seves contrasenyes, una simple filtració pot donar accés complet al núvol. Amenaces com els [infostealers](/blog/ca/infostealers-amenaca-robatori-dades/) estan dissenyades precisament per robar aquestes credencials.
 
 ### 1.3. Manca de control sobre l'ús intern (Shadow IT)
 Molts empleats instal·len aplicacions al núvol sense avisar el departament tècnic, exposant dades corporatives sense que l'empresa ho sàpiga.

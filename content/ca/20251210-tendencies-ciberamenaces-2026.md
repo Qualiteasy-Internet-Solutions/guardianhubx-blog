@@ -57,7 +57,7 @@ Els *deepfakes* s'empraran no només per a la clàssica "estafa del CEO", sinó 
 
 ## 4. Atacs a la cadena de subministrament digital
 
-Augmentarà l'atac indirecte: comprometre un proveïdor per arribar a tu. Com expliquem en el nostre article sobre [vectors d'atac](/ca/blog/vector-atac-proteccio-empresa/), aquest mètode creix cada any i el 2026 serà una preocupació global prioritària.
+Augmentarà l'atac indirecte: comprometre un proveïdor per arribar a tu. Com expliquem en el nostre article sobre [vectors d'atac](/blog/ca/vector-atac-proteccio-empresa/), aquest mètode creix cada any i el 2026 serà una preocupació global prioritària.
 
 **Com preparar-te:**
 * **Auditories:** Revisa la seguretat dels teus proveïdors crítics.
@@ -75,7 +75,7 @@ Els atacs que no deixen rastre al disc dur seran molt més comuns, aprofitant la
 
 ## 6. Explotació massiva de l'IoT i dispositius intel·ligents
 
-Càmeres, sensors, routers, assistents intel·ligents i fins i tot maquinària industrial seran punts d'atac amb freqüència creixent. La seguretat a l'[Internet de les Coses](/ca/blog/seguretat-dispositius-iot-pimes/) és, sovint, la baula més feble.
+Càmeres, sensors, routers, assistents intel·ligents i fins i tot maquinària industrial seran punts d'atac amb freqüència creixent. La seguretat a l'[Internet de les Coses](/blog/ca/seguretat-dispositius-iot-pimes/) és, sovint, la baula més feble.
 
 **Com preparar-te:**
 * **Aïllament:** Separa la xarxa IoT de la xarxa principal de dades corporatives.

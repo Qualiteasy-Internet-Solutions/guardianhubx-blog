@@ -38,15 +38,15 @@ La IA permet als atacants:
 
 #### Programari Maliciós Polimòrfic Automatitzat
 
-La IA pot generar codi maliciós que canvia constantment la seva firma per evitar ser detectat. Aquestes variants, distribuïdes a gran escala, requereixen solucions d'endpoint que no depenguin només de firmes, com les incloses en el nostre paquet **[LightCore](https://guardianhubx.com/ca/objectius-ciberseguretat/)**, que pot restaurar sistemes al seu estat original i segur.
+La IA pot generar codi maliciós que canvia constantment la seva firma per evitar ser detectat. Aquestes variants, distribuïdes a gran escala, requereixen solucions d'endpoint que no depenguin només de firmes, com les incloses en el nostre paquet **[LightCore](hhttps://guardianhubx.com/ca/lightcore/)**, que pot restaurar sistemes al seu estat original i segur.
 
 #### Enginyeria Social Personalitzada
 
-Els algorismes d'aprenentatge automàtic poden analitzar perfils en xarxes socials i correus electrònics per dissenyar atacs de **phishing** altament personalitzats. La millor defensa contra això és un empleat ben format, per la qual cosa la conscienciació contínua és una peça central dels nostres paquets de seguretat com **[SmartLayer](https://guardianhubx.com/ca/objectius-ciberseguretat/)**.
+Els algorismes d'aprenentatge automàtic poden analitzar perfils en xarxes socials i correus electrònics per dissenyar atacs de **phishing** altament personalitzats. La millor defensa contra això és un empleat ben format, per la qual cosa la conscienciació contínua és una peça central dels nostres paquets de seguretat com **[SmartLayer](https://guardianhubx.com/ca/smartlayer/)**.
 
 #### Atacs Invisibles a la Xarxa
 
-Mitjançant la manipulació de trànsit xifrat o l'ús de comportaments similars als d'usuaris legítims, els atacants poden passar desapercebuts. Protegir el perímetre de la xarxa és fonamental, una tasca per a la qual està dissenyat el nostre paquet de seguretat **[IronWall](https://guardianhubx.com/ca/objectius-ciberseguretat/)**.
+Mitjançant la manipulació de trànsit xifrat o l'ús de comportaments similars als d'usuaris legítims, els atacants poden passar desapercebuts. Protegir el perímetre de la xarxa és fonamental, una tasca per a la qual està dissenyat el nostre paquet de seguretat **[IronWall](https://guardianhubx.com/ca/ironwall/)**.
 
 ### Com Protegir-se a l'Era de la IA Maliciosa
 

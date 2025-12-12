@@ -6,6 +6,7 @@ draft: false
 type: "blog"
 categories:
   - "Ciberseguretat"
+slug: "infostealers-amenaca-robatori-dades"
 tags:
   - "Ciberseguretat"
   - "Seguretat Informàtica"
@@ -75,7 +76,7 @@ Les conseqüències d'una infecció per infostealer poden ser immediates o difer
 - Robatori de credencials corporatives que donen accés a sistemes interns
 - Suplantació d'identitat per realitzar fraus financers
 - Filtracions d'informació confidencial o estratègica
-- Accés inicial per a futurs atacs com ara el [ransomware](https://guardianhubx.com/blog/2024-08-16-como-puedo-proteger-mi-red-de-ataques-de-ransomware/) o l'espionatge industrial
+- Accés inicial per a futurs atacs com ara el [ransomware](https://guardianhubx.com/blog/ca/com-protegir-xarxa-atacs-ransomware/) o l'espionatge industrial
 
 📊 Segons diversos informes, entre juny de 2022 i febrer de 2023, la quantitat de credencials robades i publicades a la dark web va augmentar en més d'un 150%.
 

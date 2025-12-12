@@ -90,7 +90,7 @@ Els atacants s'aprofiten de l'augment massiu d'enviaments i devolucions per llan
 
 ## 7. IoT corporatiu i TPV sota atac
 
-Càmeres, sensors, dispositius intel·ligents i terminals de pagament (TPV) connectats continuen sent una de les baules més febles, especialment en botigues físiques durant campanyes intenses. Com vam detallar en el nostre article sobre [seguretat IoT per a PIMES](/ca/blog/seguretat-dispositius-iot-pimes/), la manca de pedaços és un problema crític.
+Càmeres, sensors, dispositius intel·ligents i terminals de pagament (TPV) connectats continuen sent una de les baules més febles, especialment en botigues físiques durant campanyes intenses. Com vam detallar en el nostre article sobre [seguretat IoT per a PIMES](/blog/ca/seguretat-dispositius-iot-pimes/), la manca de pedaços és un problema crític.
 
 ### Accions recomanades
 * **Segmentació:** Aïllar la xarxa IoT i de TPV de la xarxa principal de dades corporatives.

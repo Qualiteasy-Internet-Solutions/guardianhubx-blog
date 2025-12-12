@@ -33,7 +33,7 @@ Los cibercriminales han perfeccionado sus estrategias, aprovechando debilidades 
 
 1.  **Explotación de vulnerabilidades en proveedores externos** Muchos ataques recientes han ocurrido a través de brechas de seguridad en terceros con acceso a datos sensibles. Esto compromete información personal y confidencial, evidenciando la fragilidad de las cadenas de suministro digitales. Evaluar y reforzar las medidas de seguridad con proveedores se vuelve esencial.
 
-2.  **Ataques de ransomware** El [ransomware](https://guardianhubx.com/blog/2024-08-16-como-puedo-proteger-mi-red-de-ataques-de-ransomware/) sigue en aumento, con delincuentes que cifran los datos empresariales y exigen un rescate para su recuperación. En algunos casos, han llegado a paralizar operaciones esenciales y generar grandes pérdidas económicas. Contar con estrategias de respaldo y herramientas de prevención es fundamental.
+2.  **Ataques de ransomware** El [ransomware](https://guardianhubx.com/blog/como-proteger-red-ataques-ransomware/) sigue en aumento, con delincuentes que cifran los datos empresariales y exigen un rescate para su recuperación. En algunos casos, han llegado a paralizar operaciones esenciales y generar grandes pérdidas económicas. Contar con estrategias de respaldo y herramientas de prevención es fundamental.
 
 3.  **Phishing e ingeniería social** Las campañas de [phishing](https://guardianhubx.com/es/formacion-phishing-software/) han evolucionado, utilizando inteligencia artificial para generar mensajes convincentes y altamente personalizados. Estos ataques buscan engañar a empleados y clientes para obtener credenciales de acceso y realizar fraudes financieros. La concienciación y formación de los equipos son clave.
 

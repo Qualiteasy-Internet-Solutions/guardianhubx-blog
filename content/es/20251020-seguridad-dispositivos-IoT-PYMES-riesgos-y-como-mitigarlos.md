@@ -4,6 +4,7 @@ author: "GuardianHubX"
 date: 2025-10-20T00:00:00+00:00
 draft: false
 type: "blog"
+slug: "seguridad-dispositivos-iot-pymes-riesgos-y-como-mitigarlos"
 translationKey: "seguridad-iot-pymes"
 categories:
   - "Ciberseguridad"
@@ -69,6 +70,6 @@ La clave es integrarlos dentro de una **estrategia global de ciberseguridad**: d
 En GuardianHubX ayudamos a autónomos y pymes a proteger todos sus activos digitales, incluidos los dispositivos IoT, para que puedan aprovechar la innovación con la tranquilidad de estar seguros.
 
 🔗 ¿Quieres saber cómo blindar la seguridad de tu empresa?
-[Ponte en contacto con nosotros](https://guardianhubx.com/es/contacto/) y te ayudamos a proteger tu negocio.
+[Ponte en contacto con nosotros](https://guardianhubx.com/es/#contact) y te ayudamos a proteger tu negocio.
 
 --------------

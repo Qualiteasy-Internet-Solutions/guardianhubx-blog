@@ -57,7 +57,7 @@ Los *deepfakes* se emplearán no solo para la clásica "estafa del CEO", sino ta
 
 ## 4. Ataques a la cadena de suministro digital
 
-Aumentará el ataque indirecto: comprometer a un proveedor para llegar a ti. Como explicamos en nuestro artículo sobre [vectores de ataque](/es/blog/vector-ataque-como-proteger-empresa/), este método crece cada año y en 2026 será una preocupación global prioritaria.
+Aumentará el ataque indirecto: comprometer a un proveedor para llegar a ti. Como explicamos en nuestro artículo sobre [vectores de ataque](/blog/vector-ataque-proteccion-empresa/),sa este método crece cada año y en 2026 será una preocupación global prioritaria.
 
 **Cómo prepararte:**
 * **Auditorías:** Revisa la seguridad de tus proveedores críticos.
@@ -75,7 +75,7 @@ Los ataques que no dejan rastro en el disco duro serán mucho más comunes, apro
 
 ## 6. Explotación masiva de IoT y dispositivos inteligentes
 
-Cámaras, sensores, routers, asistentes inteligentes y hasta maquinaria industrial serán puntos de ataque con frecuencia creciente. La seguridad en el [Internet de las Cosas](/es/blog/seguridad-iot-pymes/) es, a menudo, el eslabón más débil.
+Cámaras, sensores, routers, asistentes inteligentes y hasta maquinaria industrial serán puntos de ataque con frecuencia creciente. La seguridad en el [Internet de las Cosas](/blog/seguridad-dispositivos-iot-pymes-riesgos-y-como-mitigarlos/) es, a menudo, el eslabón más débil.
 
 **Cómo prepararte:**
 * **Aislamiento:** Separa la red IoT de la red principal de datos corporativos.

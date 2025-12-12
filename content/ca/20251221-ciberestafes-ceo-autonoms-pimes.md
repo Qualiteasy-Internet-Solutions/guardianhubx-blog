@@ -48,7 +48,7 @@ Molts CEOs gestionen el negoci des del mòbil. Els delinqüents aprofiten això 
 * Informar l'equip: "Si reps un missatge estrany de la meva part, no actuïs; valida primer trucant-me".
 
 ## 3. Phishing dirigit (Spear Phishing)
-A diferència de l'spam massiu, aquests són correus molt ben elaborats amb informació real del negoci: noms de proveïdors, càrrecs, dates... Tot perquè el directiu confiï i faci clic en un enllaç maliciós. Com expliquem en el nostre article sobre [vectors d'atac](/ca/blog/vector-atac-proteccio-empresa/), la personalització és la clau del seu èxit.
+A diferència de l'spam massiu, aquests són correus molt ben elaborats amb informació real del negoci: noms de proveïdors, càrrecs, dates... Tot perquè el directiu confiï i faci clic en un enllaç maliciós. Com expliquem en el nostre article sobre [vectors d'atac](/blog/ca/vector-atac-proteccio-empresa/), la personalització és la clau del seu èxit.
 
 **Com evitar-ho:**
 * Activar filtres avançats de correu (anti-spam i anti-phishing).
@@ -72,7 +72,7 @@ L'atacant investiga el directiu: on treballa, amb qui col·labora, quins esdeven
 * Formar-se en detecció de tècniques d'enginyeria social.
 
 ## 6. Malware per a robatori de credencials (Infostealers)
-Correus, documents o enllaços que instal·len malware silenciós al dispositiu del directiu. L'objectiu: robar contrasenyes desades, cookies de sessió i accedir al correu o banca online. Els [infostealers](/ca/blog/infostealers-amenaca-robatori-dades/) són una amenaça crítica per a l'alta direcció.
+Correus, documents o enllaços que instal·len malware silenciós al dispositiu del directiu. L'objectiu: robar contrasenyes desades, cookies de sessió i accedir al correu o banca online. Els [infostealers](/blog/ca/infostealers-amenaca-robatori-dades/) són una amenaça crítica per a l'alta direcció.
 
 **Com evitar-ho:**
 * Instal·lar solucions EDR o antivirus avançat en tots els dispositius.

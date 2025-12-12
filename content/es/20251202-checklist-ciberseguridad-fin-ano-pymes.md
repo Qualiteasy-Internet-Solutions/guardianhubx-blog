@@ -40,7 +40,7 @@ A lo largo del año entran y salen empleados, proveedores y colaboradores. Esto 
 * Habilitar **autenticación multifactor (MFA)** en todos los servicios críticos.
 
 ## 2. Revisión de contraseñas y políticas internas
-Las contraseñas se filtran, se repiten o se reutilizan más de lo que parece. Amenazas como los [infostealers](/es/blog/infostealers-amenaza-robo-datos/) se alimentan de esta debilidad.
+Las contraseñas se filtran, se repiten o se reutilizan más de lo que parece. Amenazas como los [infostealers](/blog/infostealers-amenaza-robo-datos/) se alimentan de esta debilidad.
 
 **Qué revisar:**
 * Exigir contraseñas únicas y robustas a todo el equipo.
@@ -112,7 +112,7 @@ La mayoría de brechas empiezan por un clic o un descuido humano.
 * Proteger dispositivos personales si se utiliza teletrabajo.
 
 ## 10. Informe final y plan de mejora para 2026
-Después de revisar todas las áreas, documentar y planificar es crucial para la mejora continua. Puedes consultar nuestro artículo sobre [tendencias para 2026](/es/blog/tendencias-ciberamenazas-2026-preparacion/) para alinear tu estrategia.
+Después de revisar todas las áreas, documentar y planificar es crucial para la mejora continua. Puedes consultar nuestro artículo sobre [tendencias para 2026](/blog/tendencias-ciberamenazas-2026-preparacion/) para alinear tu estrategia.
 
 **Incluye:**
 * Hallazgos del año y incidentes resueltos.
