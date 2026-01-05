@@ -38,7 +38,7 @@ En junio dimos la voz de alarma sobre el auge del "Malware as a Service". Los in
 
 ## 2. Vectores de Ataque: ¿Por dónde entran?
 En agosto volvimos a los básicos. Entender que un ciberataque no es magia, sino un camino que el atacante recorre, es vital para cerrar puertas.
-👉 **Aprende a cerrarlas:** [Qué es un vector de ataque y cómo proteger tu empresa](//blog/vector-ataque-como-proteger-empresa/)
+👉 **Aprende a cerrarlas:** [Qué es un vector de ataque y cómo proteger tu empresa](/blog/vector-ataque-como-proteger-empresa/)
 
 ## 3. El eslabón débil: IoT
 En octubre pusimos el foco en esas cámaras e impresoras conectadas que olvidamos actualizar. El IoT ha sido una puerta trasera crítica.
