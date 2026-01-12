@@ -40,13 +40,20 @@
       </div>
     {{ end }}
 
-    {{/* 🔍 Pàgines del blog només de l'idioma actual */}}
+    {{/* 🔍 LOGICA DE FILTRATGE CORREGIDA */}}
     {{ $mainSections := .Site.Params.mainSections | default (slice "blog") }}
-    {{ $pages := where .Site.RegularPages "Type" "in" $mainSections }}
+    {{ $pages := .Pages }}
+    {{ if .IsHome }}
+      {{ $pages = .Site.RegularPages }}
+    {{ end }}
+
+    {{ $pages = where $pages "Type" "in" $mainSections }}
     {{ $pages = where $pages "Lang" .Lang }}
+
     {{ if .IsHome }}
       {{ $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
     {{ end }}
+    {{/* --------------------------- */}}
 
     {{ $paginator := .Paginate $pages }}
 
