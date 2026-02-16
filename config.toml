@@ -22,6 +22,9 @@ uglyURLs                      = false
     
     [languages.es.params]
       mainSections = ["blog"]
+      description  = "Blog de ciberseguridad de GuardianHubX: consejos, guías y análisis para proteger tu empresa de ciberamenazas."
+      keywords     = ["ciberseguridad", "protección empresas", "ransomware", "malware", "phishing", "seguridad informática", "PYMES"]
+      author       = "GuardianHubX"
     
     [languages.es.permalinks]
       blog = "/blog/:slug/"
@@ -34,6 +37,9 @@ uglyURLs                      = false
     
     [languages.ca.params]
       mainSections = ["blog"]
+      description  = "Blog de ciberseguretat de GuardianHubX: consells, guies i anàlisis per protegir la teva empresa de ciberamenaces."
+      keywords     = ["ciberseguretat", "protecció empreses", "ransomware", "malware", "phishing", "seguretat informàtica", "PIMES"]
+      author       = "GuardianHubX"
     
     [languages.ca.permalinks]
       blog = "/blog/ca/:slug/"
@@ -44,6 +50,18 @@ uglyURLs                      = false
   showReadingTime    = true
   disableThemeToggle = true
   mainSections       = ["blog"]
+  description        = "Blog de ciberseguridad de GuardianHubX: consejos, guías y análisis para proteger tu empresa de ciberamenazas."
+  keywords           = ["ciberseguridad", "protección empresas", "ransomware", "malware", "phishing", "seguridad informática", "PYMES"]
+  author             = "GuardianHubX"
+
+[params.schema]
+  publisherType = "Organization"
+  sameAs = [
+    "https://www.linkedin.com/company/qualiteasyeu",
+    "https://www.tiktok.com/@GuardianHubX",
+    "https://www.youtube.com/@GuardianHubX",
+    "https://www.instagram.com/guardianhubx"
+  ]
 
 [params.assets]
   disableFingerprinting = true
