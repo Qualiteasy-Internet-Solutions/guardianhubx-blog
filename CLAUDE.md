@@ -83,3 +83,8 @@ SEO is handled by PaperMod's `head.html` partial (in the theme, not overridden l
 - Google Search Console is validated at domain level (no per-site verification tag needed).
 - Google Analytics is handled via GTM (GTM-584VRJ97) in `layouts/partials/header.html`, not via Hugo's built-in analytics config.
 - Cover images use absolute path format (`uploads/image.webp`) — OG/Twitter image URLs depend on `canonifyURLs = true` to resolve correctly to the full `https://guardianhubx.com/blog/uploads/...` path.
+
+### My Project Rules
+- ALWAYS use Claude 3.5 Haiku for simple tasks.
+- ASK for permission before running broad audits or reading more than 5 files.
+- WARNING: We are on a tight token budget. Be concise.
