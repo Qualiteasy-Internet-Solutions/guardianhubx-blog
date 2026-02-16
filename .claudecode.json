@@ -1,4 +1,4 @@
 {
-  "model": "claude-3-5-haiku-latest",
+  "model": "haiku",
   "autoApprove": false
 }
