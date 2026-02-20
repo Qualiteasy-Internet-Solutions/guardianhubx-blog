@@ -48,9 +48,51 @@ En el món de la gestió de TI, sovint sorgeixen acrònims que poden semblar con
 
 **Escenari d'Ús Principal**: L'RMM s'utilitza en entorns empresarials per garantir que els sistemes funcionin sense problemes. Aquesta filosofia de gestió proactiva i centralitzada és el nucli de la plataforma de GuardianHubX i dels nostres paquets de seguretat com **[LightCore](https://guardianhubx.com/ca/lightcore/)** i **[SmartLayer](https://guardianhubx.com/ca/smartlayer/)**.
 
+## Comparativa Ràpida: RDM vs RMM
+
+| Aspecte | RDM | RMM |
+|--------|-----|-----|
+| **Abast** | Un equip a la vegada | Múltiples equipos simultàniament |
+| **Objectiu** | Suport tècnic remot | Monitoratge i automatització |
+| **Automatització** | Manual | Automatitzada |
+| **Escalabilitat** | Limitada | Sense límits |
+| **Corba d'aprenentatge** | Molt simple | Requereix més configuració |
+| **ROI** | Per a suport puntual | Per a operacions 24/7 |
+
+## Quan Usar RDM vs RMM
+
+### Usa RDM si:
+- Necessites ajudar a un usuari amb un problema específic
+- Tens un nombre molt petit de dispositius (< 10)
+- Solo busques solucions d'accés remot puntual
+- El teu pressupost és molt limitat
+
+### Usa RMM si:
+- Necessites gestionar 10+ dispositius
+- Vols reduir costes operatius de TI
+- Requereix cumpliment normatiu i auditories
+- Desitges proactivitat en lloc de reactivitat
+
+## Exemples Reals d'Implementació
+
+**Cas 1: Consultoria (50 empleats)**
+- RMM permet actualitzar tots els equipos sense intervenció manual
+- Redueix tiquets de suport en 40%
+- ROI assolit en 6 mesos
+
+**Cas 2: Escola (300 PCs)**
+- RMM automatitza patching de sistemes educatius
+- Millora seguretat sense afectar disponibilitat d'aules
+- Control centralitzat des d'oficina de TI
+
+**Cas 3: Distribuidora (200 dispositivos dispersos geogràficament)**
+- RMM monitoritza stock servers i sistemes POS
+- Detecta falles abans que afectin operacions
+- Genera informes automàtics de cumpliment
+
 ## En resum:
 
-Mentre que l'**RDM** s'enfoca en l'accés remot i el control directe d'un ordinador específic, l'**RMM** se centra en la supervisió, l'administració centralitzada i l'automatització de tasques en tota una xarxa de dispositius.
+Mentre que l'**RDM** s'enfoca en l'accés remot i el control directe d'un ordinador específic, l'**RMM** se centra en la supervisió, l'administració centralitzada i l'automatització de tasques en tota una xarxa de dispositius. Per a empreses modernes, RMM és la base operativa essencial, mentre que les capacitats RDM són complementàries per a suport puntual.
 
 ## RDM, RMM o Tots Dos? La Solució de GuardianHubX
 

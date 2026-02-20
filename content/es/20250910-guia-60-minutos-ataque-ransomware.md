@@ -71,6 +71,41 @@ A continuación, los pasos que tu empresa debe seguir durante esa primera hora c
 
 ---
 
+
+## Minutos 1-15: Acción Inmediata
+
+**Aislamiento:**
+1. Desconecta máquina infectada de la red (físicamente si es posible)
+2. Apaga conexión inalámbrica
+3. No apagues el dispositivo (información en memoria)
+4. Notifica al equipo de TI designado
+
+## Minutos 15-45: Evaluación y Contención
+
+**Evalúa el alcance:**
+- ¿Qué dispositivos están afectados?
+- ¿Qué datos comprometidos?
+- ¿Se propagó por la red?
+
+**Contención:**
+- Aísla toda la red si es necesario
+- Desactiva cuentas comprometidas
+- Cambia contraseñas críticas
+- Busca punto de entrada
+
+## Minutos 45-60: Análisis y Decisión
+
+**Análisis:**
+- Screenshots del escritorio
+- Documenta archivos encriptados
+- Busca notas de rescate
+- Identifica tipo de ransomware
+
+**Decisión crítica:**
+- ¡NO PAGUES el rescate!
+- Involucra autoridades locales
+- Prepara plan de recuperación de backups
+- Comienza análisis forense
 ## ✅ Conclusión
 Los **primeros 60 minutos** tras un ataque de ransomware marcan la diferencia entre una recuperación rápida y un desastre prolongado.  
 

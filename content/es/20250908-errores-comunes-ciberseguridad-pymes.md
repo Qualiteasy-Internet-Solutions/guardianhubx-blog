@@ -37,9 +37,18 @@ Los ciberdelincuentes saben que, muchas veces, estas organizaciones cuentan con 
 
 A continuación, repasamos los **5 errores más comunes en ciberseguridad que cometen las pymes** y cómo evitarlos con acciones sencillas.
 
+## Impacto Real de un Ataque en Pymes
+
+Antes de hablar de errores, es importante entender qué cuesta un ataque:
+
+- **Coste medio de un incidente**: €15,000-€50,000 (según tamaño)
+- **Tiempo de parada**: 72 horas promedio (datos de ICX)
+- **Pérdida de datos**: 40% de las pymes no logran recuperar datos tras ransomware
+- **Impacto reputacional**: 25% de clientes abandonan tras un incidente grave
+
 ---
 
-## 1. Pensar que “nadie me va a atacar”
+## 1. Pensar que "nadie me va a atacar"
 
 ❌ Creer que una empresa pequeña pasa desapercibida es un error crítico. Los atacantes utilizan herramientas automatizadas que no distinguen entre grandes o pequeñas empresas.  
 
@@ -79,10 +88,40 @@ A continuación, repasamos los **5 errores más comunes en ciberseguridad que co
 
 ---
 
+## Plan de Acción: Implementación Paso a Paso
+
+### Mes 1: Fundamentos (Costo: €200-500)
+1. Activa actualizaciones automáticas en todos los sistemas
+2. Implementa un gestor de contraseñas (Bitwarden, 1Password)
+3. Habilita autenticación multifactor en cuentas críticas
+4. Realiza primera copia de seguridad completa
+
+### Mes 2: Políticas (Costo: Tiempo + herramientas básicas)
+1. Define política de contraseñas por escrito
+2. Realiza un simulacro de phishing
+3. Documenta procedimientos de respuesta ante incidentes
+4. Prueba recuperación de backups
+
+### Mes 3+: Mejora Continua (Costo: €500-2000)
+1. Contrata formación en ciberseguridad (en línea o presencial)
+2. Considera software de monitorización básico
+3. Evalúa seguros de ciberseguridad
+4. Realiza auditoría externa de seguridad
+
+## Herramientas Recomendadas para Pymes
+
+| Necesidad | Herramienta | Coste |
+|-----------|-----------|-------|
+| Gestor de contraseñas | Bitwarden o KeePass | Gratis-€30/año |
+| Actualizaciones automáticas | Windows Update / macOS Updates | Incluido |
+| Backup | Synology NAS o cloud (OneDrive, Google Drive) | €100-500 inicial |
+| Formación | Ciberseguridad.tv, INCIBE recursos | Gratis-€200 |
+| Antivirus | Windows Defender / Sophos Home | Gratis-€50/año |
+
 ## 📌 Conclusión
 
-La **ciberseguridad en pymes** no tiene por qué ser compleja ni costosa. Evitar estos cinco errores puede reducir drásticamente las posibilidades de sufrir un incidente grave.  
+La **ciberseguridad en pymes** no tiene por qué ser compleja ni costosa. Evitar estos cinco errores puede reducir drásticamente las posibilidades de sufrir un incidente grave.
 
-Invertir en **cultura de seguridad**, buenas prácticas y herramientas adecuadas no solo protege tu negocio, sino también la confianza de tus clientes y socios.
+Invertir en **cultura de seguridad**, buenas prácticas y herramientas adecuadas no solo protege tu negocio, sino también la confianza de tus clientes y socios. El viaje hacia una pyme segura comienza con estos primeros pasos.
 
 🔗 ¿Quieres saber por dónde empezar? Realiza el [test gratuito de ciberseguridad de GuardianHubX](https://guardianhubx.com/es/test-ciberseguridad/) y descubre en menos de 5 minutos el nivel de protección de tu empresa.

@@ -54,5 +54,33 @@ Es importante recordar que, si bien ChatGPT puede ofrecer asistencia, la informa
 
 En resumen, ChatGPT puede ser un valioso asistente para los administradores de sistemas, ofreciendo soporte y nuevas ideas. Sin embargo, la base de una buena gestión siempre será contar con una plataforma de TI robusta y fiable para automatizar y proteger los equipos de tu empresa.
 
+
+## Limitaciones de ChatGPT para TI
+
+Aunque ChatGPT es tremendamente útil, es importante entender sus limitaciones:
+
+- **No puede acceder a sistemas en tiempo real**: No puede ejecutar comandos directamente en tu plataforma de gestión
+- **Conocimiento limitado a fecha**: Su información tiene una fecha de corte, por lo que no conoce las últimas actualizaciones de software
+- **Requiere verificación**: Siempre debes verificar cualquier consejo técnico antes de implementarlo en producción
+- **No reemplaza la experiencia humana**: Es un asistente, no un sustituto para administradores de sistemas con experiencia
+
+## Mejores Prácticas para Usar ChatGPT en Soporte TI
+
+Para aprovechar al máximo ChatGPT en tu equipo de TI:
+
+1. **Sé específico en tus preguntas** - Proporciona contexto detallado sobre tu entorno, versiones de software y configuración
+2. **Valida toda la información** - Especialmente para temas de seguridad y configuración crítica
+3. **Usa para brainstorming** - ChatGPT es excelente para generar ideas sobre estrategias de seguridad
+4. **Documenta las respuestas** - Guarda consultas útiles para referencia futura del equipo
+5. **Entrena a tu equipo** - Asegúrate de que todos sepan cómo formular preguntas efectivas
+
+## La Solución Integral: Automatización Real vs. IA
+
+Mientras que ChatGPT puede ofrecer consejos valiosos, la verdadera transformación en gestión de TI viene de plataformas especializadas como **Faronics Cloud Deep Freeze** que ofrecen:
+
+- **Automatización real** de actualizaciones sin intervención manual
+- **Cumplimiento garantizado** de políticas de seguridad
+- **Inteligencia de negocio** con reportes detallados de cumplimiento
+- **Integración total** con tu infraestructura existente
 > **¿Buscas una solución real para automatizar las actualizaciones y el mantenimiento de tus equipos?**
 > **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y descubre las herramientas que podemos ofrecerte.**

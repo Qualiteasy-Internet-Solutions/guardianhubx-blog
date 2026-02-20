@@ -62,3 +62,61 @@ En GuardianHubX, nuestros paquetes de seguridad como **LightCore** y **SmartLaye
 
 > **¿Quieres irte de vacaciones con la seguridad de que tu empresa está protegida?**
 > **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y descubre la solución que mejor se adapta a tus necesidades.**
+
+## Consejos Específicos para Navidades
+
+### Para Empleados que Trabajan Remotamente:
+- Asegura una conexión VPN estable y verificada
+- No accedas a sistemas críticos desde redes públicas (cafés, hoteles)
+- Mantén dispositivos actualizados antes de las vacaciones
+- Configura MFA en todas las cuentas críticas
+
+### Para Oficina Cerrada o Parcial:
+- Realiza backup completo antes del cierre
+- Desactiva accesos no esenciales de empleados ausentes
+- Mantén monitorización de seguridad activa 24/7
+- Asegura que backups están probados y accesibles
+
+### Monitorización Continua:
+Incluso durante vacaciones, considera mantener:
+- Alertas de seguridad activas
+- Monitorización de accesos fallidos
+- Detección de cambios sospechosos en archivos
+- Reportes automáticos de intentos de conexión
+
+## Checklist Pre-Navidad (5 Pasos)
+
+1. ✅ Realiza actualización completa de sistemas
+2. ✅ Prueba tu plan de recuperación de datos
+3. ✅ Comunica políticas de seguridad a empleados
+4. ✅ Activa MFA en cuentas críticas
+5. ✅ Configura monitorización de respaldo
+
+## Después de las Vacaciones: Verificación de Seguridad
+
+## Consejos Específicos para Navidades
+
+### Para Empleados que Trabajan Remotamente:
+- Asegura una conexión VPN estable
+- No accedas a sistemas desde redes públicas
+- Mantén dispositivos actualizados antes de vacaciones
+- Configura MFA en todas las cuentas críticas
+
+### Para Oficina Cerrada:
+- Realiza backup completo antes del cierre
+- Desactiva accesos no esenciales de empleados ausentes
+- Mantén monitorización activa 24/7
+- Asegura que backups estén probados
+
+## Checklist Pre-Navidad
+
+1. ✅ Actualización completa de sistemas
+2. ✅ Prueba plan de recuperación
+3. ✅ Comunica políticas a empleados
+4. ✅ Activa MFA en cuentas críticas
+5. ✅ Configura monitorización de respaldo
+
+- Revisa logs de acceso en búsqueda de anomalías
+- Verifica que todos los sistemas funcionan correctamente
+- Actualiza cualquier parche de seguridad perdido
+- Refresca formación de seguridad con el equipo

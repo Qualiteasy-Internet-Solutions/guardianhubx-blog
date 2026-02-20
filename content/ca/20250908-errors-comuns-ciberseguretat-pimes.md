@@ -37,9 +37,18 @@ Els ciberdelinqüents saben que, moltes vegades, aquestes organitzacions compten
 
 A continuació, repassem els **5 errors més comuns en ciberseguretat que cometen les pimes** i com evitar-los amb accions senzilles.
 
+## Impacte Real d'un Atac a Pimes
+
+Abans de parlar d'errors, és important entendre quin cost té un atac:
+
+- **Cost mitjà d'un incident**: €15.000-€50.000 (segons grandària)
+- **Temps de parada**: 72 hores de mitjana (dades de ICX)
+- **Pèrdua de dades**: 40% de les pimes no aconsegueixen recuperar dades després de ransomware
+- **Impacte reputacional**: 25% de clients abandonen després d'un incident greu
+
 ---
 
-## 1. Pensar que “ningú m’atacarà”
+## 1. Pensar que "ningú m'atacarà"
 
 ❌ Creure que una empresa petita passa desapercebuda és un error crític. Els atacants utilitzen eines automatitzades que no distingeixen entre grans o petites empreses.  
 
@@ -79,10 +88,40 @@ A continuació, repassem els **5 errors més comuns en ciberseguretat que comete
 
 ---
 
+## Pla d'Acció: Implementació Pas a Pas
+
+### Mes 1: Fonaments (Cost: €200-500)
+1. Activa actualitzacions automàtiques en tots els sistemes
+2. Implementa un gestor de contrasenyes (Bitwarden, 1Password)
+3. Habilita autenticació multifactor en comptes crítics
+4. Fes primera còpia de seguretat completa
+
+### Mes 2: Polítiques (Cost: Temps + eines bàsiques)
+1. Defineix política de contrasenyes per escrit
+2. Fes un simulacre de phishing
+3. Documenta procediments de resposta davant incidents
+4. Prova recuperació de backups
+
+### Mes 3+: Millora Contínua (Cost: €500-2000)
+1. Contracta formació en ciberseguretat (en línia o presencial)
+2. Considera programari de monitoratge bàsic
+3. Avalua assegurances de ciberseguretat
+4. Fes auditoria externa de seguretat
+
+## Eines Recomanades per a Pimes
+
+| Necessitat | Eina | Cost |
+|-----------|------|------|
+| Gestor de contrasenyes | Bitwarden o KeePass | Gratis-€30/any |
+| Actualitzacions automàtiques | Windows Update / macOS Updates | Inclòs |
+| Backup | Synology NAS o cloud (OneDrive, Google Drive) | €100-500 inicial |
+| Formació | Ciberseguretat.tv, recursos INCIBE | Gratis-€200 |
+| Antivirus | Windows Defender / Sophos Home | Gratis-€50/any |
+
 ## 📌 Conclusió
 
-La **ciberseguretat a les pimes** no ha de ser complexa ni costosa. Evitar aquests cinc errors pot reduir dràsticament les possibilitats de patir un incident greu.  
+La **ciberseguretat a les pimes** no ha de ser complexa ni costosa. Evitar aquests cinc errors pot reduir dràsticament les possibilitats de patir un incident greu.
 
-Invertir en **cultura de seguretat**, bones pràctiques i eines adequades no només protegeix el teu negoci, sinó també la confiança dels teus clients i socis.
+Invertir en **cultura de seguretat**, bones pràctiques i eines adequades no només protegeix el teu negoci, sinó també la confiança dels teus clients i socis. El viatge cap a una pime segura comença amb aquests primers passos.
 
 🔗 Vols saber per on començar? Fes el [test gratuït de ciberseguretat de GuardianHubX](https://guardianhubx.com/ca/test-ciberseguretat/) i descobreix en menys de 5 minuts el nivell de protecció de la teva empresa.

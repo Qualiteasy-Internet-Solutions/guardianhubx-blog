@@ -98,6 +98,37 @@ En muchas ocasiones, el eslabón más débil no es la tecnología, sino el **fac
 
 ## En GuardianHubX, te ayudamos a identificar y cerrar tus vectores de ataque
 
+## Principales Vectores de Ataque en 2025
+
+### 1. Email/Phishing (78% de breaches)
+**Cómo**: Correos fraudulentos con enlaces maliciosos
+**Prevención**: Formación, MFA, filtrado de email avanzado
+
+### 2. Credenciales Débiles (40% de ataques)
+**Cómo**: Fuerza bruta, reutilización de contraseñas
+**Prevención**: Políticas robustas, MFA, gestor de contraseñas
+
+### 3. Software Sin Parche (35% de ataques)
+**Cómo**: Explotan vulnerabilidades conocidas
+**Prevención**: Patching automático, inventario de software
+
+### 4. Ingeniería Social (30% de ataques)
+**Cómo**: Manipulación psicológica para acceso
+**Prevención**: Concienciación, políticas claras
+
+### 5. USB/Dispositivos (15% de ataques)
+**Cómo**: Malware a través de puertos USB
+**Prevención**: Restricción de puertos, antivirus
+
+## Estrategia Defensiva Completa
+
+No existe un único vector, por eso necesitas defensa en capas:
+
+1. **Tecnología**: Antivirus, firewall, IDS
+2. **Procesos**: Políticas claras, respuesta rápida
+3. **Personas**: Formación, concienciación, responsabilidad
+4. **Monitorización**: Detección de anomalías 24/7
+
 Nuestra misión es ayudarte a anticiparte a las amenazas y construir entornos digitales seguros, resilientes y confiables. Si quieres evaluar los riesgos de tu empresa o implementar soluciones de protección avanzadas, [contacta con nosotros](https://guardianhubx.com/es/#contact).
 
 **¿Sabes cuáles son los vectores de ataque que amenazan tu negocio?** No esperes a que sea demasiado tarde.
