@@ -43,7 +43,7 @@ Aquí te explicamos cómo ChatGPT puede ayudar en cada uno de estos aspectos:
 
 Es importante recordar que, si bien ChatGPT puede ofrecer asistencia, la información proporcionada siempre debe ser verificada y adaptada a las circunstancias específicas de tu entorno de TI.
 
-### Conclusión
+## Conclusión
 
 En resumen, ChatGPT puede ser un valioso asistente para los administradores de sistemas, ofreciendo soporte y nuevas ideas. Sin embargo, la base de una buena gestión siempre será contar con una plataforma de TI robusta y fiable para automatizar y proteger los equipos de tu empresa.
 
