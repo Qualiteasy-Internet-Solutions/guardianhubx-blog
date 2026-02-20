@@ -35,6 +35,8 @@ En el actual ecosistema digital, los infostealers se han consolidado como una de
 - [Ciberseguridad en pymes: riesgos y soluciones sin infraestructura interna](/blog/ciberseguridad-pymes-riesgos-soluciones/)
 - [Cómo proteger tu empresa frente a la toma de control de cuentas (ATO)](/blog/ataques-ato-proteger-cuentas/)
 
+
+> **Ver también:** [infostealers](/blog/como-proteger-red-ataques-ransomware/)
 Su creciente sofisticación, bajo coste y facilidad de distribución los han convertido en herramientas habituales para actores maliciosos, tanto individuales como organizados. El resultado: un número creciente de empresas y usuarios con sus datos expuestos sin saberlo.
 
 ## ¿Cómo Operan los Infostealers?

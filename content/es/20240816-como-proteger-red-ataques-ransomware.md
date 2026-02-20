@@ -28,6 +28,16 @@ translationKey: ransomware-network-protection-2024
 
 **Ransomware** es un tipo de malware que encripta los datos de una víctima y exige un rescate para restaurar el acceso. No solo afecta a grandes corporaciones: 7 de cada 10 ataques en España se dirigen a pymes.
 
+### Centro de Conocimiento: Ransomware y Malware
+
+Esta guía es tu recurso central para entender y defenderte contra amenazas de ransomware. Aquí encontrarás:
+
+- **Fundamentos**: Qué es ransomware, cómo funciona, por qué es peligroso
+- **Respuesta rápida**: [Guía de 60 minutos](/blog/guia-60-minutos-ataque-ransomware/) para actuar si sufres un ataque
+- **Análisis de amenazas**: [Análisis de malware actual](/blog/malware-red-informe-watchguard/) con estadísticas reales
+- **Nuevas amenazas**: [Infostealers y robo de datos](/blog/infostealers-amenaza-robo-datos/)
+- **Educación específica**: [Protección en escuelas](/blog/como-evitar-el-ransomware-en-las-escuelas/)
+
 El ransomware está empeorando. Para cualquier alto directivo, es uno de los mayores riesgos que existen. Este tipo de software malicioso le impide acceder a sus datos o sistemas hasta que pague un rescate. Puede paralizar empresas, escuelas y hospitales. Dado que los ciberdelincuentes se vuelven más inteligentes y los ataques son cada vez más frecuentes, es crucial implementar medidas de seguridad sólidas.
 
 **Lecturas relacionadas:**

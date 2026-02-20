@@ -32,6 +32,8 @@ El **ransomware** se ha convertido en una de las amenazas más dañinas para emp
 - [Ciberseguridad en pymes: riesgos y soluciones sin infraestructura interna](/blog/ciberseguridad-pymes-riesgos-soluciones/)
 - [¿Qué es un vector de ataque y cómo proteger tu empresa de ellos?](/blog/vector-ataque-como-proteger-empresa/)
 
+
+> **Ver también:** [guía de respuesta rápida](/blog/como-proteger-red-ataques-ransomware/)
 Lejos de ser un problema exclusivo de las grandes corporaciones, cada vez más **pymes** se ven afectadas, ya que suelen contar con menos recursos y medidas de protección.  
 
 Según estudios recientes, más del **70 % de las pymes** que sufren un ataque de ransomware tardan semanas en recuperar su actividad, y muchas no logran volver a la normalidad.  

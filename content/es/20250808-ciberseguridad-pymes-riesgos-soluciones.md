@@ -34,6 +34,23 @@ translationKey: ciberseguridad-pymes-riesgos-soluciones
 
 La **ciberseguridad en pymes** se ha convertido en una necesidad crítica, especialmente en un entorno donde las amenazas digitales crecen en volumen y sofisticación. Sin embargo, muchas pequeñas y medianas empresas, así como autónomos, carecen de infraestructura interna o recursos para contratar una consultoría especializada.
 
+### 🎯 Guía Completa para Pymes: Navega por Riesgos y Soluciones
+
+Este es tu centro de aprendizaje para **ciberseguridad en pymes**. Encuentra todo lo que necesitas saber:
+
+**Entender los riesgos:**
+- [5 errores comunes que cometen las pymes](/blog/errores-comunes-ciberseguridad-pymes/) — Evita los más costosos
+- [Ciberestafas que afectan a autónomos y pymes](/blog/ciberestafas-ceo-autonomos-pymes/) — Fraude directo vs. sofisticado
+- [Seguridad en la nube para pymes](/blog/seguridad-nube-pymes-riesgos-soluciones/) — Mitos y realidades
+- [IoT en pymes: Riesgos y protección](/blog/seguridad-dispositivos-iot-pymes-riesgos-y-como-mitigarlos/) — Conectividad segura
+
+**Verificar tu estado:**
+- [Checklist de ciberseguridad para fin de año](/blog/checklist-ciberseguridad-fin-ano-pymes/) — Auditoría rápida
+
+**Tomar acción:**
+- [Guía de respuesta ante incidentes](/blog/guia-60-minutos-ataque-ransomware/) — Qué hacer cuando ocurre lo peor
+- [Cómo mejorar tu seguridad de TI](/blog/como-mejorar-la-seguridad-de-ti/) — Pasos concretos
+
 **Lecturas relacionadas:**
 - [¿Qué es un vector de ataque y cómo proteger tu empresa de ellos?](/blog/vector-ataque-como-proteger-empresa/)
 - [5 errores comunes de ciberseguridad que cometen las pymes (y cómo evitarlos)](/blog/errores-comunes-ciberseguridad-pymes/)
