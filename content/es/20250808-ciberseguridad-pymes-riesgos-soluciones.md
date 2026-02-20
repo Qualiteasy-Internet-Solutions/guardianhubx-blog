@@ -3,6 +3,7 @@ title: "Ciberseguridad en pymes: riesgos y soluciones sin infraestructura intern
 author: "GuardianHubX"
 date: 2025-08-08T00:00:00+00:00
 draft: false
+slug: "ciberseguridad-pymes-riesgos-soluciones"
 type: "blog"
 categories:
 - ciberseguridad

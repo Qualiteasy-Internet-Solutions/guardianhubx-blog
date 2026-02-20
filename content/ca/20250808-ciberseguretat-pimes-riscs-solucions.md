@@ -3,6 +3,7 @@ title: "Ciberseguretat a pimes: riscos i solucions sense infraestructura interna
 author: "GuardianHubX"
 date: 2025-08-08T00:00:00+00:00
 draft: false
+slug: "ciberseguretat-pimes-riscs-solucions"
 type: "blog"
 translationKey: "ciberseguridad-pymes-riesgos-soluciones"
 categories:

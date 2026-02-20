@@ -3,6 +3,7 @@ title: "5 errors comuns de ciberseguretat que cometen les pimes (i com evitar-lo
 author: "GuardianHubX"
 date: 2025-09-08T00:00:00+00:00
 draft: false
+slug: "errors-comuns-ciberseguretat-pimes"
 type: "blog"
 translationKey: "errores-comunes-ciberseguridad-pymes"
 categories:

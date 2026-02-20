@@ -42,7 +42,7 @@ El problema es que **el coste de un ataque no termina cuando se restaura el sist
 ## Por qué muchas empresas no invierten lo suficiente
 
 ### 1. Falsa sensación de seguridad
-Muchas organizaciones creen que no son un objetivo atractivo. La realidad es que cualquier empresa conectada a internet lo es, independientemente de su tamaño o sector. Es uno de los [errores comunes en ciberseguridad](/blog/20250908-errores-comunes-ciberseguridad-pymes/) más peligrosos.
+Muchas organizaciones creen que no son un objetivo atractivo. La realidad es que cualquier empresa conectada a internet lo es, independientemente de su tamaño o sector. Es uno de los [errores comunes en ciberseguridad](/blog/errores-comunes-ciberseguridad-pymes/) más peligrosos.
 
 ### 2. Prioridades mal alineadas
 La inversión suele dirigirse a innovación, crecimiento o marketing, dejando la seguridad como un aspecto secundario, cuando en realidad es la base que sostiene todo lo demás.
@@ -57,8 +57,8 @@ La escasez de profesionales en ciberseguridad provoca que muchas decisiones reca
 Invertir en ciberseguridad no consiste únicamente en instalar herramientas. Una estrategia adecuada permite:
 
 * **Proteger datos sensibles** y activos críticos.
-* Garantizar la continuidad del negocio frente a amenazas como el [ransomware](/blog/20250910-guia-60-minutos-ataque-ransomware/).
-* Cumplir con la normativa vigente, como la [Directiva NIS2](/blog/2025-02-11-directiva-nis2-nueva-ley-ciberseguridad/).
+* Garantizar la continuidad del negocio frente a amenazas como el [ransomware](/blog/guia-60-minutos-ataque-ransomware/).
+* Cumplir con la normativa vigente, como la [Directiva NIS2](/blog/nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025/).
 * Generar confianza en clientes, socios e inversores.
 * Reducir el impacto económico y reputacional de un incidente.
 

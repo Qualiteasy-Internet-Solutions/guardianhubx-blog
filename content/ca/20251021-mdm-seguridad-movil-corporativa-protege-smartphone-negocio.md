@@ -3,6 +3,7 @@ title: "Seguretat mòbil corporativa: protegeix l'smartphone del teu negoci"
 author: "GuardianHubX"
 date: 2025-10-21T00:00:00+00:00
 draft: false
+slug: "mdm-seguretat-movil-corporativa"
 type: "blog"
 translationKey: "seguridad-movil-mdm-pymes"
 categories:

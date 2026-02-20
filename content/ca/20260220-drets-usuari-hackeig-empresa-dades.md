@@ -47,7 +47,7 @@ Quan una empresa pateix una bretxa de seguretat que afecta dades personals, **t�
 No s'hi val silenciar l'atac, minimitzar-lo sense proves o comunicar-lo tard de manera ambigua. L'usuari té dret a una **comunicació clara, transparent i comprensible**.
 
 ### 2. Dret a la protecció real de les teves dades
-Les empreses estan obligades a aplicar **mesures tècniques i organitzatives adequades** per protegir la informació que recullen. Si l'atac es produeix per una manca de mesures bàsiques, sistemes obsolets o una [mala gestió d'accessos](/blog/ca/20250908-errors-comuns-ciberseguretat-pimes/), l'empresa ha de respondre.
+Les empreses estan obligades a aplicar **mesures tècniques i organitzatives adequades** per protegir la informació que recullen. Si l'atac es produeix per una manca de mesures bàsiques, sistemes obsolets o una [mala gestió d'accessos](/blog/ca/errors-comuns-ciberseguretat-pimes/), l'empresa ha de respondre.
 
 Un ciberatac no sempre és inevitable. I quan es deu a una negligència clara, **l'usuari pot exigir responsabilitats**.
 

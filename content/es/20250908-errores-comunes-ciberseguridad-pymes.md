@@ -3,6 +3,7 @@ title: "5 errores comunes de ciberseguridad que cometen las pymes (y cómo evita
 author: "GuardianHubX"
 date: 2025-09-08T00:00:00+00:00
 draft: false
+slug: "errores-comunes-ciberseguridad-pymes"
 type: "blog"
 translationKey: "errores-comunes-ciberseguridad-pymes"
 categories:

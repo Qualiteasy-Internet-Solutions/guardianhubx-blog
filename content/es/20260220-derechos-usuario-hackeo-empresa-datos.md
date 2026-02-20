@@ -49,7 +49,7 @@ Cuando una empresa sufre una brecha de seguridad que afecta a datos personales, 
 No vale silenciar el ataque, minimizarlo sin pruebas o comunicarlo tarde de forma ambigua. El usuario tiene derecho a una **comunicación clara, transparente y comprensible**.
 
 ### 2. Derecho a la protección real de tus datos
-Las empresas están obligadas a aplicar **medidas técnicas y organizativas adecuadas** para proteger la información que recogen. Si el ataque se produce por una falta de medidas básicas, sistemas obsoletos o una [mala gestión de accesos](/blog/20250908-errores-comunes-ciberseguridad-pymes/), la empresa debe responder.
+Las empresas están obligadas a aplicar **medidas técnicas y organizativas adecuadas** para proteger la información que recogen. Si el ataque se produce por una falta de medidas básicas, sistemas obsoletos o una [mala gestión de accesos](/blog/errores-comunes-ciberseguridad-pymes/), la empresa debe responder.
 
 Un ciberataque no siempre es inevitable. Y cuando se debe a una negligencia clara, **el usuario puede exigir responsabilidades**.
 
@@ -63,7 +63,7 @@ No basta con un comunicado genérico diciendo "ya está solucionado". Como usuar
 Tras un incidente, tus derechos ARCO (Acceso, Rectificación, Cancelación y Oposición) cobran más fuerza que nunca. Tienes derecho a solicitar la eliminación de tus datos si ya no confías en la entidad o si ya no son necesarios para la finalidad con la que fueron recogidos.
 
 ### ¿Qué hacer si la empresa no responde?
-Si consideras que una empresa no protegió adecuadamente tus datos, no te informó correctamente tras un incidente como un [ataque de ransomware](/blog/20250910-guia-60-minutos-ataque-ransomware/) o actuó con negligencia, puedes:
+Si consideras que una empresa no protegió adecuadamente tus datos, no te informó correctamente tras un incidente como un [ataque de ransomware](/blog/guia-60-minutos-ataque-ransomware/) o actuó con negligencia, puedes:
 
 1.  **Reclamar ante la autoridad de control** (Agencia de Protección de Datos).
 2.  Exigir explicaciones formales a la empresa.

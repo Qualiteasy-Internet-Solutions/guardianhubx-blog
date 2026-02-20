@@ -3,6 +3,7 @@ title: "Seguridad móvil corporativa: protege el smartphone de tu negocio"
 author: "GuardianHubX"
 date: 2025-10-21T00:00:00+00:00
 draft: false
+slug: "mdm-seguridad-movil-corporativa"
 type: "blog"
 translationKey: "seguridad-movil-mdm-pymes"
 categories:
@@ -49,7 +50,7 @@ Con unas medidas sencillas pero efectivas, puedes elevar drásticamente la segur
 1.  **Instala apps solo desde tiendas oficiales y revisa permisos:** Descarga aplicaciones únicamente de Google Play o App Store. Antes de aceptar, revisa cuidadosamente los permisos que solicitan.
 2.  **Mantén siempre el sistema operativo y las apps actualizadas:** Las actualizaciones no solo añaden funcionalidades, sino que corrigen vulnerabilidades críticas que los atacantes podrían aprovechar.
 3.  **Usa contraseñas robustas y biometría:** Configura un PIN o patrón seguro y combínalo con huella dactilar o reconocimiento facial. Nunca dejes el móvil sin bloqueo.
-4.  **Activa el cifrado del dispositivo y las copias de seguridad:** Asegúrate de que tu teléfono cifra automáticamente todos los datos. **Además,** realiza [copias de seguridad](https://guardianhubx.com/blog/20250910-guia-60-minutos-ataque-ransomware/) periódicas. En caso de un ataque de ransomware o pérdida, estas copias serán vitales, como explicamos en nuestra guía de respuesta a incidentes.
+4.  **Activa el cifrado del dispositivo y las copias de seguridad:** Asegúrate de que tu teléfono cifra automáticamente todos los datos. **Además,** realiza [copias de seguridad](https://guardianhubx.com/blog/guia-60-minutos-ataque-ransomware/) periódicas. En caso de un ataque de ransomware o pérdida, estas copias serán vitales, como explicamos en nuestra guía de respuesta a incidentes.
 5.  **Desconfía de enlaces y archivos sospechosos:** No pulses en enlaces recibidos por SMS, WhatsApp, email o redes sociales si no estás absolutamente seguro del remitente o si el mensaje te parece extraño.
 6.  **Conéctate con protección en redes públicas:** Si necesitas usar WiFi pública, hazlo siempre a través de una [VPN (Red Privada Virtual)](https://guardianhubx.com/blog/20250808-ciberseguridad-pymes-riesgos-soluciones/) para cifrar tu conexión y proteger tus comunicaciones de posibles interceptaciones.
 7.  **Ten un plan de acción en caso de pérdida o robo:** Activa las opciones de localización remota y borrado a distancia que ofrecen los sistemas operativos ("Encontrar mi iPhone" o "Encontrar mi dispositivo" en Android).

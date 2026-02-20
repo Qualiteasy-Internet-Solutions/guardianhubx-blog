@@ -4,7 +4,7 @@ categories:
 - ciberseguridad
 date: '2025-02-11T00:00:00+00:00'
 draft: false
-slug: 2025-02-11-directiva-nis2-nueva-ley-ciberseguridad
+slug: "nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025"
 type: "blog"
 tags:
 - ciberseguridad

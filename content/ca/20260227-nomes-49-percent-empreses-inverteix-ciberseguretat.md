@@ -42,7 +42,7 @@ El problema és que **el cost d'un atac no acaba quan es restaura el sistema**. 
 ## Per què moltes empreses no inverteixen prou
 
 ### 1. Falsa sensació de seguretat
-Moltes organitzacions creuen que no són un objectiu atractiu. La realitat és que qualsevol empresa connectada a internet ho és, independentment de la seva mida o sector. És un dels [errors comuns en ciberseguretat](/blog/ca/20250908-errors-comuns-ciberseguretat-pimes/) més perillosos.
+Moltes organitzacions creuen que no són un objectiu atractiu. La realitat és que qualsevol empresa connectada a internet ho és, independentment de la seva mida o sector. És un dels [errors comuns en ciberseguretat](/blog/ca/errors-comuns-ciberseguretat-pimes/) més perillosos.
 
 ### 2. Prioritats mal alineades
 La inversió sol dirigir-se a innovació, creixement o màrqueting, deixant la seguretat com un aspecte secundari, quan en realitat és la base que sosté tota la resta.
@@ -58,7 +58,7 @@ Invertir en ciberseguretat no consisteix únicament a instal·lar eines. Una est
 
 * **Protegir dades sensibles** i actius crítics.
 * Garantir la continuïtat del negoci davant amenaces com el [ransomware](/blog/ca/guia-60-minuts-atac-ransomware/).
-* Complir amb la normativa vigent, com la [Directiva NIS2](/blog/ca/2025-02-11-directiva-nis2-nova-llei-ciberseguretat/).
+* Complir amb la normativa vigent, com la [Directiva NIS2](/blog/ca/nova-llei-de-ciberseguretat-el-que-les-empreses-han-de-saber-el-2025/).
 * Generar confiança en clients, socis i inversors.
 * Reduir l'impacte econòmic i reputacional d'un incident.
 

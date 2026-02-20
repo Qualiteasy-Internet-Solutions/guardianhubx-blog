@@ -27,7 +27,7 @@ Durante años, ChatGPT ha sido percibido como una herramienta neutral: un asiste
 
 La introducción de anuncios no es solo una decisión económica: **marca el inicio de una nueva etapa donde la IA, la publicidad y la ciberseguridad convergen**.
 
-OpenAI ha comenzado a probar publicidad en ChatGPT, un movimiento que, aunque limitado por ahora, abre preguntas profundas sobre confianza, privacidad y seguridad digital. Ya hemos visto cómo la IA puede usar [técnicas de evasión en ciberseguridad](/blog/2025-01-27-ia-tecnicas-evasion-ciberseguridad/); añadir un componente publicitario suma una nueva capa de complejidad.
+OpenAI ha comenzado a probar publicidad en ChatGPT, un movimiento que, aunque limitado por ahora, abre preguntas profundas sobre confianza, privacidad y seguridad digital. Ya hemos visto cómo la IA puede usar [técnicas de evasión en ciberseguridad](/blog/como-la-ia-esta-revolucionando-las-tecnicas-de-evasion-en-ciberseguridad/); añadir un componente publicitario suma una nueva capa de complejidad.
 
 ---
 

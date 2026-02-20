@@ -3,6 +3,7 @@ title: "Guía rápida: qué hacer en los primeros 60 minutos tras un ataque de r
 author: "GuardianHubX"
 date: 2025-09-10T00:00:00+00:00
 draft: false
+slug: "guia-60-minutos-ataque-ransomware"
 type: "blog"
 translationKey: "guia-60-minutos-ataque-ransomware"
 categories:

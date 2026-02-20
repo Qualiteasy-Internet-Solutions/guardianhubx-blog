@@ -10,7 +10,7 @@ cover:
   height: 1021
 date: '2025-01-27T00:00:00+00:00'
 draft: false
-slug: 2025-01-27-ia-tecniques-evasio-ciberseguretat
+slug: "com-la-ia-esta-revolucionant-les-tecniques-d-evasio-en-ciberseguretat"
 type: "blog"
 tags:
 - ciberatacs

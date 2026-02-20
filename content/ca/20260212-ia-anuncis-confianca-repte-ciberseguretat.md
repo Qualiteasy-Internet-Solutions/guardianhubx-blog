@@ -27,7 +27,7 @@ Durant anys, ChatGPT ha estat percebut com una eina neutral: un assistent intel�
 
 La introducció d'anuncis no és només una decisió econòmica: **marca l'inici d'una nova etapa on la IA, la publicitat i la ciberseguretat convergeixen**.
 
-OpenAI ha començat a provar publicitat a ChatGPT, un moviment que, tot i ser limitat per ara, obre preguntes profundes sobre confiança, privacitat i seguretat digital. Ja hem vist com la IA pot utilitzar [tècniques d'evasió en ciberseguretat](/blog/ca/2025-01-27-ia-tecniques-evasio-ciberseguretat/); afegir un component publicitari suma una nova capa de complexitat.
+OpenAI ha començat a provar publicitat a ChatGPT, un moviment que, tot i ser limitat per ara, obre preguntes profundes sobre confiança, privacitat i seguretat digital. Ja hem vist com la IA pot utilitzar [tècniques d'evasió en ciberseguretat](/blog/ca/com-la-ia-esta-revolucionant-les-tecniques-d-evasio-en-ciberseguretat/); afegir un component publicitari suma una nova capa de complexitat.
 
 ---
 

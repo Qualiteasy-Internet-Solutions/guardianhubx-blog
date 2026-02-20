@@ -4,7 +4,7 @@ categories:
 - ciberseguretat
 date: '2025-02-11T00:00:00+00:00'
 draft: false
-slug: 2025-02-11-directiva-nis2-nova-llei-ciberseguretat
+slug: "nova-llei-de-ciberseguretat-el-que-les-empreses-han-de-saber-el-2025"
 type: "blog"
 tags:
 - ciberseguretat
