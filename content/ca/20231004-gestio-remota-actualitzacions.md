@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 cover:
   alt: 'Programari de gestió remota d''actualitzacions en una pantalla d''ordinador.'
   caption: 'Font: GuardianHubX'
@@ -15,9 +15,9 @@ type: "blog"
 tags:
 - actualitzacions
 - automatització
+- ciberseguretat
 - gestió de dispositius
-- IT
-- Cybersecurity
+- tecnologia-informació
 title: 'Gestió Remota d''Actualitzacions: Simplifica el teu Manteniment i Reforça la teva Seguretat'
 description: "Descobreix la importància de la gestió remota d'actualitzacions i com et pot ajudar a automatitzar correccions, millorar la seguretat i estalviar temps."
 translationKey: "remote-patch-management-2023"

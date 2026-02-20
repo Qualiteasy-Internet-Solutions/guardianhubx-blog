@@ -6,11 +6,11 @@ draft: false
 slug: "solo-49-por-ciento-empresas-invierte-ciberseguridad"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Ciberseguridad Empresarial"
-  - "Pymes"
-  - "Riesgos Digitales"
+- ciberseguridad-empresarial
+- pymes
+- riesgos-digitales
 description: "Solo el 49 % de las empresas invierte en ciberseguridad tras un ataque. Descubre por qué la prevención es una inversión estratégica indispensable."
 cover:
   image: "uploads/inversion-ciberseguridad-riesgo-negocio.webp"

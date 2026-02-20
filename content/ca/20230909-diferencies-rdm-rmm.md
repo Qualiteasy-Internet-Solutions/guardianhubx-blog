@@ -1,18 +1,18 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
-- IT
+- ciberseguretat
+- tecnologia-informació
 date: '2023-09-09T00:00:00+00:00'
 draft: false
 slug: diferencies-rdm-rmm
 type: "blog"
 tags:
-- RDM
-- RMM
+- ciberseguretat
 - gestió de dispositius
-- IT
-- Cybersecurity
+- rdm
+- rmm
+- tecnologia-informació
 title: 'Quines són les principals diferències entre RDM i RMM?'
 description: "Aclarim les diferències clau entre Remote Desktop Management (RDM) i Remote Monitoring and Management (RMM) per a la gestió de TI."
 translationKey: "rdm-vs-rmm-differences-2023"

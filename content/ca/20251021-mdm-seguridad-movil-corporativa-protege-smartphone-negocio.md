@@ -6,16 +6,16 @@ draft: false
 type: "blog"
 translationKey: "seguridad-movil-mdm-pymes"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - ciberseguretat
-  - seguretat-mobil
-  - MDM
-  - BYOD
-  - pimes
-  - autonoms
-  - ransomware
-  - phishing
+- autònoms
+- byod
+- ciberseguretat
+- gestió-de-dispositius
+- phishing
+- pimes
+- ransomware
+- seguretat-mobil
 description: "Descobreix com protegir els smartphones que fas servir per treballar amb MDM i bones pràctiques de seguretat mòbil. Imprescindible per a pimes i autònoms."
 cover:
   image: "uploads/seguridad-movil-mdm.webp"

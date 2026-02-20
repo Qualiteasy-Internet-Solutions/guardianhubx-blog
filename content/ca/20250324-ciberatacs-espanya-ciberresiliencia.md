@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Ciberseguretat
+- ciberseguretat
 cover:
   alt: Imatge il·lustrativa sobre ciberatacs a Espanya
   caption: 'Font: guardianhubx'
@@ -16,10 +16,10 @@ type: "blog"
 tags:
 - ciberatacs
 - ciberresiliència
-- ransomware
+- ciberseguretat
 - phishing
-- IT
-- Cybersecurity
+- ransomware
+- tecnologia-informació
 title: 'La creixent amenaça dels ciberatacs a Espanya: claus per a una ciberresiliència
   efectiva'
 translationKey: "cyberattacks-spain-resilience-2025"

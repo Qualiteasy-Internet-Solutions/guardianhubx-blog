@@ -6,15 +6,15 @@ draft: false
 slug: "ciberseguridad-2026-fin-checklists"
 type: "blog"
 categories:
-  - "Opinión"
-  - "Ciberseguridad"
+- Opinión
+- ciberseguridad
 tags:
-  - "Tendencias 2026"
-  - "Inteligencia Artificial"
-  - "NIS2"
-  - "Passkeys"
-  - "WORM"
-  - "Amenaza Agéntica"
+- amenaza-agéntica
+- gusanos-malware
+- inteligencia-artificial
+- normativa-nis2
+- passkeys
+- tendencias-2026
 description: "Olvídate de los propósitos de año nuevo. La 'Economía de la Amenaza Agéntica' cambia las reglas del juego. Descubre los 5 pilares para sobrevivir a 2026."
 cover:
   image: "uploads/ciberseguridad-2026-paradigma.webp"

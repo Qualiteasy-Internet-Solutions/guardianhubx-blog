@@ -6,16 +6,16 @@ draft: false
 type: "blog"
 translationKey: "ciberseguridad-pymes-riesgos-soluciones"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - ciberseguretat
-  - protecció-de-dades
-  - ransomware
-  - phishing
-  - còpia-de-seguretat
-  - formació-i-conscienciació
-  - seguretat-informàtica
-  - actualitzacions
+- actualitzacions
+- ciberseguretat
+- còpies-de-seguretat
+- formació-i-conscienciació
+- phishing
+- protecció-de-dades
+- ransomware
+- seguretat-informàtica
 description: "Descobreix els principals riscos de ciberseguretat per a pimes sense equip intern i com protegir el teu negoci amb solucions assequibles i efectives."
 cover:
   image: "uploads/ciberseguridad-pymes-riesgos-soluciones.webp"

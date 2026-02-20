@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 cover:
   alt: Persona treballant en un portàtil amb decoració de Nadal de fons, simbolitzant
     la ciberseguretat per Nadal.
@@ -15,11 +15,11 @@ slug: ciberseguretat-nadal-empreses
 type: "blog"
 tags:
 - ciberatacs
-- ransomware
-- pedaços
-- IT
-- Cybersecurity
+- ciberseguretat
 - nadal
+- pedaços
+- ransomware
+- tecnologia-informació
 title: 'Protegeix la teva empresa dels ciberatacs aquest Nadal'
 translationKey: "christmas-cybersecurity-2023"
 ---

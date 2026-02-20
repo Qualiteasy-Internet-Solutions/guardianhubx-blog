@@ -6,14 +6,14 @@ draft: false
 slug: "rebajas-online-proteccion-ciberseguridad"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Rebajas"
-  - "Compras Online"
-  - "Fraude Digital"
-  - "IA"
-  - "Phishing"
-  - "Identidad Digital"
+- compras-online
+- fraude-digital
+- identidad-digital
+- inteligencia-artificial
+- phishing
+- promociones-ofertas
 description: "En 2026, las rebajas online son el principal objetivo de los ciberdelincuentes. Descubre cómo la IA ha sofisticado las estafas y cómo proteger tu identidad digital."
 cover:
   image: "uploads/rebajas-online-seguridad-digital.webp"

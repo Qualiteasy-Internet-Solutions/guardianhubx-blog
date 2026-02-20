@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- IT
+- tecnología-información
 cover:
   alt: Cómo ChatGPT te puede ayudar en el mantenimiento y actualizaciones de tus equipos
   caption: 'Fuente: GuardianHubX'
@@ -14,10 +14,10 @@ slug: como-chatgpt-ayuda-mantenimiento-it
 type: "blog"
 tags:
 - ChatGPT
-- mantenimiento
 - actualizaciones
-- IT
 - automatización
+- mantenimiento
+- tecnología-información
 title: Cómo ChatGPT te puede ayudar en el mantenimiento y actualizaciones de tus equipos
 description: "Descubre cómo un asistente de IA como ChatGPT puede ayudar a un administrador de sistemas en tareas de mantenimiento, actualizaciones y gestión de equipos."
 translationKey: "chatgpt-it-maintenance-2023"

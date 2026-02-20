@@ -6,14 +6,14 @@ draft: false
 slug: "guia-ciberseguridad-autonomo-desde-cero"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Autónomos"
-  - "Guía Básica"
-  - "Contraseñas"
-  - "MFA"
-  - "Protección de Datos"
-  - "Emprendedores"
+- autenticación-multifactor
+- autónomos
+- contraseñas
+- emprendedores
+- guía-básica
+- protección-de-datos
 description: "Guía esencial de ciberseguridad para nuevos autónomos: protege tus dispositivos, contraseñas y datos de clientes desde el primer día."
 cover:
   image: "uploads/guia-ciberseguridad-autonomo.webp"

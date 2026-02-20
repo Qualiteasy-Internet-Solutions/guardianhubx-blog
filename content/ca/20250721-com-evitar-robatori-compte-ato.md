@@ -7,14 +7,14 @@ slug: "com-evitar-robatori-compte-ato"
 type: "blog"
 lang: "ca"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - "Ciberseguretat"
-  - "Gestió d'identitats"
-  - "Protecció de dades"
-  - "Cultura digital"
-  - "Amenaces actives"
-  - "Formació i conscienciació"
+- amenaces-actives
+- ciberseguretat
+- conscienciació-i-formació
+- cultura-digital
+- gestió-d-identitats
+- protecció-de-dades
 description: "Els atacs de robatori de comptes (ATO) són una de les amenaces més greus avui dia. Descobreix com prevenir-los amb eines tecnològiques, formació i vigilància proactiva."
 cover:
   image: "uploads/ataques-ato-proteger-cuentas-guardianhubx.webp"

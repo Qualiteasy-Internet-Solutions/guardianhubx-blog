@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Ciberseguretat
+- ciberseguretat
 cover:
   alt: Què fer si la informació de la teva empresa ha estat compromesa?
   caption: 'Font: GuardianHubX'
@@ -13,12 +13,12 @@ draft: false
 slug: que-fer-si-info-empresa-compromesa
 type: "blog"
 tags:
-- monitoratge
 - avaluació
-- seguretat
-- IT
-- Cybersecurity
+- ciberseguretat
+- monitoratge
 - resposta a incidents
+- seguretat
+- tecnologia-informació
 title: Què fer si la informació de la teva empresa ha estat compromesa?
 translationKey: "data-breach-response-2024"
 ---

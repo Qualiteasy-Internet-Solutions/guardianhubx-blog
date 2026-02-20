@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Education
+- educación
 cover:
   alt: 'Proteger las redes universitarias: reducir los riesgos de ciberataque y simplificar
     la gestión de TI'
@@ -14,12 +14,12 @@ draft: false
 slug: gestion-ti-universidades
 type: "blog"
 tags:
-- gestión de dispositivos
-- universidades
+- ciberseguridad
 - educación
-- IT
-- Cybersecurity
-- Faronics
+- faronics
+- gestión de dispositivos
+- tecnología-información
+- universidades
 title: 'Proteger las redes universitarias: reducir los riesgos de ciberataque y simplificar
   la gestión de TI'
 translationKey: "it-management-universities-2024"

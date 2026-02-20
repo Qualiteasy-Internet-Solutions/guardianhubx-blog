@@ -6,16 +6,16 @@ draft: false
 slug: "ciberamenazas-black-friday-2025-tendencias-2026"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Black Friday"
-  - "Phishing"
-  - "Ransomware"
-  - "Inteligencia Artificial"
-  - "Deepfakes"
-  - "Comercio Electrónico"
-  - "Seguridad IoT"
-  - "Tendencias 2026"
+- black-friday
+- comercio-electrónico
+- deepfakes
+- inteligencia-artificial
+- phishing
+- ransomware
+- seguridad-iot
+- tendencias-2026
 description: "Análisis completo de las ciberamenazas del Black Friday 2025 y las tendencias tecnológicas que definirán la seguridad empresarial en 2026."
 cover:
   image: "uploads/black-friday-ciberamenazas-2025.webp"

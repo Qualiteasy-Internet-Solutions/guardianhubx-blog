@@ -6,15 +6,15 @@ draft: false
 slug: "ciberseguretat-2026-fi-checklists"
 type: "blog"
 categories:
-  - "Opinió"
-  - "Ciberseguretat"
+- Opinió
+- ciberseguretat
 tags:
-  - "Tendències 2026"
-  - "Intel·ligència Artificial"
-  - "NIS2"
-  - "Passkeys"
-  - "WORM"
-  - "Amenaça Agèntica"
+- amenaça-agèntica
+- gusans-malware
+- intel·ligència-artificial
+- normativa-nis2
+- passkeys
+- tendències-2026
 description: "Oblida't dels propòsits d'any nou. L''Economia de l'Amenaça Agèntica' canvia les regles del joc. Descobreix els 5 pilars per sobreviure al 2026."
 cover:
   image: "uploads/ciberseguridad-2026-paradigma.webp"

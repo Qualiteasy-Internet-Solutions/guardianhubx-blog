@@ -1,8 +1,8 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
-- IT
+- ciberseguretat
+- tecnologia-informació
 cover:
   alt: 'L''Escassetat de Perfils Tècnics de Suport: Un Desafiament per a Directors
     d''Informàtica'
@@ -15,11 +15,11 @@ draft: false
 slug: escassetat-talent-ti-solucio-automatitzacio
 type: "blog"
 tags:
+- automatització
+- ciberseguretat
 - escassetat de talent
 - suport
-- IT
-- Cybersecurity
-- automatització
+- tecnologia-informació
 title: 'L''Escassetat de Talent en TI: Com l''Automatització és la Solució'
 description: "L'escassetat de perfils tècnics de suport és un desafiament per als CIOs. Descobreix com les eines de gestió automàtica poden ser la solució."
 translationKey: "it-talent-shortage-automation-2023"

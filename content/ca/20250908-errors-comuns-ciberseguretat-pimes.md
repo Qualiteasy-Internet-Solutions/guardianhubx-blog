@@ -6,17 +6,17 @@ draft: false
 type: "blog"
 translationKey: "errores-comunes-ciberseguridad-pymes"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - ciberseguretat
-  - pimes
-  - seguretat-informàtica
-  - ransomware
-  - phishing
-  - contrasenyes
-  - gestio-de-contrasenyes
-  - copies-de-seguretat
-  - conscienciacio-i-formacio
+- ciberseguretat
+- conscienciació-i-formació
+- contrasenyes
+- contrasenyes
+- còpies-de-seguretat
+- phishing
+- pimes
+- ransomware
+- seguretat-informàtica
 description: "Descobreix els 5 errors més comuns de ciberseguretat en pimes i com evitar-los amb bones pràctiques, formació i eines senzilles."
 cover:
   image: "uploads/errores-ciberseguridad-pymes.webp"

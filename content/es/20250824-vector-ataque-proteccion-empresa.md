@@ -6,7 +6,7 @@ draft: false
 type: "blog"
 translationKey: "vector-ataque-proteccion-empresa"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 slug: "vector-ataque-como-proteger-empresa"
 tags:
   - ciberseguridad

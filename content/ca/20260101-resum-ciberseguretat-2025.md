@@ -6,14 +6,14 @@ draft: false
 slug: "resum-ciberseguretat-2025-el-millor"
 type: "blog"
 categories:
-  - "Resum de l'Any"
-  - "Ciberseguretat"
+- Resum de l'Any
+- ciberseguretat
 tags:
-  - "Recopilatori"
-  - "Millors Pràctiques"
-  - "Infostealers"
-  - "IoT"
-  - "Frau del CEO"
+- bones-pràctiques
+- frau-del-ceo
+- infostealers
+- iot
+- recopilatori
 description: "Repassem els articles més llegits i crítics del 2025 a GuardianHubX: des dels Infostealers i el Frau del CEO fins a la nova era de la IA."
 cover:
   image: "uploads/resumen-2025-ciberseguridad.webp"

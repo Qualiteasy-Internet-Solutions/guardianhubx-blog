@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Ciberseguretat
+- ciberseguretat
 cover:
   alt: Com la IA Està Revolucionant les Tècniques d'Evasió en Ciberseguretat
   caption: 'Font: GuardianHubX'
@@ -13,11 +13,11 @@ draft: false
 slug: 2025-01-27-ia-tecniques-evasio-ciberseguretat
 type: "blog"
 tags:
-- IA
 - ciberatacs
-- ransomware
+- intel·ligència-artificial
 - phishing
-- IT
+- ransomware
+- tecnologia-informació
 title: Com la IA Està Revolucionant les Tècniques d'Evasió en Ciberseguretat
 translationKey: "ai-evasion-techniques-2025"
 ---

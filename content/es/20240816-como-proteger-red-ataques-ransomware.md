@@ -1,17 +1,17 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguridad
 date: '2024-08-16T00:00:00+00:00'
 draft: false
 slug: como-proteger-red-ataques-ransomware
 type: "blog"
 tags:
-- ransomware
 - ciberataques
-- Faronics
-- IT
-- Cybersecurity
+- ciberseguridad
+- faronics
+- ransomware
+- tecnología-información
 title: ¿Cómo puedo proteger mi red de ataques de ransomware?
 translationKey: "ransomware-network-protection-2024"
 ---

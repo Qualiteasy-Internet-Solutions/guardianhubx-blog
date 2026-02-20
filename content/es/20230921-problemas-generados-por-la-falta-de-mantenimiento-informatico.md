@@ -1,17 +1,17 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguridad
 date: '2023-09-21T00:00:00+00:00'
 draft: false
 slug: problemas-falta-mantenimiento-informatico
 type: "blog"
 tags:
+- best practices
+- ciberseguridad
 - mantenimiento informático
 - parches
-- IT
-- Cybersecurity
-- best practices
+- tecnología-información
 title: 10 problemas generados por la falta de mantenimiento informático
 description: "Descubre los 10 principales problemas y consecuencias derivados de una falta de mantenimiento informático en tu empresa, desde la pérdida de datos hasta los costes ocultos."
 translationKey: "it-maintenance-problems-2023"

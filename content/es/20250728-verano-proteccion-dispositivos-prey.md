@@ -6,14 +6,14 @@ draft: false
 slug: "verano-proteccion-dispositivos-prey"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Dispositivos Móviles"
-  - "Trabajo Remoto"
-  - "Protección de Datos"
-  - "BYOD"
-  - "Prey Project"
-  - "Seguridad Física"
+- byod
+- dispositivos-móviles
+- prey-project
+- protección-de-datos
+- seguridad-física
+- trabajo-remoto
 description: "Este verano, tus dispositivos corporativos están más expuestos que nunca. Descubre cómo proteger tu empresa ante pérdidas, robos y accesos indebidos con Prey Project, la solución ideal para equipos móviles."
 cover:
   image: "uploads/verano-prey-project-guardianhubx.webp"

@@ -1,17 +1,17 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 date: '2023-09-21T00:00:00+00:00'
 draft: false
 slug: problemes-manca-manteniment-informatic
 type: "blog"
 tags:
-- manteniment informàtic
 - actualitzacions
-- IT
-- Cybersecurity
 - best practices
+- ciberseguretat
+- manteniment informàtic
+- tecnologia-informació
 title: 10 problemes generats per la manca de manteniment informàtic
 description: "Descobreix els 10 principals problemes i conseqüències derivats d'una manca de manteniment informàtic a la teva empresa, des de la pèrdua de dades fins als costos ocults."
 translationKey: "it-maintenance-problems-2023"

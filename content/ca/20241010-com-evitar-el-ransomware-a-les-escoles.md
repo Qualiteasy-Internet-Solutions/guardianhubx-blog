@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Education
+- educació
 cover:
   alt: Com evitar el ransomware a les escoles
   caption: 'Font: GuardianHubX'
@@ -13,12 +13,12 @@ draft: false
 slug: com-evitar-el-ransomware-a-les-escoles
 type: "blog"
 tags:
-- ransomware
+- EduCraft
+- ciberseguretat
 - escoles
 - prevenció
-- IT
-- Cybersecurity
-- EduCraft
+- ransomware
+- tecnologia-informació
 title: Com evitar el ransomware a les escoles
 translationKey: "ransomware-prevention-schools-2024"
 ---

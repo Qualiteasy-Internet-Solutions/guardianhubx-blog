@@ -6,15 +6,15 @@ draft: false
 slug: "ia-anuncios-confianza-reto-ciberseguridad"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Ingeniería social"
-  - "Protección de datos"
-  - "Riesgos digitales"
-  - "Fraude digital"
-  - "Phishing"
-  - "IA"
-  - "Inteligencia Artificial"
+- fraude-digital
+- ingeniería-social
+- inteligencia-artificial
+- inteligencia-artificial
+- phishing
+- protección-de-datos
+- riesgos-digitales
 description: "La llegada de anuncios a ChatGPT marca el fin de su neutralidad. Analizamos cómo la publicidad en IA crea una nueva superficie de ataque para las empresas."
 cover:
   image: "uploads/ia-anuncios-ciberseguridad.webp"

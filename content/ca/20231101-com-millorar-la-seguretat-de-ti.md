@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 cover:
   alt: Com millorar la seguretat de TI en una empresa
   caption: 'Font: GuardianHubX'
@@ -15,11 +15,11 @@ draft: false
 slug: com-millorar-la-seguretat-de-ti
 type: "blog"
 tags:
+- best practices
+- ciberseguretat
 - endpoint
 - seguretat
-- IT
-- Cybersecurity
-- best practices
+- tecnologia-informació
 title: Com millorar la seguretat de TI
 translationKey: "how-to-improve-it-security-2023"
 ---

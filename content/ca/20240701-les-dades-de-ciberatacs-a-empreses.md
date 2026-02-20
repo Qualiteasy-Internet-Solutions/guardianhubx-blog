@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 cover:
   alt: Gràfic mostrant dades de ciberatacs a empreses
   caption: 'Font: GuardianHubX'
@@ -16,11 +16,11 @@ excerpt: Cada vegada llegim més notícies sobre ciberatacs. Gràcies a estudis 
   de protegir-se.
 slug: les-dades-de-ciberatacs-a-empreses
 tags:
-- ciberatacs
-- ransomware
 - anàlisi de dades
-- IT
-- Cybersecurity
+- ciberatacs
+- ciberseguretat
+- ransomware
+- tecnologia-informació
 title: Les dades que demostren el risc real de ciberatacs a empreses
 translationKey: "cyberattack-data-companies-2024"
 ---

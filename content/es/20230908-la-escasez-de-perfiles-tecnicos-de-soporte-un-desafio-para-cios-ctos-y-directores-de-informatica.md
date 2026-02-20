@@ -1,8 +1,8 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
-- IT
+- ciberseguridad
+- tecnología-información
 cover:
   alt: 'La Escasez de Perfiles Técnicos de Soporte: Un Desafío para Directores de
     Informática'
@@ -15,11 +15,11 @@ draft: false
 slug: escasez-talento-it-solucion-automatizacion
 type: "blog"
 tags:
+- automatización
+- ciberseguridad
 - escasez de talento
 - soporte
-- IT
-- Cybersecurity
-- automatización
+- tecnología-información
 title: 'La Escasez de Talento en TI: Cómo la Automatización es la Solución'
 description: "La escasez de perfiles técnicos de soporte es un desafío para los CIOs. Descubre cómo las herramientas de gestión automática pueden ser la solución."
 translationKey: "it-talent-shortage-automation-2023"

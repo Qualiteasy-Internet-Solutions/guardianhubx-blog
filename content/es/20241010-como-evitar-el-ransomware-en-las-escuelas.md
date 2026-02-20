@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Education
+- educación
 cover:
   alt: Cómo evitar el ransomware en las escuelas
   caption: 'Fuente: GuardianHubX'
@@ -13,12 +13,12 @@ draft: false
 slug: como-evitar-el-ransomware-en-las-escuelas
 type: "blog"
 tags:
-- ransomware
+- EduCraft
+- ciberseguridad
 - escuelas
 - prevención
-- IT
-- Cybersecurity
-- EduCraft
+- ransomware
+- tecnología-información
 title: Cómo evitar el ransomware en las escuelas
 translationKey: "ransomware-prevention-schools-2024"
 ---

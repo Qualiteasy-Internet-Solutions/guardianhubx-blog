@@ -7,15 +7,15 @@ type: "blog"
 slug: "seguridad-dispositivos-iot-pymes-riesgos-y-como-mitigarlos"
 translationKey: "seguridad-iot-pymes"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - ciberseguridad
-  - IoT
-  - pymes
-  - seguridad-informática
-  - riesgos-digitales
-  - contraseñas
-  - actualizaciones
+- actualizaciones
+- ciberseguridad
+- contraseñas
+- iot
+- pymes
+- riesgos-digitales
+- seguridad-informática
 description: "Descubre los riesgos de los dispositivos IoT en pequeñas empresas (contraseñas débiles, falta de actualizaciones) y aprende cómo mitigarlos eficazmente."
 cover:
   image: "uploads/seguridad-iot-empresas.webp"

@@ -6,11 +6,11 @@ draft: false
 slug: "nomes-49-percent-empreses-inverteix-ciberseguretat"
 type: "blog"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - "Ciberseguretat Empresarial"
-  - "Pimes"
-  - "Riscos Digitals"
+- ciberseguretat-empresarial
+- pimes
+- riscos-digitals
 description: "Només el 49 % de les empreses inverteix en ciberseguretat després d'un atac. Descobreix per què la prevenció és una inversió estratègica indispensable."
 cover:
   image: "uploads/inversion-ciberseguridad-riesgo-negocio.webp"

@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguridad
 cover:
   alt: ¿Qué hacer si la información de tu empresa ha sido comprometida?
   caption: 'Fuente: GuardianHubX'
@@ -13,12 +13,12 @@ draft: false
 slug: que-hacer-si-info-empresa-comprometida
 type: "blog"
 tags:
-- monitoreo
+- ciberseguridad
 - evaluación
-- seguridad
-- IT
-- Cybersecurity
+- monitoreo
 - respuesta a incidentes
+- seguridad
+- tecnología-información
 title: ¿Qué hacer si la información de tu empresa ha sido comprometida?
 translationKey: "data-breach-response-2024"
 ---

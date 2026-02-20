@@ -6,14 +6,14 @@ draft: false
 slug: "derechos-usuario-hackeo-empresa-datos"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Normativa"
-  - "Privacidad"
-  - "Ciberataques"
-  - "Derechos digitales"
-  - "Gestión de incidentes"
-  - "Protección de datos"
+- ciberataques
+- derechos-digitales
+- gestión-de-incidentes
+- normativa
+- privacidad
+- protección-de-datos
 description: "¿Tus datos se han filtrado tras un ciberataque? Descubre tus derechos legales, cómo reclamar ante la negligencia empresarial y cómo proteger tu identidad."
 cover:
   image: "uploads/derechos-usuario-tras-hackeo.webp"

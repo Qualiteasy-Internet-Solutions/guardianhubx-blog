@@ -6,14 +6,14 @@ draft: false
 slug: "infostealers-amenaza-robo-datos"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Ciberseguridad"
-  - "Seguridad Informática"
-  - "Protección de Datos"
-  - "Amenazas Digitales"
-  - "Concienciación y Formación"
-  - "Malware y Phishing"
+- amenazas-digitales
+- ciberseguridad
+- concienciación-y-formación
+- malware-y-phishing
+- protección-de-datos
+- seguridad-informática
 description: "Descubre cómo los infostealers roban tus datos sin ser detectados y qué medidas puedes tomar para proteger tu empresa frente a estas amenazas silenciosas."
 cover:
   image: "uploads/infostealer-blog.webp"

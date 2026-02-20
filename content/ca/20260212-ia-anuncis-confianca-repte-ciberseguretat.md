@@ -6,15 +6,15 @@ draft: false
 slug: "ia-anuncis-confianca-repte-ciberseguretat"
 type: "blog"
 categories:
-  - "Ciberseguretat"  
+- ciberseguretat
 tags:
-  - "Enginyeria social"
-  - "Protecció de dades"
-  - "Riscos digitals"
-  - "Frau digital"
-  - "Phishing"
-  - "IA"
-  - "Intel·ligència Artificial"
+- enginyeria-social
+- frau-digital
+- intel·ligència-artificial
+- intel·ligència-artificial
+- phishing
+- protecció-de-dades
+- riscos-digitals
 description: "L'arribada d'anuncis a ChatGPT marca la fi de la seva neutralitat. Analitzem com la publicitat en IA crea una nova superfície d'atac per a les empreses."
 cover:
   image: "uploads/ia-anuncios-ciberseguridad.webp"

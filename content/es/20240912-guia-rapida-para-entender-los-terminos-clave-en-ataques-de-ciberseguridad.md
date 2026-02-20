@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguridad
 cover:
   alt: Guía rápida para entender los términos clave en ataques de ciberseguridad
   caption: 'Fuente: GuardianHubX'
@@ -14,10 +14,10 @@ slug: guia-rapida-terminos-ciberseguridad
 type: "blog"
 tags:
 - ciberataques
-- ransomware
-- phishing
 - ciberresiliencia
-- IT
+- phishing
+- ransomware
+- tecnología-información
 title: Guía rápida para entender los términos clave en ataques de ciberseguridad
 translationKey: "cybersecurity-terms-guide-2024"
 ---

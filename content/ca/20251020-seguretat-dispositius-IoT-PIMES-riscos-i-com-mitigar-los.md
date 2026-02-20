@@ -7,15 +7,15 @@ type: "blog"
 translationKey: "seguridad-iot-pymes"
 slug: "seguretat-dispositius-iot-pimes"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - ciberseguretat
-  - IoT
-  - pimes
-  - seguretat-informàtica
-  - riscos-digitals
-  - contrasenyes
-  - actualitzacions
+- actualitzacions
+- ciberseguretat
+- contrasenyes
+- iot
+- pimes
+- riscos-digitals
+- seguretat-informàtica
 description: "Descobreix els riscos dels dispositius IoT a les petites empreses (contrasenyes febles, manca d'actualitzacions) i aprèn com mitigar-los eficaçment."
 cover:
   image: "uploads/seguridad-iot-empresas.webp"

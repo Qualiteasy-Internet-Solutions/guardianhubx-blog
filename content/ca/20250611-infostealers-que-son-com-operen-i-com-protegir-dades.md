@@ -5,15 +5,15 @@ date: 2025-06-11T00:00:00+00:00
 draft: false
 type: "blog"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 slug: "infostealers-amenaca-robatori-dades"
 tags:
-  - "Ciberseguretat"
-  - "Seguretat Informàtica"
-  - "Protecció de Dades"
-  - "Amenaces Digitals"
-  - "Conscienciació i Formació"
-  - "Malware i Phishing"
+- amenaces-digitals
+- ciberseguretat
+- conscienciació-i-formació
+- malware-i-phishing
+- protecció-de-dades
+- seguretat-informàtica
 description: "Descobreix com els infostealers roben les teves dades sense ser detectats i quines mesures pots prendre per protegir la teva empresa d'aquestes amenaces silencioses."
 cover:
   image: "uploads/infostealer-blog.webp"

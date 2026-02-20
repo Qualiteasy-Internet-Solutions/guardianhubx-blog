@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 cover:
   alt: Avantatges d'utilitzar una consola al núvol per a la gestió centralitzada de
     TI
@@ -16,11 +16,11 @@ draft: false
 slug: avantatges-consola-gestio-ti-nuvol
 type: "blog"
 tags:
-- gestió de dispositius
 - automatització
+- ciberseguretat
+- gestió de dispositius
 - pedaços
-- IT
-- Cybersecurity
+- tecnologia-informació
 title: Avantatges d'utilitzar una consola al núvol per a la gestió centralitzada de
   TI
 translationKey: "cloud-it-console-advantages-2024"

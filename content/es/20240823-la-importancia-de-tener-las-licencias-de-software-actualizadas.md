@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguridad
 cover:
   alt: La Importancia de Tener las Licencias de Software Actualizadas
   caption: 'Fuente: GuardianHubX'
@@ -13,11 +13,11 @@ draft: false
 slug: importancia-licencias-software-actualizadas
 type: "blog"
 tags:
-- licencias de software
+- ciberseguridad
 - cumplimiento
-- IT
-- Cybersecurity
 - gestión de dispositivos
+- licencias de software
+- tecnología-información
 title: La Importancia de Tener las Licencias de Software Actualizadas
 translationKey: "software-license-importance-2024"
 ---

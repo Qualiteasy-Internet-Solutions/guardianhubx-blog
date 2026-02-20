@@ -6,14 +6,14 @@ draft: false
 slug: "seguretat-nuvol-pimes-riscos-solucions"
 type: "blog"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - "Cloud Computing"
-  - "Pimes"
-  - "Mites Ciberseguretat"
-  - "Còpies de Seguretat"
-  - "MFA"
-  - "Protecció de Dades"
+- autenticació-multifactor
+- cloud-computing
+- còpies-de-seguretat
+- mites-ciberseguretat
+- pimes
+- protecció-de-dades
 description: "Anàlisi dels riscos reals del núvol per a pimes, desmuntant mites comuns i oferint una guia pràctica de seguretat cloud."
 cover:
   image: "uploads/seguridad-nube-pymes.webp"

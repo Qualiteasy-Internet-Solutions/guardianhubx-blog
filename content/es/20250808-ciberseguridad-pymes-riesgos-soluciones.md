@@ -5,16 +5,16 @@ date: 2025-08-08T00:00:00+00:00
 draft: false
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - ciberseguridad
-  - protección-de-datos
-  - ransomware
-  - phishing
-  - backup
-  - concienciación-y-formación
-  - seguridad-informática
-  - actualizaciones
+- actualizaciones
+- backups
+- ciberseguridad
+- concienciación-y-formación
+- phishing
+- protección-de-datos
+- ransomware
+- seguridad-informática
 description: "Descubre los principales riesgos de ciberseguridad para pymes sin equipo interno y cómo proteger tu negocio con soluciones asequibles y efectivas."
 cover:
   image: "uploads/ciberseguridad-pymes-riesgos-soluciones.webp"

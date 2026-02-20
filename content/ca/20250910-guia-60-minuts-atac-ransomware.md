@@ -6,16 +6,16 @@ draft: false
 type: "blog"
 translationKey: "guia-60-minutos-ataque-ransomware"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 slug: "guia-60-minuts-atac-ransomware"
 tags:
-  - ciberseguretat
-  - ransomware
-  - pimes
-  - copies-de-seguretat
-  - resposta-incidents
-  - seguretat-informatica
-  - formacio
+- ciberseguretat
+- conscienciació-i-formació
+- còpies-de-seguretat
+- pimes
+- ransomware
+- resposta-a-incidents
+- seguretat-informàtica
 description: "Descobreix quins passos seguir en els primers 60 minuts després d’un atac de ransomware per minimitzar danys i accelerar la recuperació de la teva empresa."
 cover:
   image: "uploads/guia-ataque-ransomware.webp"

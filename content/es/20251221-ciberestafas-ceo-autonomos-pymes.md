@@ -6,14 +6,14 @@ draft: false
 slug: "ciberestafas-ceo-autonomos-pymes"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Fraude del CEO"
-  - "Autónomos"
-  - "Pymes"
-  - "Ingeniería Social"
-  - "Phishing"
-  - "Suplantación de Identidad"
+- autónomos
+- fraude-del-ceo
+- ingeniería-social
+- phishing
+- pymes
+- suplantación-de-identidad
 description: "Guía para detectar y evitar el Fraude del CEO y otras estafas dirigidas a directivos de pymes y autónomos. Protege tu capacidad de decisión."
 cover:
   image: "uploads/estafas-ceo-pymes.webp"

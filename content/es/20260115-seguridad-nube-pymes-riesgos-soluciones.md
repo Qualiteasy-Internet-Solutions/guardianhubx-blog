@@ -6,14 +6,14 @@ draft: false
 slug: "seguridad-nube-pymes-riesgos-soluciones"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Cloud Computing"
-  - "Pymes"
-  - "Mitos Ciberseguridad"
-  - "Copias de Seguridad"
-  - "MFA"
-  - "Protección de Datos"
+- autenticación-multifactor
+- cloud-computing
+- copias-de-seguridad
+- mitos-ciberseguridad
+- protección-de-datos
+- pymes
 description: "Análisis de los riesgos reales de la nube para pymes, desmintiendo mitos comunes y ofreciendo una guía práctica de seguridad cloud."
 cover:
   image: "uploads/seguridad-nube-pymes.webp"

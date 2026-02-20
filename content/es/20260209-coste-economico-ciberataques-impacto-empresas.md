@@ -6,13 +6,13 @@ draft: false
 slug: "coste-economico-ciberataques-impacto-empresas"
 type: "blog"
 categories:
-  - "Ciberseguridad"  
+- ciberseguridad
 tags:
-  - "Impacto Económico"
-  - "Ransomware"
-  - "Pymes"
-  - "GuardianRadar"
-  - "Gestión de Riesgos"
+- gestión-de-riesgos
+- guardianaradar
+- impacto-económico
+- pymes
+- ransomware
 description: "Descubre el coste real de los ciberataques en 2026. Del impacto de 10,5 billones de dólares globales al nuevo servicio GuardianRadar para la protección de PYMES."
 cover:
   image: "uploads/coste-economico-ciberataques.webp"

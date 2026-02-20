@@ -1,18 +1,18 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
-- IT
+- ciberseguretat
+- tecnologia-informació
 date: '2023-09-18T00:00:00+00:00'
 draft: false
 slug: gestio-unificada-endpoints-uem
 type: "blog"
 tags:
-- UEM
+- ciberseguretat
 - gestió de dispositius
-- IA
-- IT
-- Cybersecurity
+- intel·ligència-artificial
+- tecnologia-informació
+- uem
 title: Optimitzant la Gestió de Dispositius amb Programari UEM
 description: "Explorem què és el programari de Gestió de Dispositius Unificats (UEM), per què és essencial i com pot beneficiar la teva empresa."
 translationKey: "uem-software-optimization-2023"

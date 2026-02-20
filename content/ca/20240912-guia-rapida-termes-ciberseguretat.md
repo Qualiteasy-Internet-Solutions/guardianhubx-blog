@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 cover:
   alt: Guia ràpida per entendre els termes clau en atacs de ciberseguretat
   caption: 'Font: GuardianHubX'
@@ -14,10 +14,10 @@ slug: guia-rapida-termes-ciberseguretat
 type: "blog"
 tags:
 - ciberatacs
-- ransomware
-- phishing
 - ciberresiliència
-- IT
+- phishing
+- ransomware
+- tecnologia-informació
 title: Guia ràpida per entendre els termes clau en atacs de ciberseguretat
 translationKey: "cybersecurity-terms-guide-2024"
 ---

@@ -6,14 +6,14 @@ draft: false
 slug: "checklist-ciberseguretat-fi-any-pimes"
 type: "blog"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - "Auditoria"
-  - "Pimes"
-  - "Contrasenyes"
-  - "Backups"
-  - "Planificació 2026"
-  - "Bones Pràctiques"
+- auditoria
+- backups
+- bones-pràctiques
+- contrasenyes
+- pimes
+- tendències-2026
 description: "Llista de comprovació essencial per a pimes: revisa accessos, contrasenyes, backups i vulnerabilitats abans de tancar l'any i planifica un 2026 segur."
 cover:
   image: "uploads/checklist-ciberseguridad-fin-ano.webp"

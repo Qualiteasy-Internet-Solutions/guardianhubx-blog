@@ -1,18 +1,18 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguridad
 date: '2025-02-11T00:00:00+00:00'
 draft: false
 slug: 2025-02-11-directiva-nis2-nueva-ley-ciberseguridad
 type: "blog"
 tags:
 - ciberseguridad
-- normativa
+- ciberseguridad
 - cumplimiento
-- NIS2
-- IT
-- Cybersecurity
+- normativa
+- normativa-nis2
+- tecnología-información
 title: 'Directiva NIS2 y la Nueva Ley de Ciberseguridad: Lo que tu Empresa Debe Saber en 2025'
 description: "La Directiva NIS2 transforma el panorama de la ciberseguridad en España. Descubre a qué empresas afecta, sus obligaciones y cómo cumplir la normativa."
 translationKey: "nis2-law-spain-2025"

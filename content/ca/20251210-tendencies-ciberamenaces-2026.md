@@ -6,14 +6,14 @@ draft: false
 slug: "tendencies-ciberamenaces-2026-preparacio"
 type: "blog"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - "Tendències 2026"
-  - "Intel·ligència Artificial"
-  - "Ransomware"
-  - "Deepfakes"
-  - "IoT"
-  - "Ciberseguretat Empresarial"
+- ciberseguretat-empresarial
+- deepfakes
+- intel·ligència-artificial
+- iot
+- ransomware
+- tendències-2026
 description: "Anàlisi de les 10 tendències de ciberseguretat que definiran el 2026 (IA, Deepfakes, RaaS) i guia pràctica perquè les pimes es protegeixin des d'avui."
 cover:
   image: "uploads/tendencias-ciberseguridad-2026.webp"

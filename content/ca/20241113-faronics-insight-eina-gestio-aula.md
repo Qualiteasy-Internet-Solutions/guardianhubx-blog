@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Education
+- educació
 cover:
   alt: Un professor utilitzant Faronics Insight per gestionar la seva aula digital
   caption: 'Font: GuardianHubX'
@@ -13,11 +13,11 @@ draft: false
 slug: faronics-insight-eina-gestio-aula
 type: "blog"
 tags:
-- educació
 - Faronics Insight
+- educació
 - gestió de l'aula
 - tecnologia educativa
-- IT
+- tecnologia-informació
 title: 'Faronics Insight: L''Eina Definitiva per a la Gestió de l''Aula Digital'
 translationKey: "faronics-insight-classroom-2024"
 ---

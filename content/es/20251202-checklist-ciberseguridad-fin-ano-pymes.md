@@ -6,14 +6,14 @@ draft: false
 slug: "checklist-ciberseguridad-fin-ano-pymes"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Auditoría"
-  - "Pymes"
-  - "Contraseñas"
-  - "Backups"
-  - "Planificación 2026"
-  - "Buenas Prácticas"
+- auditoría
+- backups
+- buenas-prácticas
+- contraseñas
+- pymes
+- tendencias-2026
 description: "Lista de comprobación esencial para pymes: revisa accesos, contraseñas, backups y vulnerabilidades antes de cerrar el año y planifica un 2026 seguro."
 cover:
   image: "uploads/checklist-ciberseguridad-fin-ano.webp"

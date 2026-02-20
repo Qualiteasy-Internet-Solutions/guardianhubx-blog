@@ -6,14 +6,14 @@ draft: false
 slug: "rebaixes-online-proteccio-ciberseguretat"
 type: "blog"
 categories:
-  - "Ciberseguretat"  
+- ciberseguretat
 tags:
-  - "Rebaixes"
-  - "Compres Online"
-  - "Frau Digital"
-  - "IA"
-  - "Phishing"
-  - "Identitat Digital"
+- compres-online
+- frau-digital
+- identitat-digital
+- intel·ligència-artificial
+- phishing
+- promocions-ofertes
 description: "El 2026, les rebaixes online són el principal objectiu dels ciberdelinqüents. Descobreix com la IA ha sofisticat les estafes i com protegir la teva identitat digital."
 cover:
   image: "uploads/rebajas-online-seguridad-digital.webp"

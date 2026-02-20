@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Ciberseguridad
+- ciberseguridad
 cover:
   alt: Imagen ilustrativa sobre ciberataques en España
   caption: 'Fuente: guardianhubx'
@@ -16,10 +16,10 @@ type: "blog"
 tags:
 - ciberataques
 - ciberresiliencia
-- ransomware
+- ciberseguridad
 - phishing
-- IT
-- Cybersecurity
+- ransomware
+- tecnología-información
 title: 'La creciente amenaza de los ciberataques en España: claves para una ciberresiliencia
   efectiva'
 translationKey: "cyberattacks-spain-resilience-2025"

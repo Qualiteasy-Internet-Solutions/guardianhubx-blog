@@ -1,19 +1,19 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
-- IT
+- ciberseguretat
+- tecnologia-informació
 date: '2023-09-27T00:00:00+00:00'
 draft: false
 slug: 'comparativa-faronics-cloud-intune-ninjaone'
 type: "blog"
 tags:
+- FaronicsCloud
 - Intune
 - NinjaOne
-- Faronics
-- FaronicsCloud
+- faronics
 - gestió de dispositius
-- IT
+- tecnologia-informació
 title: 'Faronics Cloud vs. Intune vs. NinjaOne: Comparativa de Solucions de Gestió de TI'
 description: "Comparem tres solucions líders de gestió de TI: Faronics Cloud (inclòs a les solucions de GuardianHubX), Microsoft Intune i NinjaOne."
 translationKey: "it-management-comparison-2023"

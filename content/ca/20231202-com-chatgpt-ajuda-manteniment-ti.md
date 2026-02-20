@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- IT
+- tecnologia-informació
 cover:
   alt: Com ChatGPT et pot ajudar en el manteniment i actualitzacions dels teus equips
   caption: 'Font: GuardianHubX'
@@ -14,11 +14,11 @@ slug: com-chatgpt-ajuda-manteniment-ti
 type: "blog"
 tags:
 - ChatGPT
-- manteniment
 - actualitzacions
-- IT
 - automatització
-- Faronics
+- faronics
+- manteniment
+- tecnologia-informació
 title: Com ChatGPT et pot ajudar en el manteniment i actualitzacions dels teus equips
 description: "Descobreix com un assistent d'IA com ChatGPT pot ajudar un administrador de sistemes en tasques de manteniment, actualitzacions i gestió d'equips."
 translationKey: "chatgpt-it-maintenance-2023"

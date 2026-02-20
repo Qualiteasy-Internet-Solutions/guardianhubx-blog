@@ -6,14 +6,14 @@ draft: false
 slug: "resumen-ciberseguridad-2025-lo-mejor"
 type: "blog"
 categories:
-  - "Resumen del Año"
-  - "Ciberseguridad"
+- Resumen del Año
+- ciberseguridad
 tags:
-  - "Recopilatorio"
-  - "Mejores Prácticas"
-  - "Infostealers"
-  - "IoT"
-  - "Fraude del CEO"
+- buenas-prácticas
+- fraude-del-ceo
+- infostealers
+- iot
+- recopilatorio
 description: "Repasamos los artículos más leídos y críticos de 2025 en GuardianHubX: desde los Infostealers y el Fraude del CEO hasta la nueva era de la IA."
 cover:
   image: "uploads/resumen-2025-ciberseguridad.webp"

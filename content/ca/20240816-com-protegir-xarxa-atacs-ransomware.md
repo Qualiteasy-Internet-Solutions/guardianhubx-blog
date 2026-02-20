@@ -1,17 +1,17 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 date: '2024-08-16T00:00:00+00:00'
 draft: false
 slug: com-protegir-xarxa-atacs-ransomware
 type: "blog"
 tags:
-- ransomware
 - ciberatacs
-- Faronics
-- IT
-- Cybersecurity
+- ciberseguretat
+- faronics
+- ransomware
+- tecnologia-informació
 title: Com puc protegir la meva xarxa d'atacs de ransomware?
 translationKey: "ransomware-network-protection-2024"
 ---

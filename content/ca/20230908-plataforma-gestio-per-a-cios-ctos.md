@@ -1,18 +1,18 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
-- IT
+- ciberseguretat
+- tecnologia-informació
 date: '2023-09-08T00:00:00+00:00'
 draft: false
 slug: plataforma-gestio-per-a-cios-ctos
 type: "blog"
 tags:
-- ransomware
 - ciberatacs
+- ciberseguretat
 - gestió de dispositius
-- IT
-- Cybersecurity
+- ransomware
+- tecnologia-informació
 title: 'La Solució de Gestió Integral per a CIOs i CTOs'
 description: "Descobreix com una plataforma de gestió centralitzada com la de GuardianHubX respon als desafiaments d'eficiència, seguretat i optimització de recursos dels CIOs i CTOs."
 translationKey: "management-solution-cio-cto-2023"

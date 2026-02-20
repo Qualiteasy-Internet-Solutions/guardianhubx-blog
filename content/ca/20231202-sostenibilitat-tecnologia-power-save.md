@@ -6,11 +6,11 @@ draft: false
 categories:
   - "Energy"
 tags:
-  - "sostenibilitat"
-  - "PowerSave"
-  - "automatització"
-  - "IT"
-  - "estalvi energètic"
+- automatització
+- estalvi-energètic
+- powersave
+- sostenibilitat
+- tecnologia-informació
 type: "blog"
 slug: "sostenibilitat-tecnologia-power-save"
 description: "Descobreix com la tecnologia Power Save, integrada a les solucions de GuardianHubX, ajuda les empreses a reduir costos i la seva petjada de carboni."

@@ -6,14 +6,14 @@ draft: false
 slug: "guia-ciberseguretat-autonom-des-de-zero"
 type: "blog"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - "Autònoms"
-  - "Guia Bàsica"
-  - "Contrasenyes"
-  - "MFA"
-  - "Protecció de Dades"
-  - "Emprenedors"
+- autenticació-multifactor
+- autònoms
+- contrasenyes
+- emprenedors
+- guia-bàsica
+- protecció-de-dades
 description: "Guia essencial de ciberseguretat per a nous autònoms: protegeix els teus dispositius, contrasenyes i dades de clients des del primer dia."
 cover:
   image: "uploads/guia-ciberseguridad-autonomo.webp"

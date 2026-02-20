@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguridad
 cover:
   alt: Persona trabajando en un portátil con decoración navideña de fondo, simbolizando
     la ciberseguridad en navidades.
@@ -15,11 +15,11 @@ slug: ciberseguridad-navidad-empresas
 type: "blog"
 tags:
 - ciberataques
-- ransomware
-- parches
-- IT
-- Cybersecurity
+- ciberseguridad
 - navidad
+- parches
+- ransomware
+- tecnología-información
 title: 'Protege tu empresa de los ciberataques estas Navidades'
 translationKey: "christmas-cybersecurity-2023"
 ---

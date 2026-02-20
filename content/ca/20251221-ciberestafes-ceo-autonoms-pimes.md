@@ -6,14 +6,14 @@ draft: false
 slug: "ciberestafes-ceo-autonoms-pimes"
 type: "blog"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - "Frau del CEO"
-  - "Autònoms"
-  - "Pimes"
-  - "Enginyeria Social"
-  - "Phishing"
-  - "Suplantació d'Identitat"
+- autònoms
+- enginyeria-social
+- frau-del-ceo
+- phishing
+- pimes
+- suplantació-d-identitat
 description: "Guia per detectar i evitar el Frau del CEO i altres estafes dirigides a directius de pimes i autònoms. Protegeix la teva capacitat de decisió."
 cover:
   image: "uploads/estafas-ceo-pymes.webp"

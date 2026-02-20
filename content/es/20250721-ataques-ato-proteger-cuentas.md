@@ -6,14 +6,14 @@ draft: false
 slug: "ataques-ato-proteger-cuentas"
 type: "blog"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - "Ciberseguridad"
-  - "Seguridad de Cuentas"
-  - "Gestión de Identidades"
-  - "Protección de Datos"
-  - "Concienciación y Formación"
-  - "Dark Web"
+- ciberseguridad
+- concienciación-y-formación
+- dark-web
+- gestión-de-identidades
+- protección-de-datos
+- seguridad-de-cuentas
 description: "La toma de control de cuentas (ATO) es una de las amenazas más críticas para cualquier empresa. Descubre cómo prevenir este tipo de ataques con soluciones tecnológicas, formación y vigilancia proactiva."
 cover:
   image: "uploads/ataques-ato-proteger-cuentas-guardianhubx.webp"

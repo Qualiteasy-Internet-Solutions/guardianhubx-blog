@@ -6,14 +6,14 @@ draft: false
 slug: "estiu-proteccio-dispositius-prey"
 type: "blog"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
-  - "Dispositius Mòbils"
-  - "Teletreball"
-  - "Protecció de Dades"
-  - "BYOD"
-  - "Prey Project"
-  - "Seguretat Física"
+- byod
+- dispositius-mòbils
+- prey-project
+- protecció-de-dades
+- seguretat-física
+- teletreball
 description: "Aquest estiu, els teus dispositius corporatius estan més exposats que mai. Descobreix com protegir la teva empresa davant de pèrdues, robatoris i accessos indeguts amb Prey Project, la solució ideal per a equips mòbils."
 cover:
   image: "uploads/verano-prey-project-guardianhubx.webp"

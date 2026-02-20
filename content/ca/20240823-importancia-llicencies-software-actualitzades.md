@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguretat
 cover:
   alt: La Importància de Tenir les Llicències de Programari Actualitzades
   caption: 'Font: GuardianHubX'
@@ -13,11 +13,11 @@ draft: false
 slug: importancia-llicencies-software-actualitzades
 type: "blog"
 tags:
-- llicències de programari
+- ciberseguretat
 - compliment
-- IT
-- Cybersecurity
 - gestió de dispositius
+- llicències de programari
+- tecnologia-informació
 title: La Importància de Tenir les Llicències de Programari Actualitzades
 translationKey: "software-license-importance-2024"
 ---

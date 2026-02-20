@@ -6,17 +6,17 @@ draft: false
 type: "blog"
 translationKey: "errores-comunes-ciberseguridad-pymes"
 categories:
-  - "Ciberseguridad"
+- ciberseguridad
 tags:
-  - ciberseguridad
-  - pymes
-  - seguridad-informática
-  - ransomware
-  - phishing
-  - contraseñas
-  - gestión-de-contrasenas
-  - copias-de-seguridad
-  - concienciación-y-formación
+- ciberseguridad
+- concienciación-y-formación
+- contraseñas
+- contraseñas
+- copias-de-seguridad
+- phishing
+- pymes
+- ransomware
+- seguridad-informática
 description: "Descubre los 5 errores más comunes de ciberseguridad en pymes y cómo evitarlos con buenas prácticas, formación y herramientas sencillas."
 cover:
   image: "uploads/errores-ciberseguridad-pymes.webp"

@@ -7,7 +7,7 @@ type: "blog"
 translationKey: "vector-ataque-como-proteger-empresa"
 slug: "vector-atac-proteccio-empresa"
 categories:
-  - "Ciberseguretat"
+- ciberseguretat
 tags:
   - ciberseguretat
   - amenaces-digitals

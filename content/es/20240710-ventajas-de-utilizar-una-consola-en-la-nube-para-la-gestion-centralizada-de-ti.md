@@ -1,7 +1,7 @@
 ---
 author: GuardianHubX
 categories:
-- Cybersecurity
+- ciberseguridad
 cover:
   alt: Ventajas de utilizar una consola en la nube para la gestión centralizada de
     IT
@@ -16,11 +16,11 @@ draft: false
 slug: ventajas-consola-gestion-ti-nube
 type: "blog"
 tags:
-- gestión de dispositivos
 - automatización
+- ciberseguridad
+- gestión de dispositivos
 - parches
-- IT
-- Cybersecurity
+- tecnología-información
 title: Ventajas de utilizar una consola en la nube para la gestión centralizada de
   IT
 translationKey: "cloud-it-console-advantages-2024"
