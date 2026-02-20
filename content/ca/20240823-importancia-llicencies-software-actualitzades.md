@@ -10,6 +10,7 @@ cover:
   height: 1024
 date: '2024-08-23T00:00:00+00:00'
 draft: false
+description: "Importància de mantenir llicències de software actualitzades. Redueixen vulnerabilitats, milloren seguretat i garanteixen compliment legal."
 slug: importancia-llicencies-software-actualitzades
 type: "blog"
 tags:

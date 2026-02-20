@@ -10,6 +10,7 @@ cover:
   height: 1024
 date: '2024-09-12T00:00:00+00:00'
 draft: false
+description: "Guía rápida de términos ciberseguridad: phishing, malware, ransomware y más. Conceptos clave explicados para empresas y profesionales."
 slug: guia-rapida-terminos-ciberseguridad
 type: "blog"
 tags:

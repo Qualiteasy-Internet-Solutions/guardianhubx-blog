@@ -10,6 +10,7 @@ cover:
   height: 1024
 date: '2024-12-02T00:00:00+00:00'
 draft: false
+description: "Qué hacer si tu empresa ha sido hackeada. Plan de acción, notificación de usuarios, recuperación de datos y prevención futura."
 slug: que-hacer-si-info-empresa-comprometida
 type: "blog"
 tags:

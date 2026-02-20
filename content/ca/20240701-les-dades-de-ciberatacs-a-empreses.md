@@ -10,6 +10,7 @@ cover:
   height: 585
 date: '2024-07-01T00:00:00+00:00'
 draft: false
+description: "Anàlisi detallat d'estadístiques de ciberatacs en empreses espanyoles. Dades reals, tendències 2024 i estratègies de protecció."
 type: "blog"
 excerpt: Cada vegada llegim més notícies sobre ciberatacs. Gràcies a estudis recents,
   hi ha dades reals que ajuden a comprendre la magnitud del problema i la necessitat

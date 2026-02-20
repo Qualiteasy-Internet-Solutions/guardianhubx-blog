@@ -10,6 +10,7 @@ cover:
   height: 1024
 date: '2024-08-23T00:00:00+00:00'
 draft: false
+description: "Importancia de mantener licencias de software actualizadas. Reducen vulnerabilidades, mejoran seguridad y garantizan cumplimiento legal."
 slug: importancia-licencias-software-actualizadas
 type: "blog"
 tags:

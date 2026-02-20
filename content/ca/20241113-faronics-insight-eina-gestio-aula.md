@@ -10,6 +10,7 @@ cover:
   height: 576
 date: '2024-11-13T00:00:00+00:00'
 draft: false
+description: "Faronics Insight: gestió avançada d'aules informàtiques. Monitoreja, controla i protegeix dispositius educatius en temps real."
 slug: faronics-insight-eina-gestio-aula
 type: "blog"
 tags:

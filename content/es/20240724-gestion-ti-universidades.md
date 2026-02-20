@@ -11,6 +11,7 @@ cover:
   height: 601
 date: '2024-07-24T00:00:00+00:00'
 draft: false
+description: "Soluciones de gestión TI para universidades. Centraliza endpoints, automatiza updates y asegura infraestructuras educativas modernas."
 slug: gestion-ti-universidades
 type: "blog"
 tags:

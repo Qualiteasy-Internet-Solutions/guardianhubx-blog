@@ -10,6 +10,7 @@ cover:
   height: 1021
 date: '2025-01-27T00:00:00+00:00'
 draft: false
+description: "Com la IA revoluciona tècniques d'evasió en ciberseguretat. Amenaces emergents i defenses contra atacs intel·ligents 2025."
 slug: "com-la-ia-esta-revolucionant-les-tecniques-d-evasio-en-ciberseguretat"
 type: "blog"
 tags:

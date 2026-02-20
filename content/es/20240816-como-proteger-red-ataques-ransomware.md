@@ -4,6 +4,7 @@ categories:
 - ciberseguridad
 date: '2024-08-16T00:00:00+00:00'
 draft: false
+description: "Cómo proteger tu red de ataques ransomware. Estrategias defensivas, backups seguros y recuperación de datos en caso de ataque."
 slug: como-proteger-red-ataques-ransomware
 type: "blog"
 tags:

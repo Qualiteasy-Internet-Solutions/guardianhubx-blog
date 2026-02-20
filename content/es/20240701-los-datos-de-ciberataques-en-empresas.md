@@ -10,6 +10,7 @@ cover:
   height: 585
 date: '2024-07-01T00:00:00+00:00'
 draft: false
+description: "Análisis detallado de estadísticas de ciberataques en empresas españolas. Datos reales, tendencias 2024 y estrategias de protección."
 type: "blog"
 excerpt: Cada vez leemos más noticias sobre ciberataques. Gracias a estudios recientes,
   hay datos reales que ayudan a comprender la magnitud del problema y la necesidad

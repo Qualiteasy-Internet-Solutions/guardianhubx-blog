@@ -10,6 +10,7 @@ cover:
   height: 1024
 date: '2024-09-12T00:00:00+00:00'
 draft: false
+description: "Guia ràpida de termes ciberseguretat: phishing, malware, ransomware i més. Conceptes clau explicats per a empreses i professionals."
 slug: guia-rapida-termes-ciberseguretat
 type: "blog"
 tags:

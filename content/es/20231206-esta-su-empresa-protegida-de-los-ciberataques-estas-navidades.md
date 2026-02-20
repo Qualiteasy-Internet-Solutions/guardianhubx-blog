@@ -11,6 +11,7 @@ cover:
   height: 1007
 date: '2023-12-06T00:00:00+00:00'
 draft: false
+description: "Descubre cómo proteger tu empresa de ciberataques en Navidad. Guía de seguridad empresarial con medidas prácticas contra amenazas festivas."
 slug: ciberseguridad-navidad-empresas
 type: "blog"
 tags:

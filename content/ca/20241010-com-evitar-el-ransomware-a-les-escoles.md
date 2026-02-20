@@ -10,6 +10,7 @@ cover:
   height: 648
 date: '2024-10-10T00:00:00+00:00'
 draft: false
+description: "Com evitar ransomware a les escoles. Protegeix dades d'estudiants, evita parades educatives i assegura continuïtat en centres acadèmics."
 slug: com-evitar-el-ransomware-a-les-escoles
 type: "blog"
 tags:

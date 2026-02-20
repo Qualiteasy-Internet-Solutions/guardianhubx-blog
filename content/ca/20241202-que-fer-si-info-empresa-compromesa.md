@@ -10,6 +10,7 @@ cover:
   height: 1024
 date: '2024-12-02T00:00:00+00:00'
 draft: false
+description: "Què fer si la teva empresa ha estat hackejada. Pla d'acció, notificació d'usuaris, recuperació de dades i prevenció futura."
 slug: que-fer-si-info-empresa-compromesa
 type: "blog"
 tags:

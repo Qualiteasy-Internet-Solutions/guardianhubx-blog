@@ -10,6 +10,7 @@ cover:
   height: 648
 date: '2024-10-10T00:00:00+00:00'
 draft: false
+description: "Cómo evitar ransomware en escuelas. Protege datos estudiantiles, evita paros educativos y asegura continuidad en centros académicos."
 slug: como-evitar-el-ransomware-en-las-escuelas
 type: "blog"
 tags:

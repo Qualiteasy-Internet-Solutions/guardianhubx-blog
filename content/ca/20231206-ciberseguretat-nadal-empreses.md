@@ -11,6 +11,7 @@ cover:
   height: 1007
 date: '2023-12-06T00:00:00+00:00'
 draft: false
+description: "Descobreix com protegir la teva empresa de ciberatacs al Nadal. Guia de seguretat empresarial amb mesures pràctiques contra amenaces festives."
 slug: ciberseguretat-nadal-empreses
 type: "blog"
 tags:

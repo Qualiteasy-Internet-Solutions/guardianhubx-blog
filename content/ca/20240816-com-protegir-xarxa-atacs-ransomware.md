@@ -4,6 +4,7 @@ categories:
 - ciberseguretat
 date: '2024-08-16T00:00:00+00:00'
 draft: false
+description: "Com protegir la teva xarxa d'atacs ransomware. Estratègies defensives, còpies segures i recuperació de dades en cas d'atac."
 slug: com-protegir-xarxa-atacs-ransomware
 type: "blog"
 tags:
