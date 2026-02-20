@@ -15,6 +15,11 @@ tags:
 - uem
 title: Optimizando la Gestión de Dispositivos con Software UEM
 description: "Exploramos qué es el software de Gestión de Dispositivos Unificados (UEM), por qué es esencial y cómo puede beneficiar a tu empresa."
+cover:
+  image: "panel-gestion-parches-remota.webp"
+  alt: "Gestión unificada de endpoints (UEM) para dispositivos"
+  width: 1024
+  height: 640
 translationKey: "uem-software-optimization-2023"
 ---
 

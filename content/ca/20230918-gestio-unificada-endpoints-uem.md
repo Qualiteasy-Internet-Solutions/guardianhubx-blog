@@ -15,6 +15,11 @@ tags:
 - uem
 title: Optimitzant la Gestió de Dispositius amb Programari UEM
 description: "Explorem què és el programari de Gestió de Dispositius Unificats (UEM), per què és essencial i com pot beneficiar la teva empresa."
+cover:
+  image: "panel-gestion-parches-remota.webp"
+  alt: "Gestió unificada d'endpoints (UEM) per a dispositius"
+  width: 1024
+  height: 640
 translationKey: "uem-software-optimization-2023"
 ---
 

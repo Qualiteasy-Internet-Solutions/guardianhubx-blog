@@ -5,6 +5,11 @@ categories:
 date: '2024-08-16T00:00:00+00:00'
 draft: false
 description: "Cómo proteger tu red de ataques ransomware. Estrategias defensivas, backups seguros y recuperación de datos en caso de ataque."
+cover:
+  image: "Education-Ransomware.jpg"
+  alt: "Protección de red contra ataques ransomware"
+  width: 1024
+  height: 640
 slug: como-proteger-red-ataques-ransomware
 type: "blog"
 tags:

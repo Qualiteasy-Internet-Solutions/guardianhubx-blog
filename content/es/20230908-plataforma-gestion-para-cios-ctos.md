@@ -15,6 +15,11 @@ tags:
 - tecnología-información
 title: 'La Solución de Gestión Integral para CIOs y CTOs'
 description: "Descubre cómo una plataforma de gestión centralizada como la de GuardianHubX responde a los desafíos de eficiencia, seguridad y optimización de recursos de los CIOs y CTOs."
+cover:
+  image: "panel-gestion-parches-remota.webp"
+  alt: "Plataforma de gestión centralizada para CIOs y CTOs"
+  width: 1024
+  height: 640
 translationKey: "management-solution-cio-cto-2023"
 ---
 

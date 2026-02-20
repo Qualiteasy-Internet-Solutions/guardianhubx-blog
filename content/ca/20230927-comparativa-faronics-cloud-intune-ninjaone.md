@@ -16,6 +16,11 @@ tags:
 - tecnologia-informació
 title: 'Faronics Cloud vs. Intune vs. NinjaOne: Comparativa de Solucions de Gestió de TI'
 description: "Comparem tres solucions líders de gestió de TI: Faronics Cloud (inclòs a les solucions de GuardianHubX), Microsoft Intune i NinjaOne."
+cover:
+  image: "herramienta-parches-automaticos.webp"
+  alt: "Comparativa d'eines: Faronics, Cloud, Intune i NinjaOne"
+  width: 1024
+  height: 640
 translationKey: "it-management-comparison-2023"
 ---
 

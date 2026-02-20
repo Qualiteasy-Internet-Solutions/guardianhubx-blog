@@ -14,6 +14,11 @@ tags:
 - tecnología-información
 title: 10 problemas generados por la falta de mantenimiento informático
 description: "Descubre los 10 principales problemas y consecuencias derivados de una falta de mantenimiento informático en tu empresa, desde la pérdida de datos hasta los costes ocultos."
+cover:
+  image: "actualizacion-software-remota.webp"
+  alt: "Problemas por falta de mantenimiento informático"
+  width: 1024
+  height: 640
 translationKey: "it-maintenance-problems-2023"
 ---
 

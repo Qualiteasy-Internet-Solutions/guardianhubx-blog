@@ -15,6 +15,11 @@ tags:
 - tecnología-información
 title: '¿Cuáles son las principales diferencias entre RDM y RMM?'
 description: "Aclaramos las diferencias clave entre Remote Desktop Management (RDM) y Remote Monitoring and Management (RMM) para la gestión de TI."
+cover:
+  image: "gestion-remota-parches-software.webp"
+  alt: "Diferencias entre RDM y RMM en gestión remota"
+  width: 1024
+  height: 640
 translationKey: "rdm-vs-rmm-differences-2023"
 ---
 

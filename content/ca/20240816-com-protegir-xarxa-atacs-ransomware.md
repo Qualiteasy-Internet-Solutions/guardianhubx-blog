@@ -5,6 +5,11 @@ categories:
 date: '2024-08-16T00:00:00+00:00'
 draft: false
 description: "Com protegir la teva xarxa d'atacs ransomware. Estratègies defensives, còpies segures i recuperació de dades en cas d'atac."
+cover:
+  image: "Education-Ransomware.jpg"
+  alt: "Protecció de xarxa contra atacs ransomware"
+  width: 1024
+  height: 640
 slug: com-protegir-xarxa-atacs-ransomware
 type: "blog"
 tags:
