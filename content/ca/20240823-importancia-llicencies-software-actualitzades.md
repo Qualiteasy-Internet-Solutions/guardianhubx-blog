@@ -5,7 +5,9 @@ categories:
 cover:
   alt: La Importància de Tenir les Llicències de Programari Actualitzades
   caption: 'Font: GuardianHubX'
-  image: uploads/Captura-de-pantalla-2024-08-23-a-las-13.02.52.png
+  image: uploads/licencias-software-actualizadas.webp
+  width: 1018
+  height: 1024
 date: '2024-08-23T00:00:00+00:00'
 draft: false
 slug: importancia-llicencies-software-actualitzades

@@ -17,6 +17,8 @@ tags:
 description: "Guia essencial de ciberseguretat per a nous autònoms: protegeix els teus dispositius, contrasenyes i dades de clients des del primer dia."
 cover:
   image: "uploads/guia-ciberseguridad-autonomo.webp"
+  width: 1537
+  height: 4097
   alt: "Taula de treball d'un autònom amb portàtil segur i cadenat digital"
   caption: "Font: GuardianHubX"
 translationKey: "freelancer-cybersecurity-guide"

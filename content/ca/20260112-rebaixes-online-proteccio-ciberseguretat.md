@@ -17,6 +17,8 @@ tags:
 description: "El 2026, les rebaixes online són el principal objectiu dels ciberdelinqüents. Descobreix com la IA ha sofisticat les estafes i com protegir la teva identitat digital."
 cover:
   image: "uploads/rebajas-online-seguridad-digital.webp"
+  width: 1115
+  height: 2509
   alt: "Persona comprant online amb el mòbil protegida per ciberseguretat"
   caption: "Font: GuardianHubX"
 translationKey: "sales-online-protection-2026"

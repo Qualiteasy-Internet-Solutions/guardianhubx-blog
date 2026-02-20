@@ -6,6 +6,8 @@ cover:
   alt: Cómo evitar el ransomware en las escuelas
   caption: 'Fuente: GuardianHubX'
   image: uploads/School-ransomware-protection.jpeg
+  width: 1024
+  height: 648
 date: '2024-10-10T00:00:00+00:00'
 draft: false
 slug: como-evitar-el-ransomware-en-las-escuelas

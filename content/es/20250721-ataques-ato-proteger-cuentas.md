@@ -17,6 +17,8 @@ tags:
 description: "La toma de control de cuentas (ATO) es una de las amenazas más críticas para cualquier empresa. Descubre cómo prevenir este tipo de ataques con soluciones tecnológicas, formación y vigilancia proactiva."
 cover:
   image: "uploads/ataques-ato-proteger-cuentas-guardianhubx.webp"
+  width: 1537
+  height: 4097
   alt: "Representación visual de un ataque ATO"
   caption: "Fuente: GuardianHubX"
 translationKey: "ato-2025"

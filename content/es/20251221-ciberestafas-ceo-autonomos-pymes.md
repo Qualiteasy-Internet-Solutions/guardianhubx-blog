@@ -17,6 +17,8 @@ tags:
 description: "Guía para detectar y evitar el Fraude del CEO y otras estafas dirigidas a directivos de pymes y autónomos. Protege tu capacidad de decisión."
 cover:
   image: "uploads/estafas-ceo-pymes.webp"
+  width: 1537
+  height: 4097
   alt: "Concepto de ciberseguridad con un directivo siendo el objetivo de un ataque digital"
   caption: "Fuente: GuardianHubX"
 translationKey: "ceo-scams-smes"

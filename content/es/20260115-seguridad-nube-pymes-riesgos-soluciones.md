@@ -17,6 +17,8 @@ tags:
 description: "Análisis de los riesgos reales de la nube para pymes, desmintiendo mitos comunes y ofreciendo una guía práctica de seguridad cloud."
 cover:
   image: "uploads/seguridad-nube-pymes.webp"
+  width: 1409
+  height: 3073
   alt: "Ilustración de una infraestructura en la nube segura con candados digitales"
   caption: "Fuente: GuardianHubX"
 translationKey: "cloud-security-smes"

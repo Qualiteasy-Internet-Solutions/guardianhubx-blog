@@ -17,6 +17,8 @@ tags:
 description: "Repassem els articles més llegits i crítics del 2025 a GuardianHubX: des dels Infostealers i el Frau del CEO fins a la nova era de la IA."
 cover:
   image: "uploads/resumen-2025-ciberseguridad.webp"
+  width: 1537
+  height: 4097
   alt: "Collage digital amb els conceptes clau de ciberseguretat de l'any 2025"
   caption: "Font: GuardianHubX"
 translationKey: "best-of-2025-summary"

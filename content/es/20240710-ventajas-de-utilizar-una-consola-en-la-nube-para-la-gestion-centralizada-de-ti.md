@@ -7,6 +7,8 @@ cover:
     IT
   caption: 'Fuente: GuardianHubX'
   image: uploads/consola-it-edited.webp
+  width: 1023
+  height: 1024
 date: '2024-07-10T00:00:00+00:00'
 description: La gestión centralizada de TI a través de una consola en la nube se ha
   convertido en una solución eficiente para mejorar la infraestructura tecnológica.

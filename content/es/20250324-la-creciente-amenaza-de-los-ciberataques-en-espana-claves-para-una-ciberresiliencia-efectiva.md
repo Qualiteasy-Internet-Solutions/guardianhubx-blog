@@ -6,6 +6,8 @@ cover:
   alt: Imagen ilustrativa sobre ciberataques en España
   caption: 'Fuente: guardianhubx'
   image: uploads/ataque-empresas.webp
+  width: 1024
+  height: 1004
 date: '2025-03-24T00:00:00+00:00'
 description: Análisis de los principales vectores de ataque que afectan a las empresas
   españolas y estrategias para fortalecer su ciberresiliencia.

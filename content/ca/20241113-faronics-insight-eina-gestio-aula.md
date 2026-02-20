@@ -6,6 +6,8 @@ cover:
   alt: Un professor utilitzant Faronics Insight per gestionar la seva aula digital
   caption: 'Font: GuardianHubX'
   image: uploads/Faronics-Insight-classroom-monitoring.jpeg
+  width: 1024
+  height: 576
 date: '2024-11-13T00:00:00+00:00'
 draft: false
 slug: faronics-insight-eina-gestio-aula

@@ -20,6 +20,8 @@ tags:
 description: "Descobreix què és un vector d'atac, els tipus més comuns i com protegir la teva empresa amb estratègies efectives de ciberseguretat."
 cover:
   image: "uploads/vector-ataque-proteccion-empresa.webp"
+  width: 1025
+  height: 4097
   alt: "Il·lustració conceptual d'un vector d'atac en ciberseguretat"
   caption: "Font: GuardianHubX"
 ---

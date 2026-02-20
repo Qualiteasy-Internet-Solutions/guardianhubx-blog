@@ -18,6 +18,8 @@ tags:
 description: "Olvídate de los propósitos de año nuevo. La 'Economía de la Amenaza Agéntica' cambia las reglas del juego. Descubre los 5 pilares para sobrevivir a 2026."
 cover:
   image: "uploads/ciberseguridad-2026-paradigma.webp"
+  width: 1409
+  height: 3073
   alt: "Representación conceptual de una IA autónoma rompiendo un candado tradicional"
   caption: "Fuente: GuardianHubX"
 translationKey: "cybersecurity-2026-paradigm-shift"

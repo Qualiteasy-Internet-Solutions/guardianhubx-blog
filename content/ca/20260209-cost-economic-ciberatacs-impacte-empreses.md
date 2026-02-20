@@ -16,6 +16,8 @@ tags:
 description: "Descobreix el cost real dels ciberatacs el 2026. De l'impacte de 10,5 bilions de dòlars globals al nou servei GuardianRadar per a pimes."
 cover:
   image: "uploads/coste-economico-ciberataques.webp"
+  width: 2753
+  height: 6145
   alt: "Gràfic digital que mostra pèrdues financeres i símbols de ciberseguretat"
   caption: "Font: GuardianHubX"
 translationKey: "economic-impact-cyberattacks-2026"

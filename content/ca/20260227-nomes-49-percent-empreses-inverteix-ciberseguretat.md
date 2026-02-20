@@ -14,6 +14,8 @@ tags:
 description: "Només el 49 % de les empreses inverteix en ciberseguretat després d'un atac. Descobreix per què la prevenció és una inversió estratègica indispensable."
 cover:
   image: "uploads/inversion-ciberseguridad-riesgo-negocio.webp"
+  width: 2817
+  height: 6145
   alt: "Gràfic digital que mostra la bretxa d'inversió en seguretat corporativa"
   caption: "Font: GuardianHubX"
 translationKey: "only-49-percent-companies-invest-cybersecurity"

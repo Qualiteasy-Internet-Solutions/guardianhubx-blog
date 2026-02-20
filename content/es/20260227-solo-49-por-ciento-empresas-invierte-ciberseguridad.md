@@ -14,6 +14,8 @@ tags:
 description: "Solo el 49 % de las empresas invierte en ciberseguridad tras un ataque. Descubre por qué la prevención es una inversión estratégica indispensable."
 cover:
   image: "uploads/inversion-ciberseguridad-riesgo-negocio.webp"
+  width: 2817
+  height: 6145
   alt: "Gráfico digital que muestra la brecha de inversión en seguridad corporativa"
   caption: "Fuente: GuardianHubX"
 translationKey: "only-49-percent-companies-invest-cybersecurity"

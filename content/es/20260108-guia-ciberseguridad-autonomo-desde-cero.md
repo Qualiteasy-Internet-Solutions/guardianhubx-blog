@@ -17,6 +17,8 @@ tags:
 description: "Guía esencial de ciberseguridad para nuevos autónomos: protege tus dispositivos, contraseñas y datos de clientes desde el primer día."
 cover:
   image: "uploads/guia-ciberseguridad-autonomo.webp"
+  width: 1537
+  height: 4097
   alt: "Mesa de trabajo de un autónomo con portátil seguro y candado digital"
   caption: "Fuente: GuardianHubX"
 translationKey: "freelancer-cybersecurity-guide"

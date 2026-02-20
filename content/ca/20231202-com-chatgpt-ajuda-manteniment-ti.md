@@ -5,7 +5,9 @@ categories:
 cover:
   alt: Com ChatGPT et pot ajudar en el manteniment i actualitzacions dels teus equips
   caption: 'Font: GuardianHubX'
-  image: uploads/img_9978.jpg
+  image: uploads/chatgpt-soporte-it-mantenimiento.jpg
+  width: 1024
+  height: 1024
 date: '2023-12-02T00:00:00+00:00'
 draft: false
 slug: com-chatgpt-ajuda-manteniment-ti

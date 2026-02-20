@@ -17,6 +17,8 @@ tags:
 description: "Guia per detectar i evitar el Frau del CEO i altres estafes dirigides a directius de pimes i autònoms. Protegeix la teva capacitat de decisió."
 cover:
   image: "uploads/estafas-ceo-pymes.webp"
+  width: 1537
+  height: 4097
   alt: "Concepte de ciberseguretat amb un directiu sent l'objectiu d'un atac digital"
   caption: "Font: GuardianHubX"
 translationKey: "ceo-scams-smes"

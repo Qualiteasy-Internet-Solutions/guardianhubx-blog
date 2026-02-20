@@ -17,6 +17,8 @@ tags:
 description: "Lista de comprobación esencial para pymes: revisa accesos, contraseñas, backups y vulnerabilidades antes de cerrar el año y planifica un 2026 seguro."
 cover:
   image: "uploads/checklist-ciberseguridad-fin-ano.webp"
+  width: 1537
+  height: 4097
   alt: "Lista de verificación digital en una tablet sobre un escritorio de oficina moderno"
   caption: "Fuente: GuardianHubX"
 translationKey: "end-year-security-checklist"

@@ -18,6 +18,8 @@ tags:
 description: "Oblida't dels propòsits d'any nou. L''Economia de l'Amenaça Agèntica' canvia les regles del joc. Descobreix els 5 pilars per sobreviure al 2026."
 cover:
   image: "uploads/ciberseguridad-2026-paradigma.webp"
+  width: 1409
+  height: 3073
   alt: "Representació conceptual d'una IA autònoma trencant un cadenat tradicional"
   caption: "Font: GuardianHubX"
 translationKey: "cybersecurity-2026-paradigm-shift"

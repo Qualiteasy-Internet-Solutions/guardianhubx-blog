@@ -7,6 +7,8 @@ cover:
     la gestió de TI'
   caption: 'Font: GuardianHubX'
   image: uploads/universidad_gestion_ti.jpg
+  width: 1024
+  height: 601
 date: '2024-07-24T00:00:00+00:00'
 draft: false
 slug: gestio-ti-universitats

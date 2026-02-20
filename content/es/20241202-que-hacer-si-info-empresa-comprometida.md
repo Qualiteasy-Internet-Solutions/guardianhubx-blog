@@ -5,7 +5,9 @@ categories:
 cover:
   alt: ¿Qué hacer si la información de tu empresa ha sido comprometida?
   caption: 'Fuente: GuardianHubX'
-  image: uploads/Captura-de-Pantalla-2024-12-02-a-las-21.36.01.png
+  image: uploads/informacion-empresa-comprometida.webp
+  width: 1020
+  height: 1024
 date: '2024-12-02T00:00:00+00:00'
 draft: false
 slug: que-hacer-si-info-empresa-comprometida

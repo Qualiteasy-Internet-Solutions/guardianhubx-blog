@@ -17,6 +17,8 @@ tags:
 description: "Aquest estiu, els teus dispositius corporatius estan més exposats que mai. Descobreix com protegir la teva empresa davant de pèrdues, robatoris i accessos indeguts amb Prey Project, la solució ideal per a equips mòbils."
 cover:
   image: "uploads/verano-prey-project-guardianhubx.webp"
+  width: 1537
+  height: 4097
   alt: "Persona amb portàtil a la platja sota mesures de seguretat digital"
   caption: "Font: GuardianHubX"
 translationKey: "prey-project-summer-2025"

@@ -6,6 +6,8 @@ cover:
   alt: Cómo mejorar la seguridad de TI en una empresa
   caption: 'Fuente: GuardianHubX'
   image: uploads/como-mejorar-la-seguridad-ti-1.jpg
+  width: 937
+  height: 2497
 date: '2023-11-01T11:12:15+00:00'
 description: Guía práctica para pequeñas y medianas empresas para reforzar su seguridad
   informática frente a ciberamenazas actuales.

@@ -5,7 +5,9 @@ categories:
 cover:
   alt: Guia ràpida per entendre els termes clau en atacs de ciberseguretat
   caption: 'Font: GuardianHubX'
-  image: uploads/DALL-C2-B7E-2024-09-12-20.26.54-A-digital-collage-representing-cybersecurity-threats-and-protection-concepts.-The-image-should-include-visual-elements-such-as-a-padlock-symbolizing-e-1.webp
+  image: uploads/guia-terminos-ciberseguridad.webp
+  width: 1024
+  height: 1024
 date: '2024-09-12T00:00:00+00:00'
 draft: false
 slug: guia-rapida-termes-ciberseguretat

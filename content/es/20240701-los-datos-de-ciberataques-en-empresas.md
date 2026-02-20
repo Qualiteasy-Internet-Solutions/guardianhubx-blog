@@ -6,6 +6,8 @@ cover:
   alt: Gráfico mostrando datos de ciberataques en empresas
   caption: 'Fuente: GuardianHubX'
   image: uploads/empresa_ciberataque.webp
+  width: 1024
+  height: 585
 date: '2024-07-01T00:00:00+00:00'
 draft: false
 type: "blog"

@@ -7,6 +7,8 @@ cover:
     TI
   caption: 'Font: GuardianHubX'
   image: uploads/consola-it-edited.webp
+  width: 1023
+  height: 1024
 date: '2024-07-10T00:00:00+00:00'
 description: La gestió centralitzada de TI a través d'una consola al núvol s'ha convertit
   en una solució eficient per millorar la infraestructura tecnològica.

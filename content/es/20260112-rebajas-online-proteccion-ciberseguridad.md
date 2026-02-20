@@ -17,6 +17,8 @@ tags:
 description: "En 2026, las rebajas online son el principal objetivo de los ciberdelincuentes. Descubre cómo la IA ha sofisticado las estafas y cómo proteger tu identidad digital."
 cover:
   image: "uploads/rebajas-online-seguridad-digital.webp"
+  width: 1115
+  height: 2509
   alt: "Persona comprando online con el móvil protegida por ciberseguridad"
   caption: "Fuente: GuardianHubX"
 translationKey: "sales-online-protection-2026"

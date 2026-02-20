@@ -17,6 +17,8 @@ tags:
 description: "Descobreix com els infostealers roben les teves dades sense ser detectats i quines mesures pots prendre per protegir la teva empresa d'aquestes amenaces silencioses."
 cover:
   image: "uploads/infostealer-blog.webp"
+  width: 1151
+  height: 6833
   alt: "Hacker robant dades amb malware"
   caption: "Font: GuardianHubX"
 translationKey: "infostealers-2025"

@@ -17,6 +17,8 @@ tags:
 description: "¿Tus datos se han filtrado tras un ciberataque? Descubre tus derechos legales, cómo reclamar ante la negligencia empresarial y cómo proteger tu identidad."
 cover:
   image: "uploads/derechos-usuario-tras-hackeo.webp"
+  width: 801
+  height: 1669
   alt: "Concepto de protección de datos personales y derechos digitales tras una brecha de seguridad"
   caption: "Fuente: GuardianHubX"
 translationKey: "user-rights-after-company-hack"

@@ -6,7 +6,9 @@ cover:
   alt: Persona treballant en un portàtil amb decoració de Nadal de fons, simbolitzant
     la ciberseguretat per Nadal.
   caption: 'Font: GuardianHubX'
-  image: uploads/img_0222-1.jpg
+  image: uploads/ciberseguridad-empresa-navidades.jpg
+  width: 1024
+  height: 1007
 date: '2023-12-06T00:00:00+00:00'
 draft: false
 slug: ciberseguretat-nadal-empreses

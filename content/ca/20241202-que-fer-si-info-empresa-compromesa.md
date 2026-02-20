@@ -5,7 +5,9 @@ categories:
 cover:
   alt: Què fer si la informació de la teva empresa ha estat compromesa?
   caption: 'Font: GuardianHubX'
-  image: uploads/Captura-de-Pantalla-2024-12-02-a-las-21.36.01.png
+  image: uploads/informacion-empresa-comprometida.webp
+  width: 1020
+  height: 1024
 date: '2024-12-02T00:00:00+00:00'
 draft: false
 slug: que-fer-si-info-empresa-compromesa

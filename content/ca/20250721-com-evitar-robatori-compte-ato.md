@@ -18,6 +18,8 @@ tags:
 description: "Els atacs de robatori de comptes (ATO) són una de les amenaces més greus avui dia. Descobreix com prevenir-los amb eines tecnològiques, formació i vigilància proactiva."
 cover:
   image: "uploads/ataques-ato-proteger-cuentas-guardianhubx.webp"
+  width: 1537
+  height: 4097
   alt: "Representació visual d’un atac ATO"
   caption: "Font: GuardianHubX"
 translationKey: "ato-2025"

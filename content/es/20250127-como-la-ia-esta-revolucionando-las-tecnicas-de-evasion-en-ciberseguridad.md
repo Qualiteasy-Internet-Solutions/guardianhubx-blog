@@ -5,7 +5,9 @@ categories:
 cover:
   alt: Cómo la IA Está Revolucionando las Técnicas de Evasión en Ciberseguridad
   caption: 'Fuente: GuardianHubX'
-  image: uploads/ia-ciberseguridad.png
+  image: uploads/ia-ciberseguridad.webp
+  width: 1024
+  height: 1021
 date: '2025-01-27T00:00:00+00:00'
 draft: false
 slug: 2025-01-27-ia-tecnicas-evasion-ciberseguridad

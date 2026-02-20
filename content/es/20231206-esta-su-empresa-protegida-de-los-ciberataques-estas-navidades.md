@@ -6,7 +6,9 @@ cover:
   alt: Persona trabajando en un portátil con decoración navideña de fondo, simbolizando
     la ciberseguridad en navidades.
   caption: 'Fuente: GuardianHubX'
-  image: uploads/img_0222-1.jpg
+  image: uploads/ciberseguridad-empresa-navidades.jpg
+  width: 1024
+  height: 1007
 date: '2023-12-06T00:00:00+00:00'
 draft: false
 slug: ciberseguridad-navidad-empresas

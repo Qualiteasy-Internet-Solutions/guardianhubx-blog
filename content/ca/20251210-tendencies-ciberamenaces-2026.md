@@ -17,6 +17,8 @@ tags:
 description: "Anàlisi de les 10 tendències de ciberseguretat que definiran el 2026 (IA, Deepfakes, RaaS) i guia pràctica perquè les pimes es protegeixin des d'avui."
 cover:
   image: "uploads/tendencias-ciberseguridad-2026.webp"
+  width: 1537
+  height: 4097
   alt: "Gràfic futurista representant l'evolució de la ciberseguretat i la IA el 2026"
   caption: "Font: GuardianHubX"
 translationKey: "trends-cybersecurity-2026"

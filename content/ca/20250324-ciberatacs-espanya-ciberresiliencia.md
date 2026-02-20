@@ -6,6 +6,8 @@ cover:
   alt: Imatge il·lustrativa sobre ciberatacs a Espanya
   caption: 'Font: guardianhubx'
   image: uploads/ataque-empresas.webp
+  width: 1024
+  height: 1004
 date: '2025-03-24T00:00:00+00:00'
 description: Anàlisi dels principals vectors d'atac que afecten les empreses catalanes
   i espanyoles, i estratègies per enfortir la seva ciberresiliència.

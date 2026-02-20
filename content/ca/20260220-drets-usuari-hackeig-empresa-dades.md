@@ -15,6 +15,8 @@ tags:
 description: "S'han filtrat les teves dades després d'un ciberatac? Descobreix els teus drets legals, com reclamar davant la negligència empresarial i com protegir la teva identitat."
 cover:
   image: "uploads/derechos-usuario-tras-hackeo.webp"
+  width: 801
+  height: 1669
   alt: "Concepte de protecció de dades personals i drets digitals després d'una bretxa de seguretat"
   caption: "Font: GuardianHubX"
 translationKey: "user-rights-after-company-hack"

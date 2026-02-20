@@ -19,6 +19,8 @@ tags:
 description: "Descobreix els principals riscos de ciberseguretat per a pimes sense equip intern i com protegir el teu negoci amb solucions assequibles i efectives."
 cover:
   image: "uploads/ciberseguridad-pymes-riesgos-soluciones.webp"
+  width: 1025
+  height: 4097
   alt: "Il·lustració de seguretat digital en una pime"
   caption: "Font: GuardianHubX"
 ---

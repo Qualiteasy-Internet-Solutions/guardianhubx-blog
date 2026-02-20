@@ -18,6 +18,8 @@ tags:
 description: "Descubre los principales riesgos de ciberseguridad para pymes sin equipo interno y cómo proteger tu negocio con soluciones asequibles y efectivas."
 cover:
   image: "uploads/ciberseguridad-pymes-riesgos-soluciones.webp"
+  width: 1025
+  height: 4097
   alt: "Ilustración de seguridad digital en una pyme"
   caption: "Fuente: GuardianHubX"
 translationKey: "ciberseguridad-pymes-riesgos-soluciones"

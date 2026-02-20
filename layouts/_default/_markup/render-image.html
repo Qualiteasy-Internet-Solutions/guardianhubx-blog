@@ -1,0 +1,41 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $src := $u.String -}}
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path }}
+  {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+    {{- $src = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $src = printf "%s?%s" $src . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $src = printf "%s#%s" $src . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Check if this is an uploads image — if so, add srcset for responsive variants */}}
+{{- $isUploads := strings.Contains $src "uploads/" -}}
+{{- $attributes := merge .Attributes (dict "alt" .Text "src" $src "title" (.Title | transform.HTMLEscape) "loading" "lazy" "decoding" "async") -}}
+
+{{- if $isUploads -}}
+  {{- /* Generate srcset with responsive variants (400w, 720w, original) */}}
+  {{- $ext := path.Ext $src -}}
+  {{- $base := strings.TrimSuffix $ext $src -}}
+  {{- $srcset := printf "%s-400w.webp 400w, %s-720w.webp 720w, %s 1024w" $base $base $src -}}
+<img
+  {{- range $k, $v := $attributes -}}
+    {{- if $v -}}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
+    {{- end -}}
+  {{- end }}
+  srcset="{{ $srcset | safeHTMLAttr }}"
+  sizes="(min-width: 768px) 720px, 100vw">
+{{- else -}}
+  {{- /* Default behavior for external/other images (from PaperMod) */}}
+<img
+  {{- range $k, $v := $attributes -}}
+    {{- if $v -}}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
+    {{- end -}}
+  {{- end -}}>
+{{- end -}}

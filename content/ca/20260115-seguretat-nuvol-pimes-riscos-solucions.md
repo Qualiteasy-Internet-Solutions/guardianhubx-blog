@@ -17,6 +17,8 @@ tags:
 description: "Anàlisi dels riscos reals del núvol per a pimes, desmuntant mites comuns i oferint una guia pràctica de seguretat cloud."
 cover:
   image: "uploads/seguridad-nube-pymes.webp"
+  width: 1409
+  height: 3073
   alt: "Il·lustració d'una infraestructura al núvol segura amb cadenats digitals"
   caption: "Font: GuardianHubX"
 translationKey: "cloud-security-smes"

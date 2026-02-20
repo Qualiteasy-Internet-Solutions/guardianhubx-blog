@@ -15,7 +15,7 @@ type: "blog"
 slug: "sostenibilidad-tecnologia-power-save"
 description: "Descubre cómo la tecnología Power Save, integrada en las soluciones de GuardianHubX, ayuda a las empresas a reducir costes y su huella de carbono."
 cover:
-  image: "/blog/uploads/img_9983.webp"
+  image: uploads/powersave-ahorro-energia-tecnologia.webp"
   alt: "Bombilla con una hoja verde dentro, simbolizando energía y sostenibilidad."
   caption: "Fuente: GuardianHubX"
 translationKey: "sustainability-power-save-2023"

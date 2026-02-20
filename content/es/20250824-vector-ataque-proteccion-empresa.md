@@ -20,6 +20,8 @@ tags:
 description: "Descubre qué es un vector de ataque, los tipos más comunes y cómo proteger tu empresa con estrategias efectivas de ciberseguridad."
 cover:
   image: "uploads/vector-ataque-proteccion-empresa.webp"
+  width: 1025
+  height: 4097
   alt: "Ilustración conceptual de un vector de ataque en ciberseguridad"
   caption: "Fuente: GuardianHubX"
 ---

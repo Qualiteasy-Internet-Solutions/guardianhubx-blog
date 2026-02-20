@@ -17,6 +17,8 @@ tags:
 description: "Llista de comprovació essencial per a pimes: revisa accessos, contrasenyes, backups i vulnerabilitats abans de tancar l'any i planifica un 2026 segur."
 cover:
   image: "uploads/checklist-ciberseguridad-fin-ano.webp"
+  width: 1537
+  height: 4097
   alt: "Llista de verificació digital en una tauleta sobre un escriptori d'oficina modern"
   caption: "Font: GuardianHubX"
 translationKey: "end-year-security-checklist"

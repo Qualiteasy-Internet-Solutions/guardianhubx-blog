@@ -5,7 +5,9 @@ categories:
 cover:
   alt: Cómo ChatGPT te puede ayudar en el mantenimiento y actualizaciones de tus equipos
   caption: 'Fuente: GuardianHubX'
-  image: uploads/img_9978.jpg
+  image: uploads/chatgpt-soporte-it-mantenimiento.jpg
+  width: 1024
+  height: 1024
 date: '2023-12-02T00:00:00+00:00'
 draft: false
 slug: como-chatgpt-ayuda-mantenimiento-it
