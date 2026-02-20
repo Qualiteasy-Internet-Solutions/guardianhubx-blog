@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Sitemap: https://guardianhubx.com/blog/sitemap.xml
+Sitemap: https://guardianhubx.com/blog/es/sitemap.xml
+Sitemap: https://guardianhubx.com/blog/ca/sitemap.xml

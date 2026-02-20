@@ -1,0 +1,152 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.Title | jsonify }},
+  "url": {{ site.Home.Permalink | jsonify }},
+  "description": {{ site.Params.description | plainify | truncate 180 | jsonify }},
+  "image": "https://guardianhubx.com/icons/favicon-96x96.png",
+  "inLanguage": "es",
+  "alternateName": ["GuardianHubX", "Guardián HubX"],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.Home.Permalink | strings.TrimSuffix "/" }}/es/?s={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
+  "name": {{ site.Title | jsonify }},
+  "url": {{ site.Home.Permalink | jsonify }},
+  "description": {{ site.Params.description | plainify | truncate 180 | jsonify }},
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://guardianhubx.com/icons/favicon-96x96.png",
+    "width": 96,
+    "height": 96
+  },
+  "sameAs": [
+    {{- if site.Params.schema.sameAs }}
+      {{ range $i, $e := site.Params.schema.sameAs }}{{ if $i }}, {{ end }}{{ $e | jsonify }}{{ end }}
+    {{- else}}
+      {{ range $i, $e := site.Params.SocialIcons }}{{ if $i }}, {{ end }}{{ trim $e.url " " | safeURL | jsonify }}{{ end }}
+    {{- end}}
+  ]
+}
+</script>
+{{- else if (or .IsPage .IsSection) }}
+{{/* BreadcrumbList */}}
+{{- $url := replace .Parent.Permalink ( printf "%s" site.Home.Permalink) "" }}
+{{- $lang_url := strings.TrimPrefix ( printf "%s/" .Lang) $url }}
+{{- $bc_list := (split $lang_url "/")}}
+
+{{- $scratch := newScratch }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+  {{- range $index, $element := $bc_list }}
+
+    {{- $scratch.Add "path" (printf "%s/" $element ) | safeJS }}
+    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+
+    {{- if (and ($bc_pg) (gt (len . ) 0))}}
+    {{- if (and $index)}}, {{end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add 1 $index  }},
+      "name": {{ $bc_pg.Name | jsonify }},
+      "item": {{ $bc_pg.Permalink | jsonify }}
+    }
+    {{- end }}
+
+  {{- end }}
+  {{- /*  self-page addition  */ -}}
+  {{- if (ge (len $bc_list) 2) }}, {{end }}
+    {
+      "@type": "ListItem",
+      "position": {{len $bc_list}},
+      "name": {{ .Name | jsonify }},
+      "item": {{ .Permalink | jsonify }}
+    }
+  ]
+}
+</script>
+{{- if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title | plainify | jsonify }},
+  "name": {{ .Title | plainify | jsonify }},
+  "description": {{ with .Description | plainify }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | jsonify }}{{ end -}},
+  "url": {{ .Permalink | jsonify }},
+  "keywords": [
+    {{- if .Params.keywords }}
+    {{ range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e | jsonify }}{{ end }}
+    {{- else }}
+    {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e | jsonify }}{{ end }}
+    {{- end }}
+  ],
+  "articleBody": {{ .Content | htmlUnescape | plainify | jsonify }},
+  "wordCount" : "{{ .WordCount }}",
+  "inLanguage": {{ .Language.Lang | default "es" | jsonify }},
+  {{ if .Params.cover.image -}}
+  "image":
+    {{- if (ne .Params.cover.relative true) -}}
+    {{ .Params.cover.image | absURL | jsonify }},
+    {{- else -}}
+    {{ (path.Join .RelPermalink .Params.cover.image ) | absURL | jsonify }},
+    {{- end}}
+  {{- else }}
+    {{- $images := partial "templates/_funcs/get-page-images" . -}}
+    {{- with index $images 0 -}}
+  "image": {{ .Permalink | jsonify }},
+    {{- end }}
+  {{- end -}}
+  "datePublished": {{ .PublishDate | jsonify }},
+  "dateModified": {{ .Lastmod | jsonify }},
+  {{- if (.Params.author | default site.Params.author) }}
+  "author":
+    {{- if or (eq (.Params.author | default site.Params.author | printf "%T") "[]string") (eq (.Params.author | default site.Params.author | printf "%T") "[]interface {}") -}}
+  [{{- range $i, $v := (.Params.author | default site.Params.author) -}}
+  {{- if $i }}, {{end -}}
+  {
+    "@type": "{{ if or (eq $v "GuardianHubX") (eq $v "guardianhubx") (eq $v "GuardianHubX") }}Organization{{ else }}Person{{ end }}",
+    "name": {{ $v | jsonify }}
+  }
+  {{- end }}],
+    {{- else -}}
+  {
+    "@type": "{{ if or (eq (.Params.author | default site.Params.author) "GuardianHubX") (eq (.Params.author | default site.Params.author) "guardianhubx") }}Organization{{ else }}Person{{ end }}",
+    "name": {{ (.Params.author | default site.Params.author) | jsonify }}
+  },
+    {{- end -}}
+  {{- end }}
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | jsonify }}
+  },
+  "publisher": {
+    "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
+    "name": {{ site.Title | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://guardianhubx.com/icons/favicon-96x96.png",
+      "width": 96,
+      "height": 96
+    }
+  }
+}
+</script>
+{{- end }}{{/* .IsPage end */}}
+
+{{- end -}}

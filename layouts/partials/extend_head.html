@@ -1,1 +1,7 @@
-{{ partial "favicons.html" . }}
+{{- /* Performance hints for external resources */}}
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://consent.cookiebot.com">
+
+{{- partial "favicons.html" . }}
