@@ -94,6 +94,20 @@ En el món de la gestió de TI, sovint sorgeixen acrònims que poden semblar con
 
 Mentre que l'**RDM** s'enfoca en l'accés remot i el control directe d'un ordinador específic, l'**RMM** se centra en la supervisió, l'administració centralitzada i l'automatització de tasques en tota una xarxa de dispositius. Per a empreses modernes, RMM és la base operativa essencial, mentre que les capacitats RDM són complementàries per a suport puntual.
 
+## Preguntes Freqüents
+
+**¿Puc usar només RDM a la meva empresa?**
+Sí, però només si tens menys de 10 dispositius. Per a qualsevol operació més gran, un RMM t'estalviarà temps i diners en el llarg termini.
+
+**¿Quina té millor suport tècnic?**
+Les solucions RMM enterprise solen tenir suport 24/7 dedicat, mentre que RDM és més autoservei. Depèn del proveïdor específic.
+
+**¿Puc combinar-los tots dos?**
+Absolutament. Moltes empreses utilitzen RMM com a base per a operacions diàries i RDM per a suport puntual a usuaris específics.
+
+**¿Quant costa implementar RMM?**
+Típicament €50-150 per dispositiu/any, amb ROI en 6-12 mesos gràcies a estalvi de temps d'administració.
+
 ## RDM, RMM o Tots Dos? La Solució de GuardianHubX
 
 Un RDM és una eina per a tasques puntuals, però una empresa moderna necessita una plataforma RMM per a una gestió eficient i segura. La plataforma de GuardianHubX no només t'ofereix tots els avantatges d'un RMM de primer nivell (monitoratge, automatització, gestió centralitzada), sinó que també incorpora les capacitats d'accés remot d'un RDM quan necessites oferir suport directe. És la solució completa i integrada.

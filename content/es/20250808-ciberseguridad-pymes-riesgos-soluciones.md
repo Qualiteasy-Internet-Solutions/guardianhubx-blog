@@ -28,6 +28,10 @@ translationKey: ciberseguridad-pymes-riesgos-soluciones
 ---
 
 
+## ¿Qué es la ciberseguridad?
+
+**Ciberseguridad** es el conjunto de medidas, tecnologías y prácticas diseñadas para proteger sistemas, datos y redes contra ataques ciberdelincuentes. Es una defensa en capas que combina tecnología, procesos y concienciación.
+
 La **ciberseguridad en pymes** se ha convertido en una necesidad crítica, especialmente en un entorno donde las amenazas digitales crecen en volumen y sofisticación. Sin embargo, muchas pequeñas y medianas empresas, así como autónomos, carecen de infraestructura interna o recursos para contratar una consultoría especializada.
 
 **Lecturas relacionadas:**
