@@ -10,9 +10,10 @@ cover:
   height: 1024
 date: '2024-12-02T00:00:00+00:00'
 draft: false
-description: "Qué hacer si tu empresa ha sido hackeada. Plan de acción, notificación de usuarios, recuperación de datos y prevención futura."
+description: Qué hacer si tu empresa ha sido hackeada. Plan de acción, notificación
+  de usuarios, recuperación de datos y prevención futura.
 slug: que-hacer-si-info-empresa-comprometida
-type: "blog"
+type: blog
 tags:
 - ciberseguridad
 - evaluación
@@ -21,10 +22,16 @@ tags:
 - seguridad
 - tecnología-información
 title: ¿Qué hacer si la información de tu empresa ha sido comprometida?
-translationKey: "data-breach-response-2024"
+translationKey: data-breach-response-2024
 ---
 
+
 Una violación de datos no solo pone en riesgo tu negocio, sino también la confianza de tus clientes y empleados. Pero tranquilo/a, actuar con rapidez y de forma organizada puede marcar la diferencia. Aquí te dejo una guía paso a paso para afrontar este tipo de incidentes:
+
+**Lecturas relacionadas:**
+- [Cómo mejorar la seguridad de TI](/blog/como-mejorar-la-seguridad-de-ti/)
+- [La Escasez de Talento en TI: Cómo la Automatización es la Solución](/blog/escasez-talento-it-solucion-automatizacion/)
+- [La Solución de Gestión Integral para CIOs y CTOs](/blog/plataforma-gestion-para-cios-ctos/)
 
 ## 1. Confirma la violación
 

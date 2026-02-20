@@ -1,10 +1,11 @@
 ---
-title: "Aquest estiu, protegeix la teva empresa fins i tot fora de l'oficina amb Prey Project"
-author: "GuardianHubX"
-date: 2025-07-28T00:00:00+00:00
+title: Aquest estiu, protegeix la teva empresa fins i tot fora de l'oficina amb Prey
+  Project
+author: GuardianHubX
+date: 2025-07-28 00:00:00+00:00
 draft: false
-slug: "estiu-proteccio-dispositius-prey"
-type: "blog"
+slug: estiu-proteccio-dispositius-prey
+type: blog
 categories:
 - ciberseguretat
 tags:
@@ -14,19 +15,27 @@ tags:
 - protecció-de-dades
 - seguretat-física
 - teletreball
-description: "Aquest estiu, els teus dispositius corporatius estan més exposats que mai. Descobreix com protegir la teva empresa davant de pèrdues, robatoris i accessos indeguts amb Prey Project, la solució ideal per a equips mòbils."
+description: Aquest estiu, els teus dispositius corporatius estan més exposats que
+  mai. Descobreix com protegir la teva empresa davant de pèrdues, robatoris i accessos
+  indeguts amb Prey Project, la solució ideal per a equips mòbils.
 cover:
-  image: "uploads/verano-prey-project-guardianhubx.webp"
+  image: uploads/verano-prey-project-guardianhubx.webp
   width: 1537
   height: 4097
-  alt: "Persona amb portàtil a la platja sota mesures de seguretat digital"
-  caption: "Font: GuardianHubX"
-translationKey: "prey-project-summer-2025"
+  alt: Persona amb portàtil a la platja sota mesures de seguretat digital
+  caption: 'Font: GuardianHubX'
+translationKey: prey-project-summer-2025
 ---
+
 
 # Aquest estiu, protegeix la teva empresa fins i tot fora de l'oficina amb Prey Project
 
 L'estiu és sinònim de vacances, desconnexió i mobilitat. Però per a les empreses, també implica un augment dels riscos en seguretat digital.
+
+**Lecturas relacionadas:**
+- [Infostealers: què són, com operen i com protegir les teves dades](/blog/infostealers-amenaca-robatori-dades/)
+- [Com evitar el robatori de comptes (ATO) a la teva empresa](/blog/com-evitar-robatori-compte-ato/)
+- [Ciberseguretat a pimes: riscos i solucions sense infraestructura interna](/blog/ciberseguretat-pimes-riscs-solucions/)
 
 Entre viatges, jornades híbrides i teletreball, els dispositius corporatius estan més exposats a pèrdues, robatoris o accessos no autoritzats.
 

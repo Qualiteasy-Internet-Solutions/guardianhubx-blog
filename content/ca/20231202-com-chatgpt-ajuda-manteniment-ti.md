@@ -11,7 +11,7 @@ cover:
 date: '2023-12-02T00:00:00+00:00'
 draft: false
 slug: com-chatgpt-ajuda-manteniment-ti
-type: "blog"
+type: blog
 tags:
 - ChatGPT
 - actualitzacions
@@ -20,11 +20,18 @@ tags:
 - manteniment
 - tecnologia-informació
 title: Com ChatGPT et pot ajudar en el manteniment i actualitzacions dels teus equips
-description: "Descobreix com un assistent d'IA com ChatGPT pot ajudar un administrador de sistemes en tasques de manteniment, actualitzacions i gestió d'equips."
-translationKey: "chatgpt-it-maintenance-2023"
+description: Descobreix com un assistent d'IA com ChatGPT pot ajudar un administrador
+  de sistemes en tasques de manteniment, actualitzacions i gestió d'equips.
+translationKey: chatgpt-it-maintenance-2023
 ---
 
+
 Un assistent d'IA com ChatGPT pot ser un gran suport per a un administrador de sistemes en l'ús d'eines de gestió de programari, com pot ser un **actualitzador d'aplicacions de tercers com el de [Faronics](https://guardianhubx.com/ca/faronics/)**, que automatitzen la implementació de programari i el manteniment de pedaços a la xarxa.
+
+**Lecturas relacionadas:**
+- [Gestió Remota d'Actualitzacions: Simplifica el teu Manteniment i Reforça la teva Seguretat](/blog/gestio-remota-actualitzacions/)
+- [L'Escassetat de Talent en TI: Com l'Automatització és la Solució](/blog/escassetat-talent-ti-solucio-automatitzacio/)
+- [10 problemes generats per la manca de manteniment informàtic](/blog/problemes-manca-manteniment-informatic/)
 
 Aquí t'expliquem com ChatGPT pot ajudar en cadascun d'aquests aspectes:
 

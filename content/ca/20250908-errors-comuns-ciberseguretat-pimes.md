@@ -1,11 +1,11 @@
 ---
-title: "5 errors comuns de ciberseguretat que cometen les pimes (i com evitar-los)"
-author: "GuardianHubX"
-date: 2025-09-08T00:00:00+00:00
+title: 5 errors comuns de ciberseguretat que cometen les pimes (i com evitar-los)
+author: GuardianHubX
+date: 2025-09-08 00:00:00+00:00
 draft: false
-slug: "errors-comuns-ciberseguretat-pimes"
-type: "blog"
-translationKey: "errores-comunes-ciberseguridad-pymes"
+slug: errors-comuns-ciberseguretat-pimes
+type: blog
+translationKey: errores-comunes-ciberseguridad-pymes
 categories:
 - ciberseguretat
 tags:
@@ -18,15 +18,22 @@ tags:
 - pimes
 - ransomware
 - seguretat-informàtica
-description: "Descobreix els 5 errors més comuns de ciberseguretat en pimes i com evitar-los amb bones pràctiques, formació i eines senzilles."
+description: Descobreix els 5 errors més comuns de ciberseguretat en pimes i com evitar-los
+  amb bones pràctiques, formació i eines senzilles.
 cover:
-  image: "uploads/errores-ciberseguridad-pymes.webp"
-  alt: "Il·lustració de ciberseguretat per a pimes"
-  caption: "Font: GuardianHubX"
+  image: uploads/errores-ciberseguridad-pymes.webp
+  alt: Il·lustració de ciberseguretat per a pimes
+  caption: 'Font: GuardianHubX'
 ---
+
 
 La majoria de les **pimes** pensa que els **ciberatacs** només afecten grans corporacions, però la realitat és ben diferent: **7 de cada 10 atacs a Espanya** es dirigeixen a petites i mitjanes empreses.  
 Els ciberdelinqüents saben que, moltes vegades, aquestes organitzacions compten amb menys recursos i mesures de protecció, cosa que les converteix en un objectiu fàcil.
+
+**Lecturas relacionadas:**
+- [Guia ràpida: què fer en els primers 60 minuts després d’un atac de ransomware](/blog/guia-60-minuts-atac-ransomware/)
+- [Ciberseguretat a pimes: riscos i solucions sense infraestructura interna](/blog/ciberseguretat-pimes-riscs-solucions/)
+- [Què és un vector d'atac i com protegir la teva empresa](/blog/vector-atac-proteccio-empresa/)
 
 A continuació, repassem els **5 errors més comuns en ciberseguretat que cometen les pimes** i com evitar-los amb accions senzilles.
 

@@ -10,9 +10,10 @@ cover:
   height: 1024
 date: '2024-12-02T00:00:00+00:00'
 draft: false
-description: "Què fer si la teva empresa ha estat hackejada. Pla d'acció, notificació d'usuaris, recuperació de dades i prevenció futura."
+description: Què fer si la teva empresa ha estat hackejada. Pla d'acció, notificació
+  d'usuaris, recuperació de dades i prevenció futura.
 slug: que-fer-si-info-empresa-compromesa
-type: "blog"
+type: blog
 tags:
 - avaluació
 - ciberseguretat
@@ -21,10 +22,16 @@ tags:
 - seguretat
 - tecnologia-informació
 title: Què fer si la informació de la teva empresa ha estat compromesa?
-translationKey: "data-breach-response-2024"
+translationKey: data-breach-response-2024
 ---
 
+
 Una violació de dades no només posa en risc el teu negoci, sinó també la confiança dels teus clients i empleats. Però tranquil/a, actuar amb rapidesa i de manera organitzada pot marcar la diferència. Aquí et deixo una guia pas a pas per afrontar aquest tipus d'incidents:
+
+**Lecturas relacionadas:**
+- [Com millorar la seguretat de TI](/blog/com-millorar-la-seguretat-de-ti/)
+- [L'Escassetat de Talent en TI: Com l'Automatització és la Solució](/blog/escassetat-talent-ti-solucio-automatitzacio/)
+- [La Solució de Gestió Integral per a CIOs i CTOs](/blog/plataforma-gestio-per-a-cios-ctos/)
 
 ## 1. Confirma la violació
 

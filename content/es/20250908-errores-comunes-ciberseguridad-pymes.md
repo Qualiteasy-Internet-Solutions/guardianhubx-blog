@@ -1,11 +1,11 @@
 ---
-title: "5 errores comunes de ciberseguridad que cometen las pymes (y cómo evitarlos)"
-author: "GuardianHubX"
-date: 2025-09-08T00:00:00+00:00
+title: 5 errores comunes de ciberseguridad que cometen las pymes (y cómo evitarlos)
+author: GuardianHubX
+date: 2025-09-08 00:00:00+00:00
 draft: false
-slug: "errores-comunes-ciberseguridad-pymes"
-type: "blog"
-translationKey: "errores-comunes-ciberseguridad-pymes"
+slug: errores-comunes-ciberseguridad-pymes
+type: blog
+translationKey: errores-comunes-ciberseguridad-pymes
 categories:
 - ciberseguridad
 tags:
@@ -18,15 +18,22 @@ tags:
 - pymes
 - ransomware
 - seguridad-informática
-description: "Descubre los 5 errores más comunes de ciberseguridad en pymes y cómo evitarlos con buenas prácticas, formación y herramientas sencillas."
+description: Descubre los 5 errores más comunes de ciberseguridad en pymes y cómo
+  evitarlos con buenas prácticas, formación y herramientas sencillas.
 cover:
-  image: "uploads/errores-ciberseguridad-pymes.webp"
-  alt: "Ilustración de ciberseguridad para pymes"
-  caption: "Fuente: GuardianHubX"
+  image: uploads/errores-ciberseguridad-pymes.webp
+  alt: Ilustración de ciberseguridad para pymes
+  caption: 'Fuente: GuardianHubX'
 ---
+
 
 La mayoría de las **pymes** piensa que los **ciberataques** solo afectan a grandes corporaciones, pero la realidad es bien distinta: **7 de cada 10 ataques en España** se dirigen a pequeñas y medianas empresas.  
 Los ciberdelincuentes saben que, muchas veces, estas organizaciones cuentan con menos recursos y medidas de protección, lo que las convierte en un objetivo fácil.
+
+**Lecturas relacionadas:**
+- [Guía rápida: qué hacer en los primeros 60 minutos tras un ataque de ransomware](/blog/guia-60-minutos-ataque-ransomware/)
+- [Ciberseguridad en pymes: riesgos y soluciones sin infraestructura interna](/blog/ciberseguridad-pymes-riesgos-soluciones/)
+- [¿Qué es un vector de ataque y cómo proteger tu empresa de ellos?](/blog/vector-ataque-como-proteger-empresa/)
 
 A continuación, repasamos los **5 errores más comunes en ciberseguridad que cometen las pymes** y cómo evitarlos con acciones sencillas.
 

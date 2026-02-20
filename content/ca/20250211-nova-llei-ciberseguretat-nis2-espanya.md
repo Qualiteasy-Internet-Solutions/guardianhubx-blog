@@ -4,8 +4,8 @@ categories:
 - ciberseguretat
 date: '2025-02-11T00:00:00+00:00'
 draft: false
-slug: "nova-llei-de-ciberseguretat-el-que-les-empreses-han-de-saber-el-2025"
-type: "blog"
+slug: nova-llei-de-ciberseguretat-el-que-les-empreses-han-de-saber-el-2025
+type: blog
 tags:
 - ciberseguretat
 - ciberseguretat
@@ -13,17 +13,25 @@ tags:
 - normativa
 - normativa-nis2
 - tecnologia-informació
-title: 'Directiva NIS2 i la Nova Llei de Ciberseguretat: El que la teva Empresa ha de Saber el 2025'
-description: "La Directiva NIS2 transforma el panorama de la ciberseguretat a Espanya. Descobreix a quines empreses afecta, les seves obligacions i com complir la normativa."
+title: 'Directiva NIS2 i la Nova Llei de Ciberseguretat: El que la teva Empresa ha
+  de Saber el 2025'
+description: La Directiva NIS2 transforma el panorama de la ciberseguretat a Espanya.
+  Descobreix a quines empreses afecta, les seves obligacions i com complir la normativa.
 cover:
-  image: "ciberseguridad-2026-paradigma.webp"
-  alt: "Nova llei de ciberseguretat 2025: NIS2 i compliment"
+  image: ciberseguridad-2026-paradigma.webp
+  alt: 'Nova llei de ciberseguretat 2025: NIS2 i compliment'
   width: 1024
   height: 640
-translationKey: "nis2-law-spain-2025"
+translationKey: nis2-law-spain-2025
 ---
 
+
 La Unió Europea ha reforçat el seu marc normatiu en [ciberseguretat](https://guardianhubx.com/ca/objectius-ciberseguretat/) amb la introducció de la **Directiva NIS2**, que amplia i actualitza les mesures de seguretat per a les xarxes i sistemes d'informació. Aquesta directiva, que va entrar en vigor el gener de 2023, havia de ser transposada pels Estats membres a les seves legislacions nacionals abans del 17 d'octubre de 2024. A Espanya, tot i que el termini s'ha superat, el Govern va aprovar el 14 de gener de 2025 l'avantprojecte de llei per incorporar les disposicions de NIS2 al marc legal espanyol.
+
+**Lecturas relacionadas:**
+- [La Importància de Tenir les Llicències de Programari Actualitzades](/blog/importancia-llicencies-software-actualitzades/)
+- [L'Escassetat de Talent en TI: Com l'Automatització és la Solució](/blog/escassetat-talent-ti-solucio-automatitzacio/)
+- [La Solució de Gestió Integral per a CIOs i CTOs](/blog/plataforma-gestio-per-a-cios-ctos/)
 
 ## A quines empreses afecta?
 

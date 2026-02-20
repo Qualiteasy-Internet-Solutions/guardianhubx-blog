@@ -4,8 +4,8 @@ categories:
 - ciberseguridad
 date: '2025-02-11T00:00:00+00:00'
 draft: false
-slug: "nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025"
-type: "blog"
+slug: nueva-ley-de-ciberseguridad-lo-que-las-empresas-deben-saber-en-2025
+type: blog
 tags:
 - ciberseguridad
 - ciberseguridad
@@ -13,17 +13,25 @@ tags:
 - normativa
 - normativa-nis2
 - tecnología-información
-title: 'Directiva NIS2 y la Nueva Ley de Ciberseguridad: Lo que tu Empresa Debe Saber en 2025'
-description: "La Directiva NIS2 transforma el panorama de la ciberseguridad en España. Descubre a qué empresas afecta, sus obligaciones y cómo cumplir la normativa."
+title: 'Directiva NIS2 y la Nueva Ley de Ciberseguridad: Lo que tu Empresa Debe Saber
+  en 2025'
+description: La Directiva NIS2 transforma el panorama de la ciberseguridad en España.
+  Descubre a qué empresas afecta, sus obligaciones y cómo cumplir la normativa.
 cover:
-  image: "ciberseguridad-2026-paradigma.webp"
-  alt: "Nueva ley de ciberseguridad 2025: NIS2 y cumplimiento"
+  image: ciberseguridad-2026-paradigma.webp
+  alt: 'Nueva ley de ciberseguridad 2025: NIS2 y cumplimiento'
   width: 1024
   height: 640
-translationKey: "nis2-law-spain-2025"
+translationKey: nis2-law-spain-2025
 ---
 
+
 La Unión Europea ha reforzado su marco normativo en [ciberseguridad](https://guardianhubx.com/es/objetivos-ciberseguridad/) con la introducción de la **Directiva NIS2**, que amplía y actualiza las medidas de seguridad para las redes y sistemas de información. Esta directiva, que entró en vigor en enero de 2023, debía ser transpuesta por los Estados miembros a sus legislaciones nacionales antes del 17 de octubre de 2024. En España, aunque el plazo se ha superado, el Gobierno aprobó el 14 de enero de 2025 el anteproyecto de ley para incorporar las disposiciones de NIS2 al marco legal español.
+
+**Lecturas relacionadas:**
+- [La Importancia de Tener las Licencias de Software Actualizadas](/blog/importancia-licencias-software-actualizadas/)
+- [La Escasez de Talento en TI: Cómo la Automatización es la Solución](/blog/escasez-talento-it-solucion-automatizacion/)
+- [La Solución de Gestión Integral para CIOs y CTOs](/blog/plataforma-gestion-para-cios-ctos/)
 
 ## ¿A qué empresas afecta?
 

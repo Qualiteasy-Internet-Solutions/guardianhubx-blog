@@ -1,29 +1,36 @@
 ---
-title: "Sostenibilitat i Estalvi Energètic en TI: La Tecnologia Power Save"
-author: "GuardianHubX"
-date: "2023-12-02T00:00:00+00:00"
+title: 'Sostenibilitat i Estalvi Energètic en TI: La Tecnologia Power Save'
+author: GuardianHubX
+date: '2023-12-02T00:00:00+00:00'
 draft: false
 categories:
-  - "Energy"
+- Energy
 tags:
 - automatització
 - estalvi-energètic
 - powersave
 - sostenibilitat
 - tecnologia-informació
-type: "blog"
-slug: "sostenibilitat-tecnologia-power-save"
-description: "Descobreix com la tecnologia Power Save, integrada a les solucions de GuardianHubX, ajuda les empreses a reduir costos i la seva petjada de carboni."
+type: blog
+slug: sostenibilitat-tecnologia-power-save
+description: Descobreix com la tecnologia Power Save, integrada a les solucions de
+  GuardianHubX, ajuda les empreses a reduir costos i la seva petjada de carboni.
 cover:
   image: uploads/powersave-ahorro-energia-tecnologia.webp"
-  alt: "Bombeta amb una fulla verda a dins, simbolitzant energia i sostenibilitat."
-  caption: "Font: GuardianHubX"
-translationKey: "sustainability-power-save-2023"
+  alt: Bombeta amb una fulla verda a dins, simbolitzant energia i sostenibilitat.
+  caption: 'Font: GuardianHubX'
+translationKey: sustainability-power-save-2023
 ---
+
 
 ## Introducció: Sostenibilitat i Tecnologia de la Mà
 
 En un món on la sostenibilitat és més que una tendència, és una necessitat estratègica, la gestió eficient dels recursos tecnològics hi juga un paper clau. A GuardianHubX, creiem que la ciberseguretat i l'eficiència operativa han d'anar de la mà amb la responsabilitat mediambiental. Per això, integrem a les nostres solucions la tecnologia **Power Save**, una innovació dissenyada per optimitzar el consum energètic dels equips informàtics.
+
+**Lecturas relacionadas:**
+- [L'Escassetat de Talent en TI: Com l'Automatització és la Solució](/blog/escassetat-talent-ti-solucio-automatitzacio/)
+- [Gestió Remota d'Actualitzacions: Simplifica el teu Manteniment i Reforça la teva Seguretat](/blog/gestio-remota-actualitzacions/)
+- [Com ChatGPT et pot ajudar en el manteniment i actualitzacions dels teus equips](/blog/com-chatgpt-ajuda-manteniment-ti/)
 
 ## Reduint la Petjada de Carboni des de la Gestió de TI
 

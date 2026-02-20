@@ -1,11 +1,11 @@
 ---
-title: "Seguretat mòbil corporativa: protegeix l'smartphone del teu negoci"
-author: "GuardianHubX"
-date: 2025-10-21T00:00:00+00:00
+title: 'Seguretat mòbil corporativa: protegeix l''smartphone del teu negoci'
+author: GuardianHubX
+date: 2025-10-21 00:00:00+00:00
 draft: false
-slug: "mdm-seguretat-movil-corporativa"
-type: "blog"
-translationKey: "seguridad-movil-mdm-pymes"
+slug: mdm-seguretat-movil-corporativa
+type: blog
+translationKey: seguridad-movil-mdm-pymes
 categories:
 - ciberseguretat
 tags:
@@ -17,14 +17,22 @@ tags:
 - pimes
 - ransomware
 - seguretat-mobil
-description: "Descobreix com protegir els smartphones que fas servir per treballar amb MDM i bones pràctiques de seguretat mòbil. Imprescindible per a pimes i autònoms."
+description: Descobreix com protegir els smartphones que fas servir per treballar
+  amb MDM i bones pràctiques de seguretat mòbil. Imprescindible per a pimes i autònoms.
 cover:
-  image: "uploads/seguridad-movil-mdm.webp"
-  alt: "Il·lustració d'un smartphone dins d'un escut de protecció, simbolitzant la seguretat mòbil."
-  caption: "Font: GuardianHubX"
+  image: uploads/seguridad-movil-mdm.webp
+  alt: Il·lustració d'un smartphone dins d'un escut de protecció, simbolitzant la
+    seguretat mòbil.
+  caption: 'Font: GuardianHubX'
 ---
 
+
 Avui dia, l'**smartphone** és l'oficina de butxaca de molts autònoms i petites empreses. Correus, banca en línia, gestió de clients, emmagatzematge al núvol, apps de missatgeria… gran part de l'activitat professional passa pel telèfon.
+
+**Lecturas relacionadas:**
+- [5 errors comuns de ciberseguretat que cometen les pimes (i com evitar-los)](/blog/errors-comuns-ciberseguretat-pimes/)
+- [La creixent amenaça dels ciberatacs a Espanya: claus per a una ciberresiliència efectiva](/blog/ciberatacs-espanya-ciberresiliencia/)
+- [Ciberseguretat a pimes: riscos i solucions sense infraestructura interna](/blog/ciberseguretat-pimes-riscs-solucions/)
 
 Però aquesta comoditat també implica un risc considerable: els mòbils s'han convertit en un dels objectius favorits dels **ciberdelinqüents**. Sense una estratègia clara, cada dispositiu mòbil és una potencial porta d'entrada a la informació crítica del teu negoci.
 

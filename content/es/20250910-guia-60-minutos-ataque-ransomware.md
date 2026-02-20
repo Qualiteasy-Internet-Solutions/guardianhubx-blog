@@ -1,11 +1,11 @@
 ---
-title: "Guía rápida: qué hacer en los primeros 60 minutos tras un ataque de ransomware"
-author: "GuardianHubX"
-date: 2025-09-10T00:00:00+00:00
+title: 'Guía rápida: qué hacer en los primeros 60 minutos tras un ataque de ransomware'
+author: GuardianHubX
+date: 2025-09-10 00:00:00+00:00
 draft: false
-slug: "guia-60-minutos-ataque-ransomware"
-type: "blog"
-translationKey: "guia-60-minutos-ataque-ransomware"
+slug: guia-60-minutos-ataque-ransomware
+type: blog
+translationKey: guia-60-minutos-ataque-ransomware
 categories:
 - ciberseguridad
 tags:
@@ -16,14 +16,21 @@ tags:
 - ransomware
 - respuesta-incidentes
 - seguridad-informática
-description: "Descubre qué pasos seguir en los primeros 60 minutos tras un ataque de ransomware para minimizar daños y acelerar la recuperación de tu empresa."
+description: Descubre qué pasos seguir en los primeros 60 minutos tras un ataque de
+  ransomware para minimizar daños y acelerar la recuperación de tu empresa.
 cover:
-  image: "uploads/guia-ataque-ransomware.webp"
-  alt: "Ilustración de ransomware bloqueando un ordenador"
-  caption: "Fuente: GuardianHubX"
+  image: uploads/guia-ataque-ransomware.webp
+  alt: Ilustración de ransomware bloqueando un ordenador
+  caption: 'Fuente: GuardianHubX'
 ---
 
+
 El **ransomware** se ha convertido en una de las amenazas más dañinas para empresas de todos los tamaños. Este tipo de **malware** cifra los archivos y bloquea el acceso a los sistemas hasta que se paga un rescate.  
+
+**Lecturas relacionadas:**
+- [5 errores comunes de ciberseguridad que cometen las pymes (y cómo evitarlos)](/blog/errores-comunes-ciberseguridad-pymes/)
+- [Ciberseguridad en pymes: riesgos y soluciones sin infraestructura interna](/blog/ciberseguridad-pymes-riesgos-soluciones/)
+- [¿Qué es un vector de ataque y cómo proteger tu empresa de ellos?](/blog/vector-ataque-como-proteger-empresa/)
 
 Lejos de ser un problema exclusivo de las grandes corporaciones, cada vez más **pymes** se ven afectadas, ya que suelen contar con menos recursos y medidas de protección.  
 

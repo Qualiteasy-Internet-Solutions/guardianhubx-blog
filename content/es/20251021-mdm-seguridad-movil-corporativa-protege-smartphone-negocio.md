@@ -1,11 +1,11 @@
 ---
-title: "Seguridad móvil corporativa: protege el smartphone de tu negocio"
-author: "GuardianHubX"
-date: 2025-10-21T00:00:00+00:00
+title: 'Seguridad móvil corporativa: protege el smartphone de tu negocio'
+author: GuardianHubX
+date: 2025-10-21 00:00:00+00:00
 draft: false
-slug: "mdm-seguridad-movil-corporativa"
-type: "blog"
-translationKey: "seguridad-movil-mdm-pymes"
+slug: mdm-seguridad-movil-corporativa
+type: blog
+translationKey: seguridad-movil-mdm-pymes
 categories:
 - ciberseguridad
 tags:
@@ -17,14 +17,22 @@ tags:
 - pymes
 - ransomware
 - seguridad-movil
-description: "Descubre cómo proteger los smartphones que usas para trabajar con MDM y buenas prácticas de seguridad móvil. Imprescindible para pymes y autónomos."
+description: Descubre cómo proteger los smartphones que usas para trabajar con MDM
+  y buenas prácticas de seguridad móvil. Imprescindible para pymes y autónomos.
 cover:
-  image: "uploads/seguridad-movil-mdm.webp"
-  alt: "Ilustración de un smartphone dentro de un escudo de protección, simbolizando la seguridad móvil."
-  caption: "Fuente: GuardianHubX"
+  image: uploads/seguridad-movil-mdm.webp
+  alt: Ilustración de un smartphone dentro de un escudo de protección, simbolizando
+    la seguridad móvil.
+  caption: 'Fuente: GuardianHubX'
 ---
 
+
 Hoy en día, el **smartphone** es la oficina de bolsillo de muchos autónomos y pequeñas empresas. Correos, banca online, gestión de clientes, almacenamiento en la nube, apps de mensajería… gran parte de la actividad profesional pasa por el teléfono.
+
+**Lecturas relacionadas:**
+- [5 errores comunes de ciberseguridad que cometen las pymes (y cómo evitarlos)](/blog/errores-comunes-ciberseguridad-pymes/)
+- [La creciente amenaza de los ciberataques en España: claves para una ciberresiliencia efectiva](/blog/ciberataques-espana-ciberresiliencia/)
+- [Ciberseguridad en pymes: riesgos y soluciones sin infraestructura interna](/blog/ciberseguridad-pymes-riesgos-soluciones/)
 
 Pero esa comodidad también implica un riesgo considerable: los móviles se han convertido en uno de los objetivos favoritos de los **ciberdelincuentes**. Sin una estrategia clara, cada dispositivo móvil es una potencial puerta de entrada a la información crítica de tu negocio.
 

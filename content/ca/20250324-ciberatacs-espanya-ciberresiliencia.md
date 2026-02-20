@@ -12,7 +12,7 @@ date: '2025-03-24T00:00:00+00:00'
 description: Anàlisi dels principals vectors d'atac que afecten les empreses catalanes
   i espanyoles, i estratègies per enfortir la seva ciberresiliència.
 slug: ciberatacs-espanya-ciberresiliencia
-type: "blog"
+type: blog
 tags:
 - ciberatacs
 - ciberresiliència
@@ -22,10 +22,16 @@ tags:
 - tecnologia-informació
 title: 'La creixent amenaça dels ciberatacs a Espanya: claus per a una ciberresiliència
   efectiva'
-translationKey: "cyberattacks-spain-resilience-2025"
+translationKey: cyberattacks-spain-resilience-2025
 ---
 
+
 En els darrers mesos, les empreses espanyoles han estat blanc de ciberatacs cada cop més sofisticats, evidenciant la vulnerabilitat de múltiples sectors davant les amenaces digitals. Aquests incidents han compromès dades sensibles, interromput operacions crítiques i generat un impacte econòmic significatiu. Malgrat els esforços per reforçar la seguretat, els ciberdelinqüents continuen explotant vulnerabilitats en infraestructures tecnològiques i cadenes de subministrament.
+
+**Lecturas relacionadas:**
+- [Guia ràpida per entendre els termes clau en atacs de ciberseguretat](/blog/guia-rapida-termes-ciberseguretat/)
+- [La Solució de Gestió Integral per a CIOs i CTOs](/blog/plataforma-gestio-per-a-cios-ctos/)
+- [Protegeix la teva empresa dels ciberatacs aquest Nadal](/blog/ciberseguretat-nadal-empreses/)
 
 Encara que la majoria dels líders de TI a Espanya considera que la seguretat de les seves empreses és sòlida, l'increment de ciberatacs demostra que aquesta confiança no sempre s'alinea amb la realitat. Aquest panorama reforça la necessitat d'adoptar un enfocament més proactiu i comptar amb un partner expert en [ciberseguretat](https://guardianhubx.com/ca/objectius-ciberseguretat/).
 

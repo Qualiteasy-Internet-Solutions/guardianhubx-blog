@@ -1,13 +1,13 @@
 ---
-title: "Guia ràpida: què fer en els primers 60 minuts després d’un atac de ransomware"
-author: "GuardianHubX"
-date: 2025-09-10T00:00:00+00:00
+title: 'Guia ràpida: què fer en els primers 60 minuts després d’un atac de ransomware'
+author: GuardianHubX
+date: 2025-09-10 00:00:00+00:00
 draft: false
-type: "blog"
-translationKey: "guia-60-minutos-ataque-ransomware"
+type: blog
+translationKey: guia-60-minutos-ataque-ransomware
 categories:
 - ciberseguretat
-slug: "guia-60-minuts-atac-ransomware"
+slug: guia-60-minuts-atac-ransomware
 tags:
 - ciberseguretat
 - conscienciació-i-formació
@@ -16,14 +16,21 @@ tags:
 - ransomware
 - resposta-a-incidents
 - seguretat-informàtica
-description: "Descobreix quins passos seguir en els primers 60 minuts després d’un atac de ransomware per minimitzar danys i accelerar la recuperació de la teva empresa."
+description: Descobreix quins passos seguir en els primers 60 minuts després d’un
+  atac de ransomware per minimitzar danys i accelerar la recuperació de la teva empresa.
 cover:
-  image: "uploads/guia-ataque-ransomware.webp"
-  alt: "Il·lustració de ransomware bloquejant un ordinador"
-  caption: "Font: GuardianHubX"
+  image: uploads/guia-ataque-ransomware.webp
+  alt: Il·lustració de ransomware bloquejant un ordinador
+  caption: 'Font: GuardianHubX'
 ---
 
+
 El **ransomware** s’ha convertit en una de les amenaces més perilloses per a empreses de totes les mides. Aquest tipus de **malware** xifra els arxius i bloqueja l’accés als sistemes fins que es paga un rescat.  
+
+**Lecturas relacionadas:**
+- [5 errors comuns de ciberseguretat que cometen les pimes (i com evitar-los)](/blog/errors-comuns-ciberseguretat-pimes/)
+- [Ciberseguretat a pimes: riscos i solucions sense infraestructura interna](/blog/ciberseguretat-pimes-riscs-solucions/)
+- [Infostealers: què són, com operen i com protegir les teves dades](/blog/infostealers-amenaca-robatori-dades/)
 
 Lluny de ser un problema exclusiu de les grans corporacions, cada vegada més **pimes** se’n veuen afectades, ja que sovint compten amb menys recursos i mesures de protecció.  
 

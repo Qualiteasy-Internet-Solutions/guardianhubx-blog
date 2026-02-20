@@ -1,12 +1,12 @@
 ---
-title: "Infostealers: què són, com operen i com protegir les teves dades"
-author: "GuardianHubX"
-date: 2025-06-11T00:00:00+00:00
+title: 'Infostealers: què són, com operen i com protegir les teves dades'
+author: GuardianHubX
+date: 2025-06-11 00:00:00+00:00
 draft: false
-type: "blog"
+type: blog
 categories:
 - ciberseguretat
-slug: "infostealers-amenaca-robatori-dades"
+slug: infostealers-amenaca-robatori-dades
 tags:
 - amenaces-digitals
 - ciberseguretat
@@ -14,19 +14,26 @@ tags:
 - malware-i-phishing
 - protecció-de-dades
 - seguretat-informàtica
-description: "Descobreix com els infostealers roben les teves dades sense ser detectats i quines mesures pots prendre per protegir la teva empresa d'aquestes amenaces silencioses."
+description: Descobreix com els infostealers roben les teves dades sense ser detectats
+  i quines mesures pots prendre per protegir la teva empresa d'aquestes amenaces silencioses.
 cover:
-  image: "uploads/infostealer-blog.webp"
+  image: uploads/infostealer-blog.webp
   width: 1151
   height: 6833
-  alt: "Hacker robant dades amb malware"
-  caption: "Font: GuardianHubX"
-translationKey: "infostealers-2025"
+  alt: Hacker robant dades amb malware
+  caption: 'Font: GuardianHubX'
+translationKey: infostealers-2025
 ---
+
 
 # Infostealers: L'Amenaça Silenciosa que Posa en Risc les Teves Dades
 
 En l'actual ecosistema digital, els infostealers s'han consolidat com una de les amenaces més silencioses i preocupants en [ciberseguretat](https://guardianhubx.com/ca/objectius-ciberseguretat/). Aquests programes maliciosos estan dissenyats per robar informació sensible sense generar senyals visibles al sistema, la qual cosa els permet actuar de manera perllongada sense ser detectats.
+
+**Lecturas relacionadas:**
+- [Què és un vector d'atac i com protegir la teva empresa](/blog/vector-atac-proteccio-empresa/)
+- [Com evitar el robatori de comptes (ATO) a la teva empresa](/blog/com-evitar-robatori-compte-ato/)
+- [Ciberseguretat a pimes: riscos i solucions sense infraestructura interna](/blog/ciberseguretat-pimes-riscs-solucions/)
 
 La seva creixent sofisticació, baix cost i facilitat de distribució els han convertit en eines habituals per a actors maliciosos, tant individuals com organitzats. El resultat: un nombre creixent d'empreses i usuaris amb les seves dades exposades sense saber-ho.
 

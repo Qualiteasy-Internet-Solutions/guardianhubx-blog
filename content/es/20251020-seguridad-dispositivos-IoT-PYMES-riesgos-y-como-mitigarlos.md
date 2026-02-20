@@ -1,11 +1,11 @@
 ---
-title: "Seguridad para dispositivos IoT en empresas pequeñas: riesgos y cómo mitigarlos"
-author: "GuardianHubX"
-date: 2025-10-20T00:00:00+00:00
+title: 'Seguridad para dispositivos IoT en empresas pequeñas: riesgos y cómo mitigarlos'
+author: GuardianHubX
+date: 2025-10-20 00:00:00+00:00
 draft: false
-type: "blog"
-slug: "seguridad-dispositivos-iot-pymes-riesgos-y-como-mitigarlos"
-translationKey: "seguridad-iot-pymes"
+type: blog
+slug: seguridad-dispositivos-iot-pymes-riesgos-y-como-mitigarlos
+translationKey: seguridad-iot-pymes
 categories:
 - ciberseguridad
 tags:
@@ -16,14 +16,22 @@ tags:
 - pymes
 - riesgos-digitales
 - seguridad-informática
-description: "Descubre los riesgos de los dispositivos IoT en pequeñas empresas (contraseñas débiles, falta de actualizaciones) y aprende cómo mitigarlos eficazmente."
+description: Descubre los riesgos de los dispositivos IoT en pequeñas empresas (contraseñas
+  débiles, falta de actualizaciones) y aprende cómo mitigarlos eficazmente.
 cover:
-  image: "uploads/seguridad-iot-empresas.webp"
-  alt: "Ilustración de varios dispositivos IoT (cámara, impresora, sensor) conectados y un candado simbolizando la seguridad."
-  caption: "Fuente: GuardianHubX"
+  image: uploads/seguridad-iot-empresas.webp
+  alt: Ilustración de varios dispositivos IoT (cámara, impresora, sensor) conectados
+    y un candado simbolizando la seguridad.
+  caption: 'Fuente: GuardianHubX'
 ---
 
+
 La **transformación digital** ha traído consigo una enorme cantidad de dispositivos conectados a internet: cámaras de videovigilancia, sensores de movimiento, impresoras inteligentes, altavoces con asistente de voz, cerraduras electrónicas… Todos ellos forman parte del **Internet of Things (IoT)** y se han convertido en herramientas habituales también en las **pequeñas empresas**.
+
+**Lecturas relacionadas:**
+- [5 errores comunes de ciberseguridad que cometen las pymes (y cómo evitarlos)](/blog/errores-comunes-ciberseguridad-pymes/)
+- [Ciberseguridad en pymes: riesgos y soluciones sin infraestructura interna](/blog/ciberseguridad-pymes-riesgos-soluciones/)
+- [¿Qué es un vector de ataque y cómo proteger tu empresa de ellos?](/blog/vector-ataque-como-proteger-empresa/)
 
 Estos equipos hacen la vida más fácil: permiten controlar accesos, optimizar consumos, mejorar la eficiencia e incluso dar mejor servicio a los clientes. Pero, al mismo tiempo, **abren nuevas puertas a posibles ciberataques**. Y muchas veces no somos conscientes del riesgo hasta que ya es demasiado tarde.
 

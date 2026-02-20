@@ -1,10 +1,10 @@
 ---
-title: "Este verano, protege tu empresa incluso fuera de la oficina con Prey Project"
-author: "GuardianHubX"
-date: 2025-07-28T00:00:00+00:00
+title: Este verano, protege tu empresa incluso fuera de la oficina con Prey Project
+author: GuardianHubX
+date: 2025-07-28 00:00:00+00:00
 draft: false
-slug: "verano-proteccion-dispositivos-prey"
-type: "blog"
+slug: verano-proteccion-dispositivos-prey
+type: blog
 categories:
 - ciberseguridad
 tags:
@@ -14,19 +14,27 @@ tags:
 - protección-de-datos
 - seguridad-física
 - trabajo-remoto
-description: "Este verano, tus dispositivos corporativos están más expuestos que nunca. Descubre cómo proteger tu empresa ante pérdidas, robos y accesos indebidos con Prey Project, la solución ideal para equipos móviles."
+description: Este verano, tus dispositivos corporativos están más expuestos que nunca.
+  Descubre cómo proteger tu empresa ante pérdidas, robos y accesos indebidos con Prey
+  Project, la solución ideal para equipos móviles.
 cover:
-  image: "uploads/verano-prey-project-guardianhubx.webp"
+  image: uploads/verano-prey-project-guardianhubx.webp
   width: 1537
   height: 4097
-  alt: "Persona con portátil en la playa bajo medidas de seguridad digital"
-  caption: "Fuente: GuardianHubX"
-translationKey: "prey-project-summer-2025"
+  alt: Persona con portátil en la playa bajo medidas de seguridad digital
+  caption: 'Fuente: GuardianHubX'
+translationKey: prey-project-summer-2025
 ---
+
 
 # Este verano, protege tu empresa incluso fuera de la oficina con Prey Project
 
 El verano es sinónimo de vacaciones, desconexión y movilidad. Pero para las empresas, también implica un aumento de los riesgos en seguridad digital.
+
+**Lecturas relacionadas:**
+- [Infostealers: qué son, cómo operan y cómo proteger tus datos](/blog/infostealers-amenaza-robo-datos/)
+- [Cómo proteger tu empresa frente a la toma de control de cuentas (ATO)](/blog/ataques-ato-proteger-cuentas/)
+- [Ciberseguridad en pymes: riesgos y soluciones sin infraestructura interna](/blog/ciberseguridad-pymes-riesgos-soluciones/)
 
 Entre viajes, jornadas híbridas y trabajo remoto, los dispositivos corporativos están más expuestos a pérdidas, robos o accesos no autorizados.
 

@@ -1,11 +1,11 @@
 ---
-title: "Com evitar el robatori de comptes (ATO) a la teva empresa"
-author: "GuardianHubX"
-date: 2025-07-21T00:00:00+00:00
+title: Com evitar el robatori de comptes (ATO) a la teva empresa
+author: GuardianHubX
+date: 2025-07-21 00:00:00+00:00
 draft: false
-slug: "com-evitar-robatori-compte-ato"
-type: "blog"
-lang: "ca"
+slug: com-evitar-robatori-compte-ato
+type: blog
+lang: ca
 categories:
 - ciberseguretat
 tags:
@@ -15,19 +15,27 @@ tags:
 - cultura-digital
 - gestió-d-identitats
 - protecció-de-dades
-description: "Els atacs de robatori de comptes (ATO) són una de les amenaces més greus avui dia. Descobreix com prevenir-los amb eines tecnològiques, formació i vigilància proactiva."
+description: Els atacs de robatori de comptes (ATO) són una de les amenaces més greus
+  avui dia. Descobreix com prevenir-los amb eines tecnològiques, formació i vigilància
+  proactiva.
 cover:
-  image: "uploads/ataques-ato-proteger-cuentas-guardianhubx.webp"
+  image: uploads/ataques-ato-proteger-cuentas-guardianhubx.webp
   width: 1537
   height: 4097
-  alt: "Representació visual d’un atac ATO"
-  caption: "Font: GuardianHubX"
-translationKey: "ato-2025"
+  alt: Representació visual d’un atac ATO
+  caption: 'Font: GuardianHubX'
+translationKey: ato-2025
 ---
+
 
 # Com evitar el robatori de comptes (ATO) a la teva empresa
 
 La teva empresa està preparada per aturar un atac de robatori de comptes?
+
+**Lecturas relacionadas:**
+- [Infostealers: què són, com operen i com protegir les teves dades](/blog/infostealers-amenaca-robatori-dades/)
+- [Ciberseguretat a pimes: riscos i solucions sense infraestructura interna](/blog/ciberseguretat-pimes-riscs-solucions/)
+- [Què és un vector d'atac i com protegir la teva empresa](/blog/vector-atac-proteccio-empresa/)
 
 Els **atacs ATO** (Account Takeover) s’han convertit en una de les amenaces més perilloses per a empreses de qualsevol mida. En només dos anys, la seva incidència ha crescut de manera alarmant:
 

@@ -10,8 +10,9 @@ cover:
   height: 585
 date: '2024-07-01T00:00:00+00:00'
 draft: false
-description: "Anàlisi detallat d'estadístiques de ciberatacs en empreses espanyoles. Dades reals, tendències 2024 i estratègies de protecció."
-type: "blog"
+description: Anàlisi detallat d'estadístiques de ciberatacs en empreses espanyoles.
+  Dades reals, tendències 2024 i estratègies de protecció.
+type: blog
 excerpt: Cada vegada llegim més notícies sobre ciberatacs. Gràcies a estudis recents,
   hi ha dades reals que ajuden a comprendre la magnitud del problema i la necessitat
   de protegir-se.
@@ -23,10 +24,16 @@ tags:
 - ransomware
 - tecnologia-informació
 title: Les dades que demostren el risc real de ciberatacs a empreses
-translationKey: "cyberattack-data-companies-2024"
+translationKey: cyberattack-data-companies-2024
 ---
 
+
 Cada vegada llegim més notícies sobre ciberatacs a empreses i organismes públics. Estan a l'ordre del dia. No obstant això, gran part dels atacs a empreses privades no surten a la llum. Tot i així, gràcies a estudis i informes recents, hi ha dades reals que ajuden a comprendre la magnitud del problema i la urgència de comptar amb un partner com GuardianHubX per evitar formar part d'aquestes estadístiques.
+
+**Lecturas relacionadas:**
+- [La Solució de Gestió Integral per a CIOs i CTOs](/blog/plataforma-gestio-per-a-cios-ctos/)
+- [Protegeix la teva empresa dels ciberatacs aquest Nadal](/blog/ciberseguretat-nadal-empreses/)
+- [Com puc protegir la meva xarxa d'atacs de ransomware?](/blog/com-protegir-xarxa-atacs-ransomware/)
 
 ## El 50% de les PIMES espanyoles pateixen atacs cada any
 

@@ -10,9 +10,10 @@ cover:
   height: 1021
 date: '2025-01-27T00:00:00+00:00'
 draft: false
-description: "Com la IA revoluciona tècniques d'evasió en ciberseguretat. Amenaces emergents i defenses contra atacs intel·ligents 2025."
-slug: "com-la-ia-esta-revolucionant-les-tecniques-d-evasio-en-ciberseguretat"
-type: "blog"
+description: Com la IA revoluciona tècniques d'evasió en ciberseguretat. Amenaces
+  emergents i defenses contra atacs intel·ligents 2025.
+slug: com-la-ia-esta-revolucionant-les-tecniques-d-evasio-en-ciberseguretat
+type: blog
 tags:
 - ciberatacs
 - intel·ligència-artificial
@@ -20,10 +21,16 @@ tags:
 - ransomware
 - tecnologia-informació
 title: Com la IA Està Revolucionant les Tècniques d'Evasió en Ciberseguretat
-translationKey: "ai-evasion-techniques-2025"
+translationKey: ai-evasion-techniques-2025
 ---
 
+
 En la guerra sense fi entre atacants i defensors en l'àmbit de la ciberseguretat, la intel·ligència artificial (IA) s'ha convertit en una arma de doble tall. Mentre les organitzacions la utilitzen per reforçar les seves defenses, els ciberatacants han començat a emprar-la per crear tècniques d'evasió més sofisticades que burlen fins i tot les [mesures de seguretat més avançades](https://guardianhubx.com/ca/objectius-ciberseguretat/).
+
+**Lecturas relacionadas:**
+- [Guia ràpida per entendre els termes clau en atacs de ciberseguretat](/blog/guia-rapida-termes-ciberseguretat/)
+- [La creixent amenaça dels ciberatacs a Espanya: claus per a una ciberresiliència efectiva](/blog/ciberatacs-espanya-ciberresiliencia/)
+- [La Solució de Gestió Integral per a CIOs i CTOs](/blog/plataforma-gestio-per-a-cios-ctos/)
 
 A continuació, explorarem com la IA està redefinint el panorama de les amenaces cibernètiques i quins desafiaments planteja per a les tecnologies de detecció actuals.
 

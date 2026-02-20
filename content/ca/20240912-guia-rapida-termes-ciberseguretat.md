@@ -10,9 +10,10 @@ cover:
   height: 1024
 date: '2024-09-12T00:00:00+00:00'
 draft: false
-description: "Guia ràpida de termes ciberseguretat: phishing, malware, ransomware i més. Conceptes clau explicats per a empreses i professionals."
+description: 'Guia ràpida de termes ciberseguretat: phishing, malware, ransomware
+  i més. Conceptes clau explicats per a empreses i professionals.'
 slug: guia-rapida-termes-ciberseguretat
-type: "blog"
+type: blog
 tags:
 - ciberatacs
 - ciberresiliència
@@ -20,10 +21,16 @@ tags:
 - ransomware
 - tecnologia-informació
 title: Guia ràpida per entendre els termes clau en atacs de ciberseguretat
-translationKey: "cybersecurity-terms-guide-2024"
+translationKey: cybersecurity-terms-guide-2024
 ---
 
+
 En el món digital, cada dia sentim a parlar més de ciberatacs i ciberseguretat. Amb la creixent quantitat d'informació, és important estar familiaritzat amb els termes clau. En aquesta guia de GuardianHubX, explorarem alguns dels conceptes més importants per entendre les amenaces i com protegir-nos-en.
+
+**Lecturas relacionadas:**
+- [La creixent amenaça dels ciberatacs a Espanya: claus per a una ciberresiliència efectiva](/blog/ciberatacs-espanya-ciberresiliencia/)
+- [Com la IA Està Revolucionant les Tècniques d'Evasió en Ciberseguretat](/blog/com-la-ia-esta-revolucionant-les-tecniques-d-evasio-en-ciberseguretat/)
+- [La Solució de Gestió Integral per a CIOs i CTOs](/blog/plataforma-gestio-per-a-cios-ctos/)
 
 ## 1. Ciberatac
 

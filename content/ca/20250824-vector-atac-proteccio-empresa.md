@@ -1,32 +1,39 @@
 ---
-title: "Què és un vector d'atac i com protegir la teva empresa"
-author: "GuardianHubX"
-date: 2025-08-24T00:00:00+00:00
+title: Què és un vector d'atac i com protegir la teva empresa
+author: GuardianHubX
+date: 2025-08-24 00:00:00+00:00
 draft: false
-type: "blog"
-translationKey: "vector-ataque-como-proteger-empresa"
-slug: "vector-atac-proteccio-empresa"
+type: blog
+translationKey: vector-ataque-como-proteger-empresa
+slug: vector-atac-proteccio-empresa
 categories:
 - ciberseguretat
 tags:
-  - ciberseguretat
-  - amenaces-digitals
-  - phishing
-  - ransomware
-  - seguretat-informàtica
-  - formació-i-conscienciació
-  - protecció-de-dades
-  - actualitzacions
-description: "Descobreix què és un vector d'atac, els tipus més comuns i com protegir la teva empresa amb estratègies efectives de ciberseguretat."
+- ciberseguretat
+- amenaces-digitals
+- phishing
+- ransomware
+- seguretat-informàtica
+- formació-i-conscienciació
+- protecció-de-dades
+- actualitzacions
+description: Descobreix què és un vector d'atac, els tipus més comuns i com protegir
+  la teva empresa amb estratègies efectives de ciberseguretat.
 cover:
-  image: "uploads/vector-ataque-proteccion-empresa.webp"
+  image: uploads/vector-ataque-proteccion-empresa.webp
   width: 1025
   height: 4097
-  alt: "Il·lustració conceptual d'un vector d'atac en ciberseguretat"
-  caption: "Font: GuardianHubX"
+  alt: Il·lustració conceptual d'un vector d'atac en ciberseguretat
+  caption: 'Font: GuardianHubX'
 ---
 
+
 En el món de la **ciberseguretat**, un dels conceptes clau que tota empresa ha de conèixer és el *vector d'atac*. Entendre què és, com funciona i per què és una amenaça pot marcar la diferència entre prevenir un ciberatac o patir una greu bretxa de seguretat.
+
+**Lecturas relacionadas:**
+- [Ciberseguretat a pimes: riscos i solucions sense infraestructura interna](/blog/ciberseguretat-pimes-riscs-solucions/)
+- [Infostealers: què són, com operen i com protegir les teves dades](/blog/infostealers-amenaca-robatori-dades/)
+- [5 errors comuns de ciberseguretat que cometen les pimes (i com evitar-los)](/blog/errors-comuns-ciberseguretat-pimes/)
 
 ## Què és un vector d'atac?
 
