@@ -5,7 +5,6 @@ date: 2025-07-21 00:00:00+00:00
 draft: false
 slug: com-evitar-robatori-compte-ato
 type: blog
-lang: ca
 categories:
 - ciberseguretat
 tags:
