@@ -113,3 +113,7 @@ Les tendències indiquen que el 2026 veurem un escenari encara més complex:
 La combinació d'IA, automatització criminal i pics d'activitat converteix el Black Friday en un terreny especialment perillós per a les empreses. Preparar la infraestructura, formar l'equip i reforçar els processos des d'ara no només evita incidents: també augmenta la confiança dels clients i millora la competitivitat.
 
 Si vols portar la ciberseguretat del teu negoci al següent nivell, [posa't en contacte amb nosaltres](https://guardianhubx.com/ca/#contact) i t'ajudarem a estar preparat.
+
+> 🛒 **Protegeix el teu Negoci en Temporada de Pics** — Estrategia de seguretat en Black Friday + defensa contra amenaces.
+>
+> **[→ Obté Resum de Seguretat en Dates Clau (Gratis)](https://guardianhubx.com/ca/#contact)** — Tendències d'amenaces + checklist de protecció.

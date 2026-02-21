@@ -61,3 +61,7 @@ Dada la creciente sofisticación de los ataques, las empresas deben adoptar un e
 
 > **¿Tu empresa está preparada para el próximo ataque?**
 > **[Contacta con nuestro equipo de expertos](https://guardianhubx.com/es/#contact) y fortalece tu ciberresiliencia hoy mismo.**s
+
+> 🛡️ **Construye Verdadera Ciberresiliencia** — Strengthen your defenses against Spain's growing threats.
+>
+> **[→ Solicita Evaluación de Ciberresiliencia (Gratis)](https://guardianhubx.com/es/#contact)** — Análisis experto + plan de protección accionable.

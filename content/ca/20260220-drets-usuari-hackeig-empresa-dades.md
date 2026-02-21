@@ -83,3 +83,5 @@ A **GuardianHubX** ajudem tant empreses com organitzacions a gestionar incidents
 Si has patit una bretxa o vols preparar-te abans que passi, parlar a temps marca la diferència.
 
 👉 **Posa't en contacte amb el nostre equip aquí:** [https://guardianhubx.com/ca/#contact](https://guardianhubx.com/ca/#contact)
+
+> ⚖️ **Protegeix Drets d'Usuaris** — Compliance + obligaciones post-brecha + plan de comunicación.

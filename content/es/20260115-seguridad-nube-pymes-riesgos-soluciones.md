@@ -77,7 +77,7 @@ La falta de información lleva a muchas pymes a tomar decisiones erróneas. Esto
 
 ## 3. Soluciones prácticas para mejorar la seguridad en la nube
 
-Estas son acciones concretas que cualquier pyme puede implementar sin grandes inversiones:
+El [Marco de Ciberseguridad del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"} proporciona guías específicas para proteger infraestructuras cloud. Aquí te presentamos acciones concretas que cualquier pyme puede implementar sin grandes inversiones:
 
 1.  **Activar la autenticación multifactor (MFA):** Es la medida más efectiva y económica. Evita accesos ilegítimos incluso si la contraseña es robada.
 2.  **Revisar permisos y roles:** Establecer el principio de **mínimos privilegios**: cada empleado solo debe acceder a los datos imprescindibles para su trabajo diario.
@@ -97,3 +97,7 @@ La nube ofrece a las pymes una potencia tecnológica antes reservada a grandes e
 Con las prácticas adecuadas, la nube no solo es segura, sino más robusta que cualquier infraestructura local.
 
 👉 **¿Necesitas auditar la seguridad de tu entorno cloud?** Si quieres llevar la ciberseguridad de tu negocio al siguiente nivel, [ponte en contacto con nosotros](https://guardianhubx.com/es/#contact).
+
+> ☁️ **Secure Your Cloud Infrastructure for SMBs** — Cloud-specific protection.
+>
+> **[→ Obtén Evaluación de Seguridad en Nube (Gratis)](https://guardianhubx.com/es/#contact)** — Revisión de configuración + análisis de vulnerabilidades.

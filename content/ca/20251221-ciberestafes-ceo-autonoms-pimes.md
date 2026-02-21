@@ -106,3 +106,5 @@ Els atacs dirigits al CEO funcionen perquè combinen urgència, confiança i aut
 Un CEO informat, que aplica MFA, controla accessos i comunica bones pràctiques, deixa de ser una vulnerabilitat per convertir-se en el primer mur de defensa de l'empresa.
 
 👉 **Et preocupa la seguretat de la teva directiva?** Si vols portar la ciberseguretat del teu negoci al següent nivell, [posa't en contacte amb nosaltres](https://guardianhubx.com/ca/#contact).
+
+> 🎯 **Evita Estafes de CEO/Suplantació** — Tácticas de fraude + defensa + protocolo de verificación.

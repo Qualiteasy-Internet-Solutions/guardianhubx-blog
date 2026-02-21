@@ -28,7 +28,7 @@ translationKey: cyberattack-data-companies-2024
 ---
 
 
-Cada vez leemos más noticias sobre ciberataques en empresas y organismos públicos. Están a la orden del día. Sin embargo, gran parte de los ataques a empresas privadas no salen a la luz. Aun así, gracias a estudios e informes recientes, hay datos reales que ayudan a comprender la magnitud del problema y la urgencia de contar con un partner como GuardianHubX para evitar formar parte de estas estadísticas.
+Cada vez leemos más noticias sobre ciberataques en empresas y organismos públicos. Están a la orden del día. Sin embargo, gran parte de los ataques a empresas privadas no salen a la luz. Aun así, gracias a estudios e informes recientes de organismos como [INCIBE](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}, hay datos reales que ayudan a comprender la magnitud del problema y la urgencia de contar con un partner como GuardianHubX para evitar formar parte de estas estadísticas.
 
 **Lecturas relacionadas:**
 - [La Solución de Gestión Integral para CIOs y CTOs](/blog/plataforma-gestion-para-cios-ctos/)
@@ -62,5 +62,6 @@ En GuardianHubX, hemos simplificado este proceso creando un ecosistema de soluci
 
 No se trata de si sufrirás un ataque, sino de cuándo. Estar preparado es la única forma de garantizar la continuidad de tu negocio.
 
-> **¿Quieres dejar de ser una estadística y convertir la ciberseguridad en una ventaja competitiva?**
-> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y descubre qué paquete se adapta mejor a tu empresa.**
+> 📈 **Entiende las Tendencias de Ciberataques** — Datos + análisis + estrategia defensiva para tu sector.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y descubre qué paquete se adapta mejor a tu empresa.**

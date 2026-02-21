@@ -88,3 +88,5 @@ Reaccionar davant d'una bretxa és fonamental, però prevenir-la és encara més
 
 > **No esperis que ocorri una bretxa per prendre mesures.**
 > **[Contacta amb nosaltres](https://guardianhubx.com/ca/#contact) i descobreix com podem enfortir la seguretat de la teva empresa avui mateix.**
+
+> 🚨 **Respon Ràpid a una Violació de Dades** — Protocolo paso a paso + contactos + recuperación inmediata.

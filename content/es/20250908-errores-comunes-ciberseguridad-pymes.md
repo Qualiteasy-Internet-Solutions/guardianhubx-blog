@@ -27,7 +27,7 @@ cover:
 ---
 
 
-La mayoría de las **pymes** piensa que los **ciberataques** solo afectan a grandes corporaciones, pero la realidad es bien distinta: **7 de cada 10 ataques en España** se dirigen a pequeñas y medianas empresas.  
+La mayoría de las **pymes** piensa que los **ciberataques** solo afectan a grandes corporaciones, pero la realidad es bien distinta: Según [INCIBE (Instituto Nacional de Ciberseguridad)](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}, **7 de cada 10 ataques en España** se dirigen a pequeñas y medianas empresas.
 Los ciberdelincuentes saben que, muchas veces, estas organizaciones cuentan con menos recursos y medidas de protección, lo que las convierte en un objetivo fácil.
 
 **Lecturas relacionadas:**
@@ -90,6 +90,8 @@ Antes de hablar de errores, es importante entender qué cuesta un ataque:
 
 ## Plan de Acción: Implementación Paso a Paso
 
+Este plan se alinea con el [Marco de Ciberseguridad del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"}, que proporciona un enfoque estructurado para proteger sistemas:
+
 ### Mes 1: Fundamentos (Costo: €200-500)
 1. Activa actualizaciones automáticas en todos los sistemas
 2. Implementa un gestor de contraseñas (Bitwarden, 1Password)
@@ -125,3 +127,7 @@ La **ciberseguridad en pymes** no tiene por qué ser compleja ni costosa. Evitar
 Invertir en **cultura de seguridad**, buenas prácticas y herramientas adecuadas no solo protege tu negocio, sino también la confianza de tus clientes y socios. El viaje hacia una pyme segura comienza con estos primeros pasos.
 
 🔗 ¿Quieres saber por dónde empezar? Realiza el [test gratuito de ciberseguridad de GuardianHubX](https://guardianhubx.com/es/test-ciberseguridad/) y descubre en menos de 5 minutos el nivel de protección de tu empresa.
+
+> ⚠️ **Evita los 5 Errores Más Costosos** — Análisis + checklist + plan de corrección inmediata.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

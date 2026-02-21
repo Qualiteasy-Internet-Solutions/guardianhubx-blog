@@ -69,3 +69,6 @@ Si 2025 fue el año de la IA generativa, 2026 será el año de la **IA Autónoma
 Gracias por confiar en **GuardianHubX**.
 
 **¿Tu propósito de año nuevo es dormir tranquilo? [Hablemos hoy mismo](https://guardianhubx.com/es/#contact).**
+> 📊 **Aprende del Año en Ciberseguridad** — Resumen 2025 + lecciones + tendencias 2026.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

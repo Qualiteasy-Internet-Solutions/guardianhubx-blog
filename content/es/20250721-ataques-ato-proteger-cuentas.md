@@ -57,12 +57,12 @@ Una vez dentro, el atacante puede:
 ## ¿Por qué deberías preocuparte?
 
 - Tus **credenciales pueden estar expuestas** sin que lo sepas. Muchas filtraciones no se detectan hasta semanas o meses después.  
-- Las técnicas de **phishing son cada vez más sofisticadas**, engañando incluso a los empleados más formados.  
+- Las técnicas de **phishing son cada vez más sofisticadas**, engañando incluso a los empleados más formados. Según el [OWASP Top 10](https://owasp.org/www-project-top-ten/){: target="_blank" rel="noopener"}, las vulnerabilidades de autenticación débil siguen siendo un riesgo crítico.  
 - El **75 % de los responsables de seguridad** ya consideran los ATO como una de las principales amenazas para su organización.  
 
 ## Cómo proteger tu empresa frente a la toma de control de cuentas
 
-Afortunadamente, existen medidas eficaces para prevenir, detectar y mitigar este tipo de ataques. Estas son las 4 más importantes:
+Afortunadamente, existen medidas eficaces para prevenir, detectar y mitigar este tipo de ataques. Según las directrices de [INCIBE](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}, estas son las 4 más importantes:
 
 ### 1. Monitorización de credenciales en la dark web
 
@@ -96,4 +96,6 @@ La mejor defensa contra un ataque de ATO no es una sola medida, sino una **combi
 
 En **GuardianHubX** te ayudamos a proteger lo más valioso de tu empresa: tus cuentas, tus datos y tu reputación.
 
-👉 [Contáctanos](https://guardianhubx.com/es/#contact) y da el primer paso hacia una ciberseguridad real.
+> 🔐 **Evita Ataques de Toma de Control de Cuenta** — Detecta + defiéndete contra amenazas de credenciales.
+>
+> **[→ Obtén tu Evaluación de Seguridad de Cuentas (Gratis)](https://guardianhubx.com/es/#contact)** — Análisis experto de exposición de credenciales + estrategia de protección inmediata.

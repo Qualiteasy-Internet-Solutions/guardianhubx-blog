@@ -92,3 +92,7 @@ Uno de los grandes beneficios de Prey es su fácil implementación:
 Invertir en una herramienta como **Prey Project** no solo protege tus activos digitales, sino que transmite confianza a clientes y empleados. Demuestra que tu empresa prioriza la ciberseguridad… incluso cuando el sol aprieta.
 
 👉 [Descubre cómo Prey puede integrarse en tu organización](https://guardianhubx.com/es/preyproject/) o [contáctanos](https://guardianhubx.com/es/#contact) para empezar.
+
+> ☀️ **Asegura Dispositivos en Teletrabajo de Verano** — Protección remota + localización + recuperación de datos.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

@@ -61,3 +61,5 @@ Atesa la creixent sofisticació dels atacs, les empreses han d'adoptar un enfoca
 
 > **La teva empresa està preparada per al pròxim atac?**
 > **[Contacta amb el nostre equip d'experts](https://guardianhubx.com/ca/#contact) i enforteix la teva ciberresiliència avui mateix.**
+
+> 🛡️ **Construye Verdadera Ciberresiliencia** — Strengthen your defenses against Spain's growing threats.

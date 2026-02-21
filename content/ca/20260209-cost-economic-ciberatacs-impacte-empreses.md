@@ -94,4 +94,6 @@ Si vols saber com està el teu nivell de protecció o conèixer més sobre **Gua
 ### 📚 Fonts i Referències Oficials
 1.  **The Guardian:** Anàlisi sobre l'impacte financer a la indústria automotriu britànica. 
 2.  **Statista / Informes del Sector:** Projeccions del cost global del cibercrim 2025-2026. 
-3.  **ENISA:** Informes sobre l'impacte del ransomware en el teixit empresarial europeu. 
+3.  **ENISA:** Informes sobre l'impacte del ransomware en el teixit empresarial europeu.
+
+> 💰 **Calcula el ROI de la teva Seguretat** — Impacto financiero + business case para inversión en ciberseguridad.

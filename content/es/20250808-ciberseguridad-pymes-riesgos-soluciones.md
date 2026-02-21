@@ -60,7 +60,7 @@ En este artículo te explicamos los principales riesgos que enfrentan las pymes 
 
 ## ¿Por qué la ciberseguridad también es esencial para las pymes?
 
-Existe un falso mito: *"Los hackers solo atacan a grandes empresas"*. La realidad es muy distinta. Según estudios recientes, más del 60% de los ciberataques en España tienen como objetivo a pymes o autónomos, precisamente por ser los más vulnerables.
+Existe un falso mito: *"Los hackers solo atacan a grandes empresas"*. La realidad es muy distinta. Según datos de [INCIBE (Instituto Nacional de Ciberseguridad)](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}, más del 60% de los ciberataques en España tienen como objetivo a pymes o autónomos, precisamente por ser los más vulnerables.
 
 Entre los principales motivos:
 
@@ -90,7 +90,9 @@ Al no contar con autenticación multifactor o segmentación de accesos, un solo 
 
 ## Soluciones de ciberseguridad para pymes sin equipo técnico
 
-1. **Utiliza herramientas de seguridad gestionadas (SaaS)**  
+Según el [Marco de Ciberseguridad del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"}, una estrategia integral debe combinar identificación, protección y detección de amenazas. Aquí te presentamos las soluciones más prácticas para pymes:
+
+1. **Utiliza herramientas de seguridad gestionadas (SaaS)**
    Hay soluciones en la nube asequibles y fáciles de usar, que no requieren configuración avanzada: antivirus cloud, gestores de contraseñas y VPN para proteger accesos remotos.
 
 2. **Copia de seguridad automatizada**  
@@ -126,3 +128,7 @@ No tener un departamento de IT no es excusa. La protección de datos y sistemas 
 
 📌 **¿Quieres ayuda personalizada?**  
 Desde GuardianHubX ofrecemos soluciones adaptadas a pequeñas empresas, con enfoque preventivo y escalable. [Contáctanos](https://guardianhubx.com/es/#contact).
+
+> 🏢 **Protege tu Pyme sin Equipo de TI Dedicado** — Seguridad práctica y asequible.
+>
+> **[→ Obtén Plan de Seguridad para Pymes (Gratis)](https://guardianhubx.com/es/#contact)** — Estrategia de protección personalizada + guía de implementación.

@@ -60,12 +60,12 @@ Un cop dins, pot:
 ## Per què t’ha de preocupar?
 
 - Les teves **contrasenyes poden estar exposades** sense que ho sàpigues  
-- El **phishing és cada cop més sofisticat**  
+- El **phishing és cada cop més sofisticat**. Segons el [OWASP Top 10](https://owasp.org/www-project-top-ten/){: target="_blank" rel="noopener"}, les vulnerabilitats d'autenticació dèbil segueixen sent un risc crític.  
 - El **75 % dels responsables de seguretat TI** consideren l’ATO com una amenaça prioritària
 
 ## 4 accions clau per protegir-te
 
-Aquestes són les estratègies més eficaces per prevenir i frenar els atacs ATO:
+Segons les directrius d'[INCIBE](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}, aquestes són les estratègies més eficaces per prevenir i frenar els atacs ATO:
 
 ### 1. Monitoratge de credencials a la dark web
 
@@ -110,3 +110,5 @@ A **GuardianHubX** t’ajudem a protegir el que més importa: els teus comptes, 
 📩 [Contacta amb nosaltres](https://guardianhubx.com/ca/#contact) i dona el primer pas cap a una ciberseguretat real.
 
 ---
+
+> 🔐 **Evita Ataques de Toma de Control de Cuenta** — Detecta + defiéndete contra amenazas de credenciales.

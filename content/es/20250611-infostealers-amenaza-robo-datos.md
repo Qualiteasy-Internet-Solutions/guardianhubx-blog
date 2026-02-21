@@ -108,3 +108,7 @@ Los infostealers representan una amenaza creciente y sofisticada. Adoptar un enf
 👉 En **GuardianHubX** trabajamos para que este tipo de amenazas no te pillen por sorpresa.
 
 **¿Quieres saber si tu organización está expuesta a infostealers? [Contacta con nosotros](https://guardianhubx.com/es/#contact) y protege tus datos antes de que alguien más los robe.**
+
+> 🔓 **Detén el Robo de Credenciales** — Prevención de robo de identidad + protección de datos.
+>
+> **[→ Evalúa tu Riesgo de Infostealers (Gratis)](https://guardianhubx.com/es/#contact)** — Análisis de exposición de credenciales + plan de protección.

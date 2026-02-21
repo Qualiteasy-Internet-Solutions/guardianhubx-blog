@@ -16,7 +16,7 @@ slug: sostenibilidad-tecnologia-power-save
 description: Descubre cómo la tecnología Power Save, integrada en las soluciones de
   GuardianHubX, ayuda a las empresas a reducir costes y su huella de carbono.
 cover:
-  image: uploads/powersave-ahorro-energia-tecnologia.webp"
+  image: uploads/powersave-ahorro-energia-tecnologia.webp
   alt: Bombilla con una hoja verde dentro, simbolizando energía y sostenibilidad.
   caption: 'Fuente: GuardianHubX'
 translationKey: sustainability-power-save-2023
@@ -85,5 +85,6 @@ Varias organizaciones de prestigio ya han implementado la tecnología Power Save
 
 En GuardianHubX, nuestro compromiso con un futuro más sostenible es firme. Nuestras soluciones de TI, potenciadas con tecnología como Power Save, no solo impulsan y protegen tu negocio, sino que también apoyan tus objetivos de sostenibilidad. Elegir GuardianHubX significa optar por una ciberseguridad eficiente, rentable y responsable con el planeta.
 
-> **¿Quieres descubrir cómo tu empresa puede ahorrar costes y ser más sostenible?**
-> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y te mostraremos cómo la tecnología verde puede transformar tu infraestructura de TI.**
+> ♻️ **Ahorra Energía y Reduce Costos** — Soluciones sostenibles + impacto financiero inmediato.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y te mostraremos cómo la tecnología verde puede transformar tu infraestructura de TI.**

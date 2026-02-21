@@ -75,7 +75,9 @@ La manca d'informació porta moltes pimes a prendre decisions errònies. Aquests
 
 ---
 
-## 3. Solucions pràctiques per millorar la seguretat al núvol
+## 3. Solucions pràctiques
+
+El [Marc de Ciberseguretat del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"} proporciona guies específiques per protegir infraestructures cloud. Aquí et presentem accions concretes que qualsevol pime pot implementar sense grans inversions: per millorar la seguretat al núvol
 
 Aquestes són accions concretes que qualsevol pime pot implementar sense grans inversions:
 
@@ -97,3 +99,5 @@ El núvol ofereix a les pimes una potència tecnològica abans reservada a grans
 Amb les pràctiques adequades, el núvol no només és segur, sinó més robust que qualsevol infraestructura local.
 
 👉 **Necessites auditar la seguretat del teu entorn cloud?** Si vols portar la ciberseguretat del teu negoci al següent nivell, [posa't en contacte amb nosaltres](https://guardianhubx.com/ca/#contact).
+
+> ☁️ **Secure Your Cloud Infrastructure for SMBs** — Cloud-specific protection.

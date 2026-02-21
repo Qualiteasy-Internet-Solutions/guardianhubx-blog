@@ -25,7 +25,7 @@ translationKey: cybersecurity-terms-guide-2024
 ---
 
 
-En el món digital, cada dia sentim a parlar més de ciberatacs i ciberseguretat. Amb la creixent quantitat d'informació, és important estar familiaritzat amb els termes clau. En aquesta guia de GuardianHubX, explorarem alguns dels conceptes més importants per entendre les amenaces i com protegir-nos-en.
+En el món digital, cada dia sentim a parlar més de ciberatacs i ciberseguretat. Amb la creixent quantitat d'informació, és important estar familiaritzat amb els termes clau. El [Marc de Ciberseguretat del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"} proporciona estàndards reconeguts mundialmente per a aquests termes. En aquesta guia de GuardianHubX, explorarem alguns dels conceptes més importants per entendre les amenaces i com protegir-nos-en.
 
 **Lecturas relacionadas:**
 - [La creixent amenaça dels ciberatacs a Espanya: claus per a una ciberresiliència efectiva](/blog/ciberatacs-espanya-ciberresiliencia/)
@@ -58,7 +58,7 @@ Un atac DDoS passa quan múltiples sistemes bombardegen un servidor amb trànsit
 
 ## 6. Exploits
 
-Un exploit és un atac que aprofita una vulnerabilitat en un sistema o programari. Mantenir els sistemes actualitzats, com es gestiona en els nostres paquets de seguretat, és crucial per prevenir-los.
+Un exploit és un atac que aprofita una vulnerabilitat en un sistema o programari. Segons el [OWASP Top 10](https://owasp.org/www-project-top-ten/){: target="_blank" rel="noopener"}, moltes vulnerabilitats explotables es poden prevenir amb pràctiques de desenvolupament i manteniment segures. Mantenir els sistemes actualitzats, com es gestiona en els nostres paquets de seguretat, és crucial per prevenir-los.
 
 ## 7. Dia zero (Zero-Day)
 

@@ -60,3 +60,7 @@ El ransomware es una amenaza grave, pero no tiene por qué ser inevitable. En lu
 
 > **¿Quieres proteger tu centro educativo de forma integral y sin complicaciones?**
 > **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y descubre cómo EduCraft puede blindar tu institución.**
+
+> 🏫 **Protege Instituciones Educativas Institutions from Ransomware** — School-specific security strategy.
+>
+> **[→ Obtén Plan de Seguridad para Educación (Gratis)](https://guardianhubx.com/es/#contact)** — Protección contra ransomware adaptada para escuelas.

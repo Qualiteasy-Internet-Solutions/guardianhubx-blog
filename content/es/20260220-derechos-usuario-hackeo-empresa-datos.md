@@ -85,3 +85,6 @@ En **GuardianHubX** ayudamos tanto a empresas como a organizaciones a gestionar 
 Si has sufrido una brecha o quieres prepararte antes de que ocurra, hablar a tiempo marca la diferencia.
 
 👉 **Ponte en contacto con nuestro equipo aquí:** [https://guardianhubx.com/es/#contact](https://guardianhubx.com/es/#contact)
+> ⚖️ **Protege Derechos de Usuarios** — Compliance + obligaciones post-brecha + plan de comunicación.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

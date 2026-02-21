@@ -27,7 +27,7 @@ cover:
 ---
 
 
-La majoria de les **pimes** pensa que els **ciberatacs** només afecten grans corporacions, però la realitat és ben diferent: **7 de cada 10 atacs a Espanya** es dirigeixen a petites i mitjanes empreses.  
+La majoria de les **pimes** pensa que els **ciberatacs** només afecten grans corporacions, però la realitat és ben diferent: Segons l'[INCIBE (Institut Nacional de Ciberseguretat)](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}, **7 de cada 10 atacs a Espanya** es dirigeixen a petites i mitjanes empreses.  
 Els ciberdelinqüents saben que, moltes vegades, aquestes organitzacions compten amb menys recursos i mesures de protecció, cosa que les converteix en un objectiu fàcil.
 
 **Lecturas relacionadas:**
@@ -90,6 +90,8 @@ Abans de parlar d'errors, és important entendre quin cost té un atac:
 
 ## Pla d'Acció: Implementació Pas a Pas
 
+Aquest pla s'alinea amb el [Marc de Ciberseguretat del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"}, que proporciona un enfocament estructurat per protegir sistemes:
+
 ### Mes 1: Fonaments (Cost: €200-500)
 1. Activa actualitzacions automàtiques en tots els sistemes
 2. Implementa un gestor de contrasenyes (Bitwarden, 1Password)
@@ -125,3 +127,5 @@ La **ciberseguretat a les pimes** no ha de ser complexa ni costosa. Evitar aques
 Invertir en **cultura de seguretat**, bones pràctiques i eines adequades no només protegeix el teu negoci, sinó també la confiança dels teus clients i socis. El viatge cap a una pime segura comença amb aquests primers passos.
 
 🔗 Vols saber per on començar? Fes el [test gratuït de ciberseguretat de GuardianHubX](https://guardianhubx.com/ca/test-ciberseguretat/) i descobreix en menys de 5 minuts el nivell de protecció de la teva empresa.
+
+> ⚠️ **Evita els 5 Errors Més Costosos** — Anàlisi + checklist + plan de correcció immediata.

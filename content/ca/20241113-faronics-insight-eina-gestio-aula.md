@@ -65,3 +65,5 @@ A GuardianHubX, hem integrat eines com Insight en el nostre paquet **[EduCraft](
 
 > **Interessat en una solució 360° per al teu centre educatiu?**
 > **[Contacta amb nosaltres](https://guardianhubx.com/ca/#contact) i descobreix tot el que el paquet EduCraft pot fer per tu.**
+
+> 👥 **Gestiona Aules Digitals Segures** — Control total + protección para entornos educativos.

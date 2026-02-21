@@ -72,3 +72,5 @@ A GuardianHubX, veiem la gestió de llicències no com una despesa, sinó com un
 
 > **Vols deixar de preocupar-te per la gestió de llicències i enfocar-te a fer créixer el teu negoci?**
 > **[Contacta amb el nostre equip](https://guardianhubx.com/ca/#contact) i descobreix com podem ajudar-te a simplificar la gestió del teu programari.**
+
+> 📜 **Assegura el teu Compliment de Llicencies** — Auditoría gratuita + plan de actualización y ahorro.

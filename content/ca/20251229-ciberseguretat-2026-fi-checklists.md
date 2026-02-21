@@ -92,3 +92,5 @@ No esperis al gener per actualitzar la teva estratègia. Si vols sobreviure a l'
 2.  **Llei de Ciberresiliència (CRA):** Reglament per a productes amb elements digitals a la UE. [Font oficial](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act).
 3.  **FIDO Alliance:** L'estàndard industrial per matar les contrasenyes. [Intro to Passkeys](https://fidoalliance.org/passkeys/).
 4.  **Amenaces d'IA Agèntica:** Basat en informes de prospectiva com l'*ENISA Threat Landscape 2024*.
+
+> ✅ **Tanca l'Any amb Seguretat** — Checklist final + plan para 2026.

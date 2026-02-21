@@ -18,7 +18,7 @@ description: Descobreix com una plataforma de gestió centralitzada com la de Gu
   respon als desafiaments d'eficiència, seguretat i optimització de recursos dels
   CIOs i CTOs.
 cover:
-  image: panel-gestion-parches-remota.webp
+  image: uploads/panel-gestion-parches-remota.webp
   alt: Plataforma de gestió centralitzada per a CIOs i CTOs
   width: 1024
   height: 640
@@ -59,3 +59,5 @@ La plataforma de GuardianHubX es presenta com una solució integral que satisfà
 
 > **Vols simplificar les teves operacions i augmentar la seguretat i l'eficiència del teu departament de TI?**
 > **[Contacta amb el nostre equip](https://guardianhubx.com/ca/#contact) i descobreix tot el que la nostra plataforma pot fer per tu.**
+
+> 🖥️ **Optimitza la teva Gestió de TI Avui** — Descubre cómo automatizar tu infraestructura y reducir costos operativos.

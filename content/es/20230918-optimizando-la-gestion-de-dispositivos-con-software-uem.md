@@ -17,7 +17,7 @@ title: Optimizando la Gestión de Dispositivos con Software UEM
 description: Exploramos qué es el software de Gestión de Dispositivos Unificados (UEM),
   por qué es esencial y cómo puede beneficiar a tu empresa.
 cover:
-  image: panel-gestion-parches-remota.webp
+  image: uploads/panel-gestion-parches-remota.webp
   alt: Gestión unificada de endpoints (UEM) para dispositivos
   width: 1024
   height: 640
@@ -60,5 +60,6 @@ En un mundo empresarial impulsado por la movilidad, el UEM se ha convertido en u
 
 En GuardianHubX, nuestros paquetes de soluciones (`LightCore`, `SmartLayer` e `IronWall`) encarnan los principios del UEM, ofreciendo una gestión unificada, segura y eficiente para empresas de todos los tamaños. Simplificamos la complejidad para que puedas centrarte en tu negocio.
 
-> **¿Quieres descubrir cómo una solución de gestión unificada puede transformar tu empresa?**
-> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y te mostraremos cómo podemos ayudarte.**
+> 📱 **Gestiona Dispositivos Móviles de Forma Segura** — Implementa UEM y reduce riesgos de seguridad en tu empresa.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y te mostraremos cómo podemos ayudarte.**

@@ -92,3 +92,5 @@ A GuardianHubX, simplifiquem la ciberseguretat per a les PIMES a través de solu
 
 > **Vols reforçar la seguretat de la teva empresa sense complicacions?**
 > **[Contacta amb el nostre equip](https://guardianhubx.com/ca/#contact) i descobreix com podem ajudar-te a protegir el teu negoci.**
+
+> 🔒 **Enforteix la teva Infraestructura de TI** — 10 mejores prácticas + plan de implementación para tu empresa.

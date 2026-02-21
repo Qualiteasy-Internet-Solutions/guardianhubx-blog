@@ -132,3 +132,7 @@ No existe un único vector, por eso necesitas defensa en capas:
 Nuestra misión es ayudarte a anticiparte a las amenazas y construir entornos digitales seguros, resilientes y confiables. Si quieres evaluar los riesgos de tu empresa o implementar soluciones de protección avanzadas, [contacta con nosotros](https://guardianhubx.com/es/#contact).
 
 **¿Sabes cuáles son los vectores de ataque que amenazan tu negocio?** No esperes a que sea demasiado tarde.
+
+> 🎯 **Bloquea Vectores de Ataque Before They Strike** — Comprehensive defense strategy.
+>
+> **[→ Identifica tus Vectores de Ataque (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación de seguridad + plan de mitigación.

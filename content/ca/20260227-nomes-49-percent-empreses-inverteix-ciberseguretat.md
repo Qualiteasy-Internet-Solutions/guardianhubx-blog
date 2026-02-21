@@ -91,3 +91,5 @@ A **GuardianHubX** ajudem les organitzacions a:
 Si la teva empresa vol deixar de reaccionar i començar a anticipar-se, [pots posar-te en contacte amb el nostre equip](https://guardianhubx.com/ca/#contact).
 
 La ciberseguretat no és una opció. És una decisió estratègica.
+
+> 💡 **Justifica Inversió en Ciberseguretat** — Datos del mercado + ROI + plan de presupuesto.

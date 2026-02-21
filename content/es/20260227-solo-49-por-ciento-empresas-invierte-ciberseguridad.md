@@ -92,3 +92,6 @@ Si tu empresa quiere dejar de reaccionar y empezar a anticiparse, [puedes ponert
 
 
 La ciberseguridad no es una opción. Es una decisión estratégica.
+> 💡 **Justifica Inversión en Ciberseguridad** — Datos del mercado + ROI + plan de presupuesto.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

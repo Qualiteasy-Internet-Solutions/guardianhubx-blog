@@ -107,3 +107,6 @@ En GuardianHubX ayudamos a organizaciones y profesionales a identificar **nuevos
 Si quieres analizar cómo estos cambios pueden afectar a tu empresa, tu proyecto o tus usuarios, estamos aquí para ayudarte.
 
 👉 **Puedes ponerte en contacto con nuestro equipo a través de este formulario:** [https://guardianhubx.com/es/#contact](https://guardianhubx.com/es/#contact)
+> ⚠️ **Evalúa Riesgos de IA en tu Negocio** — Desafíos de confianza + marco de riesgo + mitigación.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

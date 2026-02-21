@@ -53,7 +53,7 @@ Estos equipos hacen la vida más fácil: permiten controlar accesos, optimizar c
 
 ## Cómo proteger tu empresa frente a estos riesgos
 
-Aunque pueda parecer complejo, con unas buenas prácticas básicas puedes reducir drásticamente la superficie de ataque:
+Aunque pueda parecer complejo, con unas buenas prácticas básicas puedes reducir drásticamente la superficie de ataque. El [Marco de Ciberseguridad del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"} proporciona guías específicas para IoT. Aquí están las medidas más importantes:
 
 1.  **Cambia siempre las contraseñas por defecto**
     Utiliza claves robustas y únicas para cada dispositivo, gestionadas desde un gestor de contraseñas seguro.
@@ -73,11 +73,13 @@ Aunque pueda parecer complejo, con unas buenas prácticas básicas puedes reduci
 ## La importancia de una estrategia global
 Los dispositivos IoT pueden ser una gran ventaja competitiva para tu negocio, pero también un punto débil si no se gestionan adecuadamente.
 
-La clave es integrarlos dentro de una **estrategia global de ciberseguridad**: desde la gestión de contraseñas hasta el cifrado de comunicaciones y la realización de [copias de seguridad](https://guardianhubx.com/es/objetivos-ciberseguridad/) fiables.
+La clave es integrarlos dentro de una **estrategia global de ciberseguridad**: desde la gestión de contraseñas hasta el cifrado de comunicaciones y la realización de [copias de seguridad](https://guardianhubx.com/es/objetivos-ciberseguridad/) fiables. Los [CIS Controls](https://www.cisecurity.org/cis-controls/){: target="_blank" rel="noopener"} proporcionan un conjunto de mejores prácticas priorizadas para proteger los dispositivos conectados.
 
 En GuardianHubX ayudamos a autónomos y pymes a proteger todos sus activos digitales, incluidos los dispositivos IoT, para que puedan aprovechar la innovación con la tranquilidad de estar seguros.
 
 🔗 ¿Quieres saber cómo blindar la seguridad de tu empresa?
 [Ponte en contacto con nosotros](https://guardianhubx.com/es/#contact) y te ayudamos a proteger tu negocio.
 
---------------
+> 🔌 **Asegura tu Red IoT Completamente** — Auditoría + segmentación + cifrado + monitoreo 24/7.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

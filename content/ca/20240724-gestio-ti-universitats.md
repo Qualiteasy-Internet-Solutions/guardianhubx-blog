@@ -68,3 +68,5 @@ Faronics Cloud Deep Freeze ofereix a les universitats una solució potent i comp
 
 > **Vols optimitzar la gestió tecnològica de la teva universitat i garantir un entorn segur?**
 > **[Contacta amb el nostre equip](https://guardianhubx.com/ca/#contact) i descobreix com podem transformar la teva infraestructura de TI.**
+
+> 🎓 **Transforma la TI de la teva Universitat** — Gestió centralitzada + seguretat + aprenentatge sense interrupcions.

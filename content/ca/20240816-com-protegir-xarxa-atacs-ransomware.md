@@ -7,7 +7,7 @@ draft: false
 description: Com protegir la teva xarxa d'atacs ransomware. Estratègies defensives,
   còpies segures i recuperació de dades en cas d'atac.
 cover:
-  image: Education-Ransomware.jpg
+  image: uploads/Education-Ransomware.jpg
   alt: Protecció de xarxa contra atacs ransomware
   width: 1024
   height: 640
@@ -24,7 +24,7 @@ translationKey: ransomware-network-protection-2024
 ---
 
 
-El ransomware està empitjorant. Per a qualsevol alt directiu, és un dels riscos més grans que existeixen. Aquest tipus de programari maliciós us impedeix accedir a les vostres dades o sistemes fins que pagueu un rescat. Pot paralitzar empreses, escoles i hospitals. Com que els ciberdelinqüents es tornen més intel·ligents i els atacs són cada cop més freqüents, és crucial implementar mesures de seguretat sòlides.
+El ransomware està empitjorant. Per a qualsevol alt directiu, és un dels riscos més grans que existeixen. Segons l'[INCIBE](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}, aquest tipus de programari maliciós us impedeix accedir a les vostres dades o sistemes fins que pagueu un rescat. Pot paralitzar empreses, escoles i hospitals. Com que els ciberdelinqüents es tornen més intel·ligents i els atacs són cada cop més freqüents, és crucial implementar mesures de seguretat sòlides.
 
 **Lecturas relacionadas:**
 - [La Solució de Gestió Integral per a CIOs i CTOs](/blog/plataforma-gestio-per-a-cios-ctos/)
@@ -39,7 +39,7 @@ Davant del canviant panorama d'amenaces, les organitzacions han de romandre aler
 
 ## Com pot ajudar Faronics Cloud Deep Freeze
 
-Faronics Cloud Deep Freeze proporciona una protecció excepcionalment sòlida contra el ransomware a través d'una poderosa seguretat per capes. Cada capa per si sola redueix dràsticament el risc; totes juntes et permetran dormir tranquil a la nit.
+Faronics Cloud Deep Freeze proporciona una protecció excepcionalment sòlida contra el ransomware a través d'una poderosa seguretat per capes. Aquest enfocament s'alinea amb el [Marc de Ciberseguretat del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"}, que recomana defenses multicapa. Cada capa per si sola redueix dràsticament el risc; totes juntes et permetran dormir tranquil a la nit.
 
 ## 1. Gestió Automatitzada de Pedaços
 El ransomware sovint entra als sistemes a través de vulnerabilitats sense pedaços. Faronics Cloud Deep Freeze automatitza aquest procés, garantint que tot el seu programari estigui sempre actualitzat i estalviant una gran quantitat de temps al seu equip de TI.
@@ -62,3 +62,5 @@ A mesura que els atacs de ransomware es tornen més sofisticats, les organitzaci
 
 > **Descobreix el poder de Faronics Cloud Deep Freeze en acció.**
 > **[Registra't al nostre pròxim seminari web i protegeix la teva xarxa avui mateix.](https://faronicscloud.com/es/pages/eventos/?dl=BRUYN)**
+
+> 🛡️ **Protege tu Red contra Ransomware Hoy** — Obtén orientación experta + estrategia de protección.

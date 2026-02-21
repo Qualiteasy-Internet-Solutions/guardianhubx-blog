@@ -93,3 +93,5 @@ Un dels grans beneficis de Prey és la seva fàcil implementació:
 Invertir en una eina com **Prey Project** no només protegeix els teus actius digitals, sinó que transmet confiança a clients i empleats. Demostra que la teva empresa prioritza la ciberseguretat... fins i tot quan el sol estreny.
 
 👉 [Descobreix com Prey es pot integrar a la teva organització](https://guardianhubx.com/ca/preyproject/) o [contacta'ns](https://guardianhubx.com/ca/#contact) per començar.
+
+> ☀️ **Assegura Dispositius en Teletreball d'Estiu** — Protección remota + localización + recuperación de datos.

@@ -62,3 +62,5 @@ A GuardianHubX, els nostres paquets de seguretat com **LightCore** i **SmartLaye
 
 > **Vols anar de vacances amb la seguretat que la teva empresa està protegida?**
 > **[Contacta amb el nostre equip](https://guardianhubx.com/ca/#contact) i descobreix la solució que millor s'adapta a les teves necessitats.**
+
+> 🎄 **Protegeix el teu Negoci en Dates Clau** — Checklist de seguridad para campañas y períodos de alto riesgo.

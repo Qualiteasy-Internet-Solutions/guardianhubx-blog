@@ -25,7 +25,7 @@ translationKey: cybersecurity-terms-guide-2024
 ---
 
 
-En el mundo digital, cada día escuchamos más sobre ciberataques y ciberseguridad. Con la creciente cantidad de información, es importante estar familiarizado con los términos clave. En esta guía de GuardianHubX, exploraremos algunos de los conceptos más importantes para entender las amenazas y cómo protegernos.
+En el mundo digital, cada día escuchamos más sobre ciberataques y ciberseguridad. Con la creciente cantidad de información, es importante estar familiarizado con los términos clave. El [Marco de Ciberseguridad del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"} proporciona estándares reconocidos mundialmente para estos términos. En esta guía de GuardianHubX, exploraremos algunos de los conceptos más importantes para entender las amenazas y cómo protegernos.
 
 **Lecturas relacionadas:**
 - [La creciente amenaza de los ciberataques en España: claves para una ciberresiliencia efectiva](/blog/ciberataques-espana-ciberresiliencia/)
@@ -58,7 +58,7 @@ Es una técnica de manipulación psicológica para obtener información confiden
 
 ## 6. Exploits
 
-Un exploit es un ataque que aprovecha una vulnerabilidad en un sistema o software. Mantener los sistemas actualizados, como se gestiona en nuestros paquetes de seguridad, es crucial para prevenirlos.
+Un exploit es un ataque que aprovecha una vulnerabilidad en un sistema o software. Según el [OWASP Top 10](https://owasp.org/www-project-top-ten/){: target="_blank" rel="noopener"}, muchas vulnerabilidades explotables se pueden prevenir con prácticas seguras de desarrollo y mantenimiento. Mantener los sistemas actualizados, como se gestiona en nuestros paquetes de seguridad, es crucial para prevenirlos.
 
 ## 7. Zero-Day
 
@@ -90,5 +90,6 @@ Entender estos términos es el primer paso. El segundo, y más importante, es im
 
 En GuardianHubX, simplificamos esta complejidad con nuestros paquetes de soluciones. Desde la protección esencial de **LightCore**, pasando por la capa avanzada de datos e identidad de **SmartLayer**, hasta la fortaleza perimetral de **IronWall**, hemos diseñado un ecosistema para que tu empresa esté segura sin que tengas que ser un experto en cada uno de estos términos.
 
-> **¿Quieres dejar de preocuparte por el significado de estas amenazas y empezar a prevenirlas?**
-> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y descubre qué paquete de seguridad se adapta mejor a tu negocio.**
+> 📚 **Domina la Terminología de Ciberseguridad** — Comprende amenazas + protégete efectivamente.
+>
+> **[→ Descarga el Glosario Completo de Ciberseguridad](https://guardianhubx.com/es/#contact)** — Guía gratuita con 50+ términos esenciales.

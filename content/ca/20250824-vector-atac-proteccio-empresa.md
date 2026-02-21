@@ -101,3 +101,5 @@ En moltes ocasions, l'esglaó més feble no és la tecnologia, sinó el **factor
 La nostra missió és ajudar-te a anticipar-te a les amenaces i construir entorns digitals segurs, resilients i fiables. Si vols avaluar els riscos de la teva empresa o implementar solucions de protecció avançades, [contacta amb nosaltres](https://guardianhubx.com/ca/#contact).
 
 **Saps quins són els vectors d'atac que amenacen el teu negoci?** No esperis que sigui massa tard.
+
+> 🎯 **Bloquea Vectores de Ataque Before They Strike** — Comprehensive defense strategy.

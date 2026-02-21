@@ -69,3 +69,5 @@ Si el 2025 va ser l'any de la IA generativa, el 2026 serà l'any de la **IA Aut�
 Gràcies per confiar en **GuardianHubX**.
 
 **El teu propòsit d'any nou és dormir tranquil? [Parlem avui mateix](https://guardianhubx.com/ca/#contact).**
+
+> 📊 **Aprèn de l'Any en Ciberseguretat** — Resumen 2025 + lecciones + tendencias 2026.

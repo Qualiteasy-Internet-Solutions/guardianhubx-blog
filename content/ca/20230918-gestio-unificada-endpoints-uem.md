@@ -17,7 +17,7 @@ title: Optimitzant la Gestió de Dispositius amb Programari UEM
 description: Explorem què és el programari de Gestió de Dispositius Unificats (UEM),
   per què és essencial i com pot beneficiar la teva empresa.
 cover:
-  image: panel-gestion-parches-remota.webp
+  image: uploads/panel-gestion-parches-remota.webp
   alt: Gestió unificada d'endpoints (UEM) per a dispositius
   width: 1024
   height: 640
@@ -62,3 +62,5 @@ A GuardianHubX, els nostres paquets de solucions (`LightCore`, `SmartLayer` i `I
 
 > **Vols descobrir com una solució de gestió unificada pot transformar la teva empresa?**
 > **[Contacta amb el nostre equip](https://guardianhubx.com/ca/#contact) i et mostrarem com podem ajudar-te.**
+
+> 📱 **Gestiona Dispositius Mòbils de Forma Segura** — Implementa UEM y reduce riesgos de seguridad en tu empresa.

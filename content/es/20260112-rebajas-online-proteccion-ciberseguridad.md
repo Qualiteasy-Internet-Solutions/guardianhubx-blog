@@ -87,3 +87,6 @@ Porque la mejor compra que puedes hacer es no convertirte en la próxima víctim
 En GuardianHubX te ayudamos a blindar tu entorno digital para que las amenazas actuales no interrumpan tu actividad ni comprometan tus datos. 
 
 👉 [Ponte en contacto con nosotros](https://guardianhubx.com/es/#contact) y te ayudaremos a proteger tu identidad digital.
+> 🛍️ **Compra Online de Forma Segura** — Consejos + herramientas + protección en rebajas.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

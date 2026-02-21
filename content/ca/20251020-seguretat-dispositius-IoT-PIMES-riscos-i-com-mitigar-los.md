@@ -53,7 +53,7 @@ Aquests equips fan la vida més fàcil: permeten controlar accessos, optimitzar 
 
 ## Com protegir la teva empresa davant d'aquests riscos
 
-Encara que pugui semblar complex, amb unes bones pràctiques bàsiques pots reduir dràsticament la superfície d'atac:
+Encara que pugui semblar complex, amb unes bones pràctiques bàsiques pots reduir dràsticament la superfície d'atac. El [Marc de Ciberseguretat del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"} proporciona guies específiques per a IoT. Els [CIS Controls](https://www.cisecurity.org/cis-controls/){: target="_blank" rel="noopener"} ofereixen les millors pràctiques prioritzades. Aquí estan les mesures més importants:
 
 1.  **Canvia sempre les contrasenyes per defecte**
     Utilitza claus robustes i úniques per a cada dispositiu, gestionades des d'un gestor de contrasenyes segur.
@@ -81,3 +81,5 @@ A GuardianHubX ajudem autònoms i pimes a protegir tots els seus actius digitals
 [Posa't en contacte amb nosaltres](https://guardianhubx.com/ca/#contact) i t'ajudem a protegir el teu negoci.
 
 --------------
+
+> 🔌 **Assegura la teva Xarxa IoT Completament** — Auditoria + segmentació + xifrat + monitoreo 24/7.

@@ -66,3 +66,5 @@ A GuardianHubX, hem estructurat les nostres solucions en paquets que creen aques
 
 > **Et preocupa com les noves tècniques d'evasió poden afectar la teva organització?**
 > **[Contacta amb el nostre equip](https://guardianhubx.com/ca/#contact) i descobreix com podem ajudar-te a construir una defensa robusta contra les amenaces impulsades per IA.**
+
+> 🤖 **Domina la Detecció de Amenaces amb IA** — Anticipa-t a tècniques d'evasió en evolució.

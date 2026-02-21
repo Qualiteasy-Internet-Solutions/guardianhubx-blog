@@ -39,7 +39,7 @@ En aquest article t’expliquem els principals riscos que afronten les pimes i q
 
 ## Per què la ciberseguretat també és essencial per a les pimes?
 
-Hi ha un fals mite: *"Els hackers només ataquen grans empreses"*. La realitat és molt diferent. Segons estudis recents, més del 60% dels ciberatacs a Espanya tenen com a objectiu pimes o autònoms, precisament per ser els més vulnerables.
+Hi ha un fals mite: *"Els hackers només ataquen grans empreses"*. La realitat és molt diferent. Segons dades de l'[INCIBE (Institut Nacional de Ciberseguretat)](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}, més del 60% dels ciberatacs a Espanya tenen com a objectiu pimes o autònoms, precisament per ser els més vulnerables.
 
 Entre els principals motius:
 
@@ -69,7 +69,9 @@ El fet de no disposar d’autenticació multifactor o segmentació d’accessos 
 
 ## Solucions de ciberseguretat per a pimes sense equip tècnic
 
-1. **Utilitza eines de seguretat gestionades (SaaS)**  
+Segons el [Marc de Ciberseguretat del NIST](https://www.nist.gov/cyberframework){: target="_blank" rel="noopener"}, una estratègia integral ha de combinar identificació, protecció i detecció d’amenaces. Aquí et presentem les solucions més pràctiques per a pimes:
+
+1. **Utilitza eines de seguretat gestionades (SaaS)**
    Hi ha solucions al núvol assequibles i fàcils d’utilitzar, que no requereixen configuració avançada: antivirus cloud, gestors de contrasenyes i VPN per protegir accessos remots.
 
 2. **Còpia de seguretat automatitzada**  
@@ -105,3 +107,5 @@ No disposar d’un departament de TI no és excusa. La protecció de dades i sis
 
 📌 **Vols ajuda personalitzada?**  
 Des de GuardianHubX oferim solucions adaptades a petites empreses, amb enfocament preventiu i escalable. [Contacta’ns](https://guardianhubx.com/ca/#contact).
+
+> 🏢 **Protege tu Pyme sin Equipo de TI Dedicado** — Seguridad práctica y asequible.

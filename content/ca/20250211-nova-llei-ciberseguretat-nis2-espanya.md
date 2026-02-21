@@ -18,7 +18,7 @@ title: 'Directiva NIS2 i la Nova Llei de Ciberseguretat: El que la teva Empresa 
 description: La Directiva NIS2 transforma el panorama de la ciberseguretat a Espanya.
   Descobreix a quines empreses afecta, les seves obligacions i com complir la normativa.
 cover:
-  image: ciberseguridad-2026-paradigma.webp
+  image: uploads/ciberseguridad-2026-paradigma.webp
   alt: 'Nova llei de ciberseguretat 2025: NIS2 i compliment'
   width: 1024
   height: 640
@@ -50,7 +50,7 @@ A més, sectors com serveis postals, gestió de residus, fabricació de producte
 
 ## Obligacions per a les empreses
 
-Les entitats afectades hauran d'adoptar un enfocament basat en la gestió de riscos, la qual cosa implica:
+Segons l'[Autoritat de Protecció de Dades Espanyoles (AEPD)](https://www.aepd.es){: target="_blank" rel="noopener"}, les entitats afectades hauran d'adoptar un enfocament basat en la gestió de riscos, la qual cosa implica:
 
 -   Fer avaluacions de riscos de ciberseguretat.
 -   Implementar **mesures tècniques i organitzatives** per protegir les seves xarxes i sistemes.
@@ -65,7 +65,7 @@ El règim sancionador previst és sever, amb multes que poden arribar **fins a 1
 
 ## Com et pot ajudar GuardianHubX a complir amb la NIS2?
 
-Complir amb la NIS2 requereix un ecosistema de seguretat cohesionat. A GuardianHubX, hem dissenyat paquets de solucions que s'alineen directament amb els requisits de la directiva, creant múltiples capes de defensa:
+Complir amb la NIS2 requereix un ecosistema de seguretat cohesionat. Per a orientació tècnica, consulta els recursos d'[INCIBE sobre ciberseguretat empresarial](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}. A GuardianHubX, hem dissenyat paquets de solucions que s'alineen directament amb els requisits de la directiva, creant múltiples capes de defensa:
 
 1.  **Seguretat del Perímetre i la Xarxa (IronWall):** El primer pas és protegir la xarxa d'accessos no autoritzats i amenaces externes. El nostre paquet [**IronWall**](https://guardianhubx.com/ca/ironwall/) està dissenyat per enfortir el perímetre digital de la teva organització.
 
@@ -81,3 +81,5 @@ La Directiva NIS2 no és només una obligació legal; és una oportunitat perqu�
 
 > **No deixis que la nova normativa t'agafi per sorpresa.**
 > **[Contacta amb els nostres experts en ciberseguretat](https://guardianhubx.com/ca/#contact) per a una avaluació i assegura el teu compliment.**
+
+> ⚖️ **Compleix NIS2 sense Complicacions** — Auditoria + plan de compliment + certificació experta.

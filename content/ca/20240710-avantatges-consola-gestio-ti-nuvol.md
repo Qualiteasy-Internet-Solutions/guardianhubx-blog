@@ -70,3 +70,5 @@ En definitiva, una consola de gestió al núvol és el sistema nerviós d'una es
 
 > **Vols descobrir com una gestió centralitzada pot transformar la teva infraestructura de TI?**
 > **[Contacta amb el nostre equip](https://guardianhubx.com/ca/#contact) i sol·licita una demostració de la nostra plataforma.**
+
+> ☁️ **Gestiona TI des del Núvol** — Beneficios probados + migración paso a paso.

@@ -18,7 +18,7 @@ title: 'Directiva NIS2 y la Nueva Ley de Ciberseguridad: Lo que tu Empresa Debe 
 description: La Directiva NIS2 transforma el panorama de la ciberseguridad en España.
   Descubre a qué empresas afecta, sus obligaciones y cómo cumplir la normativa.
 cover:
-  image: ciberseguridad-2026-paradigma.webp
+  image: uploads/ciberseguridad-2026-paradigma.webp
   alt: 'Nueva ley de ciberseguridad 2025: NIS2 y cumplimiento'
   width: 1024
   height: 640
@@ -50,7 +50,7 @@ Además, sectores como servicios postales, gestión de residuos, fabricación de
 
 ## Obligaciones para las empresas
 
-Las entidades afectadas deberán adoptar un enfoque basado en la gestión de riesgos, lo que implica:
+Según la [Autoridad de Protección de Datos Españolas (AEPD)](https://www.aepd.es){: target="_blank" rel="noopener"}, las entidades afectadas deberán adoptar un enfoque basado en la gestión de riesgos, lo que implica:
 
 -   Realizar evaluaciones de riesgos de ciberseguridad.
 -   Implementar **medidas técnicas y organizativas** para proteger sus redes y sistemas.
@@ -65,7 +65,7 @@ El régimen sancionador previsto es severo, con multas que pueden alcanzar **has
 
 ## ¿Cómo puede GuardianHubX ayudarte a cumplir con NIS2?
 
-Cumplir con la NIS2 requiere un ecosistema de seguridad cohesionado. En GuardianHubX, hemos diseñado paquetes de soluciones que se alinean directamente con los requisitos de la directiva, creando múltiples capas de defensa:
+Cumplir con la NIS2 requiere un ecosistema de seguridad cohesionado. Para orientación técnica, consulta los recursos de [INCIBE sobre ciberseguridad empresarial](https://www.incibe.es/empresas){: target="_blank" rel="noopener"}. En GuardianHubX, hemos diseñado paquetes de soluciones que se alinean directamente con los requisitos de la directiva, creando múltiples capas de defensa:
 
 1.  **Seguridad del Perímetro y la Red (IronWall):** El primer paso es proteger la red de accesos no autorizados y amenazas externas. Nuestro paquete [**IronWall**](https://guardianhubx.com/es/ironwall/) está diseñado para fortalecer el perímetro digital de tu organización.
 
@@ -78,6 +78,6 @@ Cumplir con la NIS2 requiere un ecosistema de seguridad cohesionado. En Guardian
 ## Conclusión
 
 La Directiva NIS2 no es solo una obligación legal; es una oportunidad para que las empresas eleven su nivel de madurez en ciberseguridad. Ignorar esta normativa no es una opción debido a las altas sanciones y al riesgo reputacional. Actuar ahora es clave para garantizar la continuidad del negocio y proteger los activos digitales.
-
-> **No dejes que la nueva normativa te pille por sorpresa.**
-> **[Contacta con nuestros expertos en ciberseguridad](https://guardianhubx.com/es/#contact) para una evaluación y asegura tu cumplimiento.**
+> ⚖️ **Cumple NIS2 sin Complicaciones** — Auditoría + plan de cumplimiento + certificación experta.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.

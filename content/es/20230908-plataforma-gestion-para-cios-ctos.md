@@ -18,7 +18,7 @@ description: Descubre cómo una plataforma de gestión centralizada como la de G
   responde a los desafíos de eficiencia, seguridad y optimización de recursos de los
   CIOs y CTOs.
 cover:
-  image: panel-gestion-parches-remota.webp
+  image: uploads/panel-gestion-parches-remota.webp
   alt: Plataforma de gestión centralizada para CIOs y CTOs
   width: 1024
   height: 640
@@ -74,5 +74,6 @@ El cumplimiento normativo es una prioridad. Nuestra plataforma facilita la tarea
 
 La plataforma de GuardianHubX se presenta como una solución integral que satisface las necesidades críticas de los CIOs y CTOs. Con funcionalidades que abordan la gestión centralizada, la automatización, la seguridad avanzada y la optimización de recursos, se convierte en una herramienta esencial para liderar equipos tecnológicos de manera efectiva en un entorno empresarial en constante evolución.
 
-> **¿Quieres simplificar tus operaciones y aumentar la seguridad y la eficiencia de tu departamento de TI?**
-> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y descubre todo lo que nuestra plataforma puede hacer por ti.**
+> 🖥️ **Optimiza tu Gestión de TI Hoy** — Descubre cómo automatizar tu infraestructura y reducir costos operativos.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.> **[Contacta con nuestro equipo](https://guardianhubx.com/es/#contact) y descubre todo lo que nuestra plataforma puede hacer por ti.**

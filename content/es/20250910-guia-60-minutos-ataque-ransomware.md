@@ -121,3 +121,7 @@ Sin embargo, la mejor defensa está en la **prevención**:
 
 🔗 ¿Quieres saber si tu empresa está preparada frente al ransomware?  
 Haz el [test gratuito de ciberseguridad de GuardianHubX](https://guardianhubx.com/es/test-ciberseguridad/) y descubre en menos de 5 minutos tu nivel de protección digital.
+
+> ⏰ **Responde a Ataques de Ransomware in 60 Minutes** — Proven incident response framework.
+>
+> **[→ Descarga Plan de Respuesta a Ransomware (Gratis)](https://guardianhubx.com/es/#contact)** — Guía paso a paso + consulta experta.

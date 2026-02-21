@@ -60,8 +60,8 @@ Faronics Insight es una herramienta increíblemente poderosa por sí sola. Pero 
 
 En GuardianHubX, hemos integrado herramientas como Insight en nuestro paquete **[EduCraft](https://guardianhubx.com/es/formacion-phishing-software/)**, una solución completa diseñada específicamente para centros educativos que cubre desde la gestión del aula hasta la seguridad de los dispositivos y la formación en ciberseguridad para el personal.
 
-> **¿Quieres transformar tu aula con Faronics Insight?**
-> **[Haz clic aquí para más información sobre el producto.](https://www.esfaronics.com/tienda/producto/INSPLSN.INED./1/faronics-insight-educacion)**
-
+> 👥 **Gestiona Aulas Digitales Seguras** — Control total + protección para entornos educativos.
+>
+> **[→ Contacta con Nosotros (Gratis)](https://guardianhubx.com/es/#contact)** — Evaluación personalizada + plan de acción.
 > **¿Interesado en una solución 360° para tu centro educativo?**
 > **[Contacta con nosotros](https://guardianhubx.com/es/#contact) y descubre todo lo que el paquete EduCraft puede hacer por ti.**
