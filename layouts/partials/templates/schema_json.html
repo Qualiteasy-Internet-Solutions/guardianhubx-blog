@@ -42,40 +42,23 @@
 }
 </script>
 {{- else if (or .IsPage .IsSection) }}
-{{/* BreadcrumbList */}}
-{{- $url := replace .Parent.Permalink ( printf "%s" site.Home.Permalink) "" }}
-{{- $lang_url := strings.TrimPrefix ( printf "%s/" .Lang) $url }}
-{{- $bc_list := (split $lang_url "/")}}
-
-{{- $scratch := newScratch }}
+{{/* BreadcrumbList - simplified for flat blog structure */}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-  {{- range $index, $element := $bc_list }}
-
-    {{- $scratch.Add "path" (printf "%s/" $element ) | safeJS }}
-    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
-
-    {{- if (and ($bc_pg) (gt (len . ) 0))}}
-    {{- if (and $index)}}, {{end }}
     {
       "@type": "ListItem",
-      "position": {{ add 1 $index  }},
-      "name": {{ $bc_pg.Name | jsonify }},
-      "item": {{ $bc_pg.Permalink | jsonify }}
-    }
-    {{- end }}
-
-  {{- end }}
-  {{- /*  self-page addition  */ -}}
-  {{- if (ge (len $bc_list) 2) }}, {{end }}
+      "position": 1,
+      "name": "Blog",
+      "item": "{{ site.Home.Permalink }}"
+    },
     {
       "@type": "ListItem",
-      "position": {{len $bc_list}},
-      "name": {{ .Name | jsonify }},
-      "item": {{ .Permalink | jsonify }}
+      "position": 2,
+      "name": "{{ .Name | safeJS }}",
+      "item": "{{ .Permalink }}"
     }
   ]
 }
