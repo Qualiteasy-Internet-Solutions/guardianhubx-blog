@@ -88,3 +88,4 @@ SEO is handled by PaperMod's `head.html` partial (in the theme, not overridden l
 - ALWAYS use Haiku model for simple tasks.
 - ASK for permission before running broad audits or reading more than 5 files.
 - WARNING: We are on a tight token budget. Be concise.
+- **DO NOT auto-commit changes** — User will commit manually. Only stage changes with `git add` and prepare commit messages if requested.
